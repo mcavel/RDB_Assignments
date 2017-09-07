@@ -23,7 +23,7 @@ About 25% of total purchases were made by repeat customers.
 #import 
 import pandas as pd
 import numpy as np
-rawpurchasedata = "purchase_data_2.json"
+rawpurchasedata = "purchase_data.json"
 sales_data = pd.read_json(rawpurchasedata)
 
 
@@ -72,7 +72,7 @@ pc_df
   <tbody>
     <tr>
       <th>0</th>
-      <td>581</td>
+      <td>74</td>
     </tr>
   </tbody>
 </table>
@@ -138,10 +138,10 @@ pa_df[['Number of Unique Items','Average Price','Number of Purchases','Total Rev
   <tbody>
     <tr>
       <th>0</th>
-      <td>178</td>
-      <td>$3.03</td>
-      <td>780</td>
-      <td>$2365.17</td>
+      <td>63</td>
+      <td>$2.92</td>
+      <td>78</td>
+      <td>$228.10</td>
     </tr>
   </tbody>
 </table>
@@ -389,43 +389,43 @@ age_demo2_f
   <tbody>
     <tr>
       <th>10-14</th>
-      <td>3.61%</td>
-      <td>21</td>
+      <td>4.05%</td>
+      <td>3</td>
     </tr>
     <tr>
       <th>15-19</th>
-      <td>17.73%</td>
-      <td>103</td>
+      <td>14.86%</td>
+      <td>11</td>
     </tr>
     <tr>
       <th>20-24</th>
-      <td>39.59%</td>
-      <td>230</td>
+      <td>45.95%</td>
+      <td>34</td>
     </tr>
     <tr>
       <th>25-29</th>
-      <td>18.07%</td>
-      <td>105</td>
-    </tr>
-    <tr>
-      <th>30-34</th>
-      <td>8.09%</td>
-      <td>47</td>
-    </tr>
-    <tr>
-      <th>35-39</th>
-      <td>7.06%</td>
-      <td>41</td>
-    </tr>
-    <tr>
-      <th>40+</th>
-      <td>1.38%</td>
+      <td>10.81%</td>
       <td>8</td>
     </tr>
     <tr>
+      <th>30-34</th>
+      <td>8.11%</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <th>35-39</th>
+      <td>8.11%</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <th>40+</th>
+      <td>1.35%</td>
+      <td>1</td>
+    </tr>
+    <tr>
       <th>&lt;10</th>
-      <td>4.48%</td>
-      <td>26</td>
+      <td>6.76%</td>
+      <td>5</td>
     </tr>
   </tbody>
 </table>
