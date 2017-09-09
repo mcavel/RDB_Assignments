@@ -133,6 +133,54 @@ mt3.head()
 
 
 ```python
+value_list_u=['Urban']
+value_list_s=['Suburban']
+value_list_r=['Rural']
+mt2_U=mt2[mt2['City Type'].isin(value_list_u)]
+mt2_S=mt2[mt2['City Type'].isin(value_list_s)]
+mt2_R=mt2[mt2['City Type'].isin(value_list_r)]
+
+plt.title("Pyber Ride Sharing Data(2016)")
+plt.xlabel("Total Number of Rides (Per City)")
+plt.ylabel("Average Fare($)")
+
+
+x_limit_max = mt2['Total Number of Rides'].max()
+y_limit_max= mt2['Average Fare'].max()
+x_limit_min = mt2['Total Number of Rides'].min()
+y_limit_min= mt2['Average Fare'].min()
+
+x_axis_U = mt2_U["Total Number of Rides"]
+y_axis_U = mt2_U["Average Fare"]
+x_axis_S = mt2_S["Total Number of Rides"]
+y_axis_S = mt2_S["Average Fare"]
+x_axis_R = mt2_R["Total Number of Rides"]
+y_axis_R = mt2_R["Average Fare"]
+
+a=plt.scatter(x_axis_U, y_axis_U, marker="o", facecolors="#f08080", edgecolors="black",
+             s=mt2_U['Total Number of Drivers']*20, alpha=0.55 ,label="Urban")
+b= plt.scatter(x_axis_S, y_axis_S, marker="o", facecolors="#87cefa", edgecolors="black",
+             s=mt2_S['Total Number of Drivers']*20, alpha=0.55,label="Suburban")
+c=plt.scatter(x_axis_R, y_axis_R, marker="o", facecolors="#FFDF00", edgecolors="black",
+             s=mt2_R['Total Number of Drivers']*20, alpha=0.55,label="Rural")
+
+plt.xlim(-1, x_limit_max+3)
+plt.ylim(y_limit_min-5, y_limit_max+2)
+
+lgnd=plt.legend(loc="upper right", title="City Type", fontsize=12)
+for handle in lgnd.legendHandles:
+    handle.set_sizes([110])
+
+plt.show()
+```
+
+
+![png](output_5_0.png)
+
+
+
+```python
+#although less code is required for seaborn; scaling is not accurate across city types
 #color palette list
 
 #color list using Seaborn
@@ -155,7 +203,7 @@ plt.show()
 ```
 
 
-![png](output_5_0.png)
+![png](output_6_0.png)
 
 
 <h3>Total Fares by City Type</h3>
@@ -183,7 +231,7 @@ plt.show()
 ```
 
 
-![png](output_7_0.png)
+![png](output_8_0.png)
 
 
 <h3>Total Rides by City Type</h3>
@@ -205,7 +253,7 @@ plt.show()
 ```
 
 
-![png](output_9_0.png)
+![png](output_10_0.png)
 
 
 <h3>Total Drivers by City Type</h3>
@@ -231,7 +279,7 @@ plt.show()
 ```
 
 
-![png](output_11_0.png)
+![png](output_12_0.png)
 
 
 
