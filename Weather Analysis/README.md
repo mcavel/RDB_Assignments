@@ -42,9 +42,8 @@ maxtemp=[]
 url_list=[]
 recordcount=0
 setcount=1
-# fc44486eb35f3bcb68068442135a879b
-#a650ca642d57c48e0605307301338198
-api_key = "fc44486eb35f3bcb68068442135a879b"
+
+api_key = "#######################################"
 url = "http://api.openweathermap.org/data/2.5/weather?"
 ```
 
