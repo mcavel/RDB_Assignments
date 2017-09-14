@@ -44,7 +44,7 @@ url_list=[]
 recordcount=0
 setcount=1
 
-api_key = "######################"
+api_key = "bc982a6944deb93291f24dca61c487b9"
 url = "http://api.openweathermap.org/data/2.5/weather?"
 ```
 
