@@ -1,13 +1,15 @@
 
 <h1>News Sentiment Analysis</h1>
 
+<img src="nsa.jpg", align="left">  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 <h3><i>Trends</i></h3>
 ***
 <ul>
 
-<li><b><u>General Sentiment of Media Tweets</b></u>:   Overall, most tweets for all media soruces, tend to be neutral.
-<li><b><u>CNN Overall Tweet Polarity</b></u>  Based on the Vader Sentiment Analysis, CNN tends to have the most neutral tweets(compared to BBC, CBS, FoxNews, and New York Times).</li>
-<li><b><u>BBC Overall Tweet Polarity</b></u>  Based on the Vader Sentiment Analysis, BBC tends to tweet negative updates.</li>
+<li><b><u>General Sentiment of Media Tweets</b></u>:   Overall, most tweets for all media sources, tend to be neutral based on a -1 to 1 scale.
+<li><b><u>CNN Overall Tweet Polarity</b></u>  Based on the Vader Sentiment Analysis, CNN tweets trend positive(compared to BBC, CBS, FoxNews, and New York Times).</li>
+<li><b><u>BBC Overall Tweet Polarity</b></u>  Based on the Vader Sentiment Analysis, BBC tweets trend negative.</li>
 </ul>
 
 
@@ -111,52 +113,52 @@ table_dict.head()
   <tbody>
     <tr>
       <th>0</th>
-      <td>09/18/2017</td>
+      <td>09/21/2017</td>
       <td>BBC News (UK)</td>
-      <td>0.769</td>
-      <td>0.0</td>
-      <td>Nerf guns can lead to serious eye injuries, do...</td>
-      <td>-0.1779</td>
+      <td>0.686</td>
+      <td>0.000</td>
+      <td>House of Lords rejects 'flawed' expenses repor...</td>
+      <td>-0.4939</td>
       <td>100</td>
     </tr>
     <tr>
       <th>1</th>
-      <td>09/18/2017</td>
+      <td>09/21/2017</td>
       <td>BBC News (UK)</td>
-      <td>0.652</td>
-      <td>0.0</td>
-      <td>Housing money wasted 'propping up rents' https...</td>
-      <td>-0.4939</td>
+      <td>0.446</td>
+      <td>0.000</td>
+      <td>Boy, 17, arrested over Tube attack https://t.c...</td>
+      <td>-0.7351</td>
       <td>99</td>
     </tr>
     <tr>
       <th>2</th>
-      <td>09/18/2017</td>
+      <td>09/21/2017</td>
       <td>BBC News (UK)</td>
-      <td>0.738</td>
-      <td>0.0</td>
-      <td>Strictly Come Dancing: Judge Rinder rejects sa...</td>
-      <td>-0.4939</td>
+      <td>0.672</td>
+      <td>0.000</td>
+      <td>James Herbert death: Watchdog makes police res...</td>
+      <td>-0.5994</td>
       <td>98</td>
     </tr>
     <tr>
       <th>3</th>
-      <td>09/18/2017</td>
+      <td>09/20/2017</td>
       <td>BBC News (UK)</td>
-      <td>0.745</td>
-      <td>0.0</td>
-      <td>Fire crews tackle White Hart Lane blaze https:...</td>
-      <td>-0.3400</td>
+      <td>0.882</td>
+      <td>0.000</td>
+      <td>Quit smoking campaign Stoptobber backs e-cigs ...</td>
+      <td>-0.0516</td>
       <td>97</td>
     </tr>
     <tr>
       <th>4</th>
-      <td>09/18/2017</td>
+      <td>09/20/2017</td>
       <td>BBC News (UK)</td>
-      <td>1.000</td>
-      <td>0.0</td>
-      <td>UK 'biggest audience' in Europe for jihadist w...</td>
-      <td>0.0000</td>
+      <td>0.598</td>
+      <td>0.231</td>
+      <td>Chronic fatigue therapy 'could help teenagers'...</td>
+      <td>0.1779</td>
       <td>96</td>
     </tr>
   </tbody>
@@ -227,27 +229,27 @@ table_dict1
     <tr>
       <th>0</th>
       <td>BBC News (UK)</td>
-      <td>-0.158586</td>
+      <td>-0.156798</td>
     </tr>
     <tr>
       <th>1</th>
       <td>CBS News</td>
-      <td>0.028105</td>
+      <td>-0.068770</td>
     </tr>
     <tr>
       <th>2</th>
       <td>CNN</td>
-      <td>-0.014255</td>
+      <td>0.024572</td>
     </tr>
     <tr>
       <th>3</th>
       <td>Fox News</td>
-      <td>-0.031941</td>
+      <td>0.001959</td>
     </tr>
     <tr>
       <th>4</th>
       <td>The New York Times</td>
-      <td>-0.025146</td>
+      <td>-0.017140</td>
     </tr>
   </tbody>
 </table>

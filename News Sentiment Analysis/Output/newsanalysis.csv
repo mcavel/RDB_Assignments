@@ -1,560 +1,577 @@
 Date,Media Sources,Neutral,Positive,Text,Tweet Polarity,Tweets Ago
-09/18/2017,BBC News (UK),0.769,0.0,"Nerf guns can lead to serious eye injuries, doctors warn https://t.co/n9shn7dm6w",-0.1779,100
-09/18/2017,BBC News (UK),0.652,0.0,Housing money wasted 'propping up rents' https://t.co/WyWfkcdLQ5,-0.4939,99
-09/18/2017,BBC News (UK),0.738,0.0,Strictly Come Dancing: Judge Rinder rejects same-sex dance pairings https://t.co/EmB7V2GVBx,-0.4939,98
-09/18/2017,BBC News (UK),0.745,0.0,Fire crews tackle White Hart Lane blaze https://t.co/zY5UEafYZv,-0.34,97
-09/18/2017,BBC News (UK),1.0,0.0,UK 'biggest audience' in Europe for jihadist web content https://t.co/wDNtHzktyV,0.0,96
-09/18/2017,BBC News (UK),1.0,0.0,Scottish and Welsh plans to amend Brexit bill to be outlined https://t.co/o1WwURVKzP,0.0,95
-09/18/2017,BBC News (UK),0.403,0.0,Rochdale Council's child abuse failings 'unforgiveable' https://t.co/K6Ty5LldVK,-0.8126,94
-09/18/2017,BBC News (UK),0.752,0.248,"Tuesday's Sun: ""Facebook bans our heroes"" https://t.co/cx4HXyhzus #BBCPapers #tomorrowspaperstoday (via @AllieHBNews)",0.5106,93
-09/18/2017,BBC News (UK),0.69,0.0,"Tuesday's Times: ""Climate change disaster can be averted, say experts"" https://t.co/olbnFoKTQ8 #BBCPapers (via @AllieHBNews)",-0.6597,92
-09/18/2017,BBC News (UK),1.0,0.0,"Tuesday's Mirror: ""The shaming of Ryanair"" https://t.co/4kHVXwh6uN #BBCPapers #tomorrowspaperstoday (via @AllieHBNews)",0.0,91
-09/18/2017,BBC News (UK),1.0,0.0,"Tuesday's Express: ""May: I'm driving Britain out of EU"" https://t.co/9YaQCxvWgJ #BBCPapers (via @AllieHBNews)",0.0,90
-09/18/2017,BBC News (UK),1.0,0.0,"Tuesday's Star: ""Rooney just one pint from jail"" https://t.co/D7fsoBepef #BBCPapers #tomorrowspaperstoday (via @AllieHBNews)",0.0,89
-09/18/2017,BBC News (UK),1.0,0.0,"Tuesday's FT: ""May issues rebuke to Johnson and tightens grip on Brexit talks"" https://t.co/cBitQ0ct5u #BBCPapers (via @AllieHBNews)",0.0,88
-09/18/2017,BBC News (UK),1.0,0.0,"Tuesday's i: ""May vs Boris: PM takes back control"" https://t.co/dqkie9cxyx #BBCPapers #tomorrowspaperstoday (via @AllieHBNews)",0.0,87
-09/18/2017,BBC News (UK),1.0,0.0,"Tuesday's Metro: ""It's a flight old mess!""https://t.co/R8fD5kZdFN #BBCPapers #tomorrowspaperstoday (via @AllieHBNews)",0.0,86
-09/18/2017,BBC News (UK),0.649,0.0,"RT @BBCSport: ""I could feel the vibrations go through my body.""
+09/21/2017,BBC News (UK),0.686,0.0,House of Lords rejects 'flawed' expenses report https://t.co/opJE2dOIo2,-0.4939,100
+09/21/2017,BBC News (UK),0.446,0.0,"Boy, 17, arrested over Tube attack https://t.co/PqJRSN1WWR",-0.7351,99
+09/21/2017,BBC News (UK),0.672,0.0,James Herbert death: Watchdog makes police restraint recommendations https://t.co/ASRD8T1Bqr,-0.5994,98
+09/20/2017,BBC News (UK),0.882,0.0,Quit smoking campaign Stoptobber backs e-cigs for first time https://t.co/VC4ZA8kogX,-0.0516,97
+09/20/2017,BBC News (UK),0.598,0.231,"Chronic fatigue therapy 'could help teenagers', study says https://t.co/b7TODa2Dgh",0.1779,96
+09/20/2017,BBC News (UK),0.504,0.496,Nine in 10 GPs rated good or outstanding https://t.co/4natrp95V2,0.7845,95
+09/20/2017,BBC News (UK),0.809,0.0,"Thursday's Times: ""UN is failing the world, May tells global leaders"" #tomorrowspaperstoday (via @BBCHelenaLee) https://t.co/VP8O7HcXdZ",-0.5106,94
+09/20/2017,BBC News (UK),0.696,0.0,"Thursday's Mirror: ""Crime Lords"" #tomorrowspaperstoday #bbcpapers (via @BBCHelenaLee) https://t.co/9PUo1Hbo6V",-0.5423,93
+09/20/2017,BBC News (UK),0.558,0.298,"Thursday's Mail: ""Shame of care homes that just don't care"" #tomorrowspaperstoday #bbcpapers (via @BBCHelenaLee) https://t.co/kFzakhMs94",0.5106,92
+09/20/2017,BBC News (UK),1.0,0.0,"Thursday's Guardian: ""May hits out at US 'threat' to climate treaty"" #tomorrowspaperstoday (via @BBCHelenaLee) https://t.co/Ky9Y36Z8f9",0.0,91
+09/20/2017,BBC News (UK),1.0,0.0,"Thursday's Star: ""Rooney has to give up the booze"" #tomorrowspaperstoday #bbcpapers (via @BBCHelenaLee) https://t.co/7Ckj3fnoJz",0.0,90
+09/20/2017,BBC News (UK),1.0,0.0,"Thursday's Sun: ""Dubai Brit faces jail for finger salute"" #tomorrowspaperstoday #bbcpapers (via @BBCHelenaLee) https://t.co/HOxZeLwvDQ",0.0,89
+09/20/2017,BBC News (UK),0.562,0.0,"Thursday's i: ""Death by dangerous cycling"" #tomorrowspaperstoday #bbcpapers (via @BBCHelenaLee) https://t.co/4dzWdBvaj0",-0.7906,88
+09/20/2017,BBC News (UK),1.0,0.0,"Thursday's Express: ""May's big push for EU exit"" #tomorrowspaperstoday #bbcpapers (via @BBCHelenaLee)  https://t.co/SckgG5CIi3",0.0,87
+09/20/2017,BBC News (UK),0.847,0.153,"Thursday's Telegraph: ""Treasury 'talking down Brexit'"" #tomorrowspaperstoday #bbcpapers (via @BBCHelenaLee) https://t.co/ZzYgCmPfBQ",0.2023,86
+09/20/2017,BBC News (UK),1.0,0.0,"Thursday's Metro: ""Ry-Unfair"" #tomorrowspaperstoday #bbcpapers (via @BBCHelenaLee) https://t.co/TeJLZMQEn0",0.0,85
+09/20/2017,BBC News (UK),1.0,0.0,"Thursday's FT:""Fed calls historic end to crisis-era QE and signals further rate rise"" #bbcpapers (via @BBCHelenaLee) https://t.co/z61ChM8Fuz",0.0,84
+09/20/2017,BBC News (UK),0.526,0.246,UK threatens to withhold United Nations funding https://t.co/14skjk76f8,0.0516,83
+09/20/2017,BBC News (UK),0.787,0.213,Cathedral defends decision to allow Hellboy filming https://t.co/lcFx67d8DG,0.2263,82
+09/20/2017,BBC News (UK),0.738,0.262,"Court ruling not needed to withdraw care, judge says https://t.co/UjDAnevlR2",0.4939,81
+09/20/2017,BBC News (UK),0.678,0.0,"The RAF has killed more than 3,000 IS fighters in Iraq and Syria https://t.co/fr4inOLvoM",-0.6908,80
+09/20/2017,BBC News (UK),1.0,0.0,RT @BBCEngland: A raid on a three-bedroom house in north west London found 35 men living in rooms full of mattresses https://t.co/M0sY6IOVl…,0.0,79
+09/20/2017,BBC News (UK),0.82,0.094,"RT @BBCWorld: UK PM Theresa May says UN Security Council members must exert ""the pressure we know is necessary"" on North Korea https://t.co…",0.0516,78
+09/20/2017,BBC News (UK),0.561,0.218,Theresa May praises resilience of British people after terror attacks &amp; is met by applause at UN General Assembly… https://t.co/qUqNLoJh26,-0.0258,77
+09/20/2017,BBC News (UK),1.0,0.0,RAF heads off Russian jets near Scotland https://t.co/OM6RFzunpP,0.0,76
+09/20/2017,BBC News (UK),1.0,0.0,Queensbury raid uncovers 35 men living in house https://t.co/38dmY6PnaK,0.0,75
+09/20/2017,BBC News (UK),0.909,0.091,"RT @5liveSport: How well have the FA handled the Mark Sampson situation?
 
-Adam Hollioake was caught up in a suicide bomb attack.
+Chief executive Martin Glenn feels it has been ""positive""
 
-Read more https://…",-0.8957,85
-09/18/2017,BBC News (UK),0.877,0.0,RT @bbcweather: Another chilly one tonight with low single figures in some rural spots. Nick https://t.co/XkF3k3TC7w,-0.2732,84
-09/18/2017,BBC News (UK),0.803,0.106,RT @BBCPanorama: These woman paid $25k to be smuggled to Europe. Watch to find out how they keep their money safe from robbers #bbcpanorama…,0.1027,83
-09/18/2017,BBC News (UK),1.0,0.0,"Now on @BBCOne. 
+https:…",0.2732,74
+09/20/2017,BBC News (UK),0.824,0.0,Thomas Cook pilots to strike on Saturday https://t.co/q2PIotRKXy,-0.128,73
+09/20/2017,BBC News (UK),0.722,0.0,Ryanair compensation info 'woefully short' says Which? https://t.co/3EJEazv8go,-0.4019,72
+09/20/2017,BBC News (UK),1.0,0.0,RT @BBCSport: FA chief executive Martin Glenn explains why England women's manager Mark Sampson was sacked ➡️ https://t.co/6pWTWQkcP2 https…,0.0,71
+09/20/2017,BBC News (UK),0.842,0.0,"Mark Sampson has been sacked following evidence of ""inappropriate &amp; unacceptable"" behaviour in a previous role - FA  https://t.co/XkRIXhTk8z",-0.4588,70
+09/20/2017,BBC News (UK),0.769,0.095,"RT @danroan: BREAKING: FA sack Mark Sampson over ""inappropriate &amp; unacceptable behaviour"" after safeguarding allegations from when at Brist…",-0.2263,69
+09/20/2017,BBC News (UK),0.34,0.0,Rochdale abuse victims fear they will die before inquiry ends https://t.co/JS3girwses,-0.9274,68
+09/20/2017,BBC News (UK),1.0,0.0,UK scientists edit DNA of human embryos https://t.co/2EIhH8F2Uy,0.0,67
+09/20/2017,BBC News (UK),1.0,0.0,"PM to host meetings with other world leaders and Facebook, Microsoft and Twitter at UN general assembly https://t.co/2EISznA5P2",0.0,66
+09/20/2017,BBC News (UK),0.797,0.0,"RT @BBCWorld: ""It never achieved popularity with creators or users"" https://t.co/7K0pgYzSiD",-0.3724,65
+09/20/2017,BBC News (UK),0.806,0.194,"RT @bbcgetinspired: Surfing superhero 
 
-@BBCPanorama on Africa's migrant trade https://t.co/sDYZCznTHP",0.0,82
-09/18/2017,BBC News (UK),0.455,0.0,"Police arrest ""road rage"" swan 🚔
+Ben wants to make surfing accessible to everyone. 
 
-https://t.co/xlQ4zLUpnP https://t.co/ezoTd5spZz",-0.7184,81
-09/18/2017,BBC News (UK),0.678,0.0,RT @BBCNewsbeat: A Narcos location scout has been killed in central Mexico. Just how dangerous is it there? https://t.co/VHxaz3pYbq,-0.8225,80
-09/18/2017,BBC News (UK),0.786,0.147,"RT @BBCJLandale: Boris pool interview: 
-""Do you enjoy being Foreign Secretary?"" 
-""Of course.""
-""Are you going to miss it?""
-""(laughs nervousl…",0.4515,79
-09/18/2017,BBC News (UK),1.0,0.0,Ryanair to publish full list of cancellations https://t.co/uJxdsDsZHG,0.0,78
-09/18/2017,BBC News (UK),1.0,0.0,Cyclist Mark Beaumont breaks around the world record https://t.co/GZJXL4onnu,0.0,77
-09/18/2017,BBC News (UK),1.0,0.0,"""The UK government is driven from the front"" - Theresa May on claims Boris Johnson is ""back-seat driving"" on… https://t.co/y0MM4rT6jS",0.0,76
-09/18/2017,BBC News (UK),0.701,0.299,"RT @BBCNewsbeat: James ""Flex"" Lewis has matched Arnold Schwarzenegger's record of winning six #MrOlympia prizes. 
-💪🏽💪🏽💪🏽💪🏽💪🏽 https://t.co/g…",0.7506,75
-09/18/2017,BBC News (UK),0.84,0.0,Mark Carney says rate rises will be gradual and limited https://t.co/RE6Y1hIud1,-0.2263,74
-09/18/2017,BBC News (UK),0.571,0.0,Driver charged over Edinburgh hospital bus crash https://t.co/3YiHdPltZM,-0.5423,73
-09/18/2017,BBC News (UK),0.529,0.106,Rough sleeper 'set on fire and killed' in Tunbridge Wells car park https://t.co/yTbQ957vEt,-0.7096,72
-09/18/2017,BBC News (UK),1.0,0.0,Theresa May 'driving from front' on Brexit after Boris Johnson row https://t.co/U8XhyenJ9C,0.0,71
-09/18/2017,BBC News (UK),0.538,0.398,"""Yes it was short notice, yes it was unexpected and for that I sincerely apologise"" - @ryanair CEO on cancelling up… https://t.co/BnakN4xXx5",0.8519,70
-09/18/2017,BBC News (UK),0.75,0.13,"""What we have messed up is the allocation of holidays"" - @ryanair's Michael O'Leary on flight cancellations… https://t.co/EuYEjsoR62",0.0516,69
-09/18/2017,BBC News (UK),0.821,0.072,"RT @BBCNewsNI: Irishman Ibrahim Halawa cleared of charges in Egypt, after spending four years in jail 
- https://t.co/yoE2EsjZUF https://t.c…",-0.1779,68
-09/18/2017,BBC News (UK),0.333,0.22,NHS trust pleads guilty over teen's death https://t.co/Eo9vPBh5W9,-0.5267,67
-09/18/2017,BBC News (UK),0.872,0.0,"""He was quite quiet"" - owner of Hounslow takeaway where Parsons Green suspect Yahyah Farroukh works… https://t.co/HrqIsWUjRm",-0.296,66
-09/18/2017,BBC News (UK),0.69,0.0,"Husband of Kim Briggs calls for ""death by dangerous cycling"" law, as Charlie Alliston sentenced to 18 months in jai… https://t.co/xVV5KCVuRO",-0.7964,65
-09/18/2017,BBC News (UK),1.0,0.0,PM @theresa_may's visit comes ahead of a deal between Canada and the EU https://t.co/axw2O2ji4B,0.0,64
-09/18/2017,BBC News (UK),0.846,0.0,"RT @VictoriaLIVE: Animals are 'suffering and dying' while in transit across Europe, amid a booming livestock trade.
+This is a great story https://t.co/Dhzyy9qggy #…",0.6249,64
+09/20/2017,BBC News (UK),0.873,0.0,"RT @BBCr4today: Here are divers on a recently found 2000 year old wreck.
 
-More: https://t.co/u4S…",-0.4767,63
-09/18/2017,BBC News (UK),0.714,0.0,Pawel Zietowski jailed for M6 selfie and wheelies https://t.co/fB7SKIcm1i,-0.4939,62
-09/18/2017,BBC News (UK),0.761,0.0,Brexit: Oliver Robbins moves to No 10 https://t.co/b0yCaiqBcg,-0.296,61
-09/18/2017,BBC News (UK),0.62,0.256,RT @BBCTech: Uber sorry for 'Wife Appreciation Day' promotion https://t.co/nV9U8OCCbz,0.4033,60
-09/18/2017,BBC News (UK),0.821,0.179,Brexit: UK sets out details of proposed new EU security deal https://t.co/oMkKKCHF8l,0.34,59
-09/18/2017,BBC News (UK),1.0,0.0,"RT @bbclaurak: ""the thing you have to understand about him, is that he wants to be loved."" https://t.co/DCZV5Egsmu",0.0,58
-09/18/2017,BBC News (UK),0.36,0.0,Cyclist jailed over pedestrian death https://t.co/BiCkcUYsM9,-0.7964,57
-09/18/2017,BBC News (UK),0.795,0.0,"Parsons Green Tube attack: Footage of a person leaving a property with Lidl bag 
-https://t.co/MdNZfn6fhW",-0.4767,56
-09/18/2017,BBC News (UK),0.741,0.0,Why teaching is causing stress and sleepless nights https://t.co/I5rXDIcSUT,-0.4215,55
-09/18/2017,BBC News (UK),0.714,0.204,RT @BBC_HaveYourSay: Has your important flight been affected due to #Ryanair cancellations?  Share your stories https://t.co/cNFicwIYSb htt…,0.34,54
-09/18/2017,BBC News (UK),0.718,0.282,"""Boris Johnson is united behind government's plan for Brexit, @theresa_may values his contribution"" - PM spokeswoman https://t.co/Y277C76y1a",0.6705,53
-09/18/2017,BBC News (UK),1.0,0.0,Paddy Power offers 66/1 on Ugo Ehiogu replacing Redknapp https://t.co/4SkUOtKWEn,0.0,52
-09/18/2017,BBC News (UK),0.547,0.0,"Boy, seven, killed after cars collide in Wirral https://t.co/QPevmOmaHT",-0.7003,51
-09/18/2017,BBC News (UK),1.0,0.0,Africa's migrant trade: @BBCPanorama reveals the extraordinary scale of people-smuggling across sub-Saharan Africa… https://t.co/Y7HEZ3e8Ls,0.0,50
-09/18/2017,BBC News (UK),0.847,0.0,"RT @BBCBreaking: Wayne Rooney given two-year driving ban, and community order for 12 months with 100 hours of unpaid work https://t.co/s0za…",-0.5574,49
-09/18/2017,BBC News (UK),0.811,0.0,RT @BBCBreaking: Former England footballer Wayne Rooney pleads guilty to drink-driving charge https://t.co/cnKysms8iJ,-0.4215,48
-09/18/2017,BBC News (UK),0.726,0.0,"RT @bbc5live: ""Day after day after day, it does get to you""
+Listen back to the tale of the discovery https://t.co/mxItVfD0VO…",-0.4404,63
+09/20/2017,BBC News (UK),0.833,0.0,"RT @BBCWorld: Iran's president says Donald Trump's UN speech was ""ignorant, absurd"" and contained ""hateful rhetoric"" 
 
-#GE2017 was the 'worst ever' for politician abuse according to a 5 live survey…",-0.8519,47
-09/18/2017,BBC News (UK),0.682,0.0,Ryanair under pressure to publish full list of cancelled flights https://t.co/NT7A9v74X6,-0.4939,46
-09/18/2017,BBC News (UK),0.882,0.0,".@Ryanair has only published a list of affected flights up until this Wednesday
-https://t.co/dtl4O50he0",-0.1531,45
-09/18/2017,BBC News (UK),0.846,0.0,"RT @VictoriaLIVE: Animals are 'suffering and dying' while in transit across Europe, amid a booming livestock trade.
+https://t.co/dL3qiRx…",-0.4939,62
+09/20/2017,BBC News (UK),0.833,0.0,"RT @BBCEngland: McCain, which featured a gay couple and their son in a TV ad, says it is ""disappointed"" they received online abuse https://…",-0.6369,61
+09/20/2017,BBC News (UK),1.0,0.0,RT @BBCTech: A hidden golf game has been found on #NintendoSwitch https://t.co/zQpTMryXEB,0.0,60
+09/20/2017,BBC News (UK),0.796,0.0,Take Me Out star 'hanged himself after job loss' https://t.co/R7UYBgr4Bb,-0.3182,59
+09/20/2017,BBC News (UK),0.659,0.07,"RT @BBCEngland: The death of a four-year-old boy found hanged by his hooded top was an ""extraordinary"" accident, a coroner says https://t.c…",-0.7351,58
+09/20/2017,BBC News (UK),0.587,0.121,"RT @BBCWorld: Mexico quake: 
 
-More: https://t.co/u4S…",-0.4767,44
-09/18/2017,BBC News (UK),0.734,0.266,RT @BBCTech: Staying safe online at 'big school' https://t.co/BOIUt2sbkj,0.4404,43
-09/18/2017,BBC News (UK),1.0,0.0,PwC reveals black and Asian workers are paid 13% less https://t.co/s7RWiQftLX,0.0,42
-09/18/2017,BBC News (UK),1.0,0.0,Banksy: New murals pop up in central London https://t.co/4KA2VkbUG6,0.0,41
-09/18/2017,BBC News (UK),1.0,0.0,The new Banksy works appear in a tunnel near the Barbican Centre https://t.co/d0Gu0YAukB,0.0,40
-09/18/2017,BBC News (UK),0.923,0.0,"RT @BBCBusiness: On #BBCBizLive: As Ryanair continues to cancel 40-50 flights per day, are you put you off flying with them or is the price…",-0.25,39
-09/18/2017,BBC News (UK),0.798,0.0,Here's your morning news briefing: Tube bombing suspects questioned and Police ‘may work with paedophile hunters’ https://t.co/ePgYnrcDxB,-0.4215,38
-09/18/2017,BBC News (UK),1.0,0.0,Tim Farron: Tories 'breaking Britain over immigration' https://t.co/zsRMc6vYX1,0.0,37
-09/18/2017,BBC News (UK),1.0,0.0,Theresa May visits Canada for post-Brexit trade talks https://t.co/UTmZDAMoDs,0.0,36
-09/18/2017,BBC News (UK),0.549,0.451,"RT @BBCWorld: The #Emmys2017 for 'Best Outstanding Drama' goes to... 
+- More than 200 killed
+- 39 buildings collapse in Mexico City
+- Rescue continues  
 
-https://t.co/Zan61HZg8E https://t.co/VjGzFeiQq3",0.8481,35
-09/18/2017,BBC News (UK),0.602,0.398,"RT @BBCBreaking: Dystopian drama The Handmaid's Tale takes main Emmy award for best drama series, with Elisabeth Moss best actress https://…",0.9169,34
-09/18/2017,BBC News (UK),0.583,0.158,Have you got the wrong impression about schizophrenia? https://t.co/ceyhMEZieS,-0.296,33
-09/18/2017,BBC News (UK),0.479,0.219,'Kinder treatments in pipeline' for child brain cancer https://t.co/ODfK8OCbvF,-0.296,32
-09/18/2017,BBC News (UK),0.462,0.0,Parsons Green Tube bomb: Police still questioning suspects https://t.co/Xzeu746U4d,-0.7184,31
-09/18/2017,BBC News (UK),1.0,0.0,"RT @BBCNewsAsia: About last night... https://t.co/FrFUvW4PpS
+Latest updates: https://t…",-0.6872,57
+09/20/2017,BBC News (UK),0.254,0.11,University Challenge contestant denies rape https://t.co/IAvU0sFDZV,-0.802,56
+09/20/2017,BBC News (UK),0.531,0.0,Britain First leaders charged with religious harassment https://t.co/rCPWOQlVOy,-0.6486,55
+09/20/2017,BBC News (UK),0.562,0.0,McCain's dismay over online abuse for TV ad gay dads https://t.co/APztmF6ySd,-0.7906,54
+09/20/2017,BBC News (UK),0.882,0.0,Mark Sampson set to leave as England women's manager https://t.co/F9Xq3O68rQ,-0.0516,53
+09/20/2017,BBC News (UK),0.672,0.328,"RT @BBC_HaveYourSay: ""A huge wave of people emerged to help with the rescue effort"" after the Mexican  earthquake #FueraMexico https://t.co…",0.8074,52
+09/20/2017,BBC News (UK),0.881,0.0,"RT @BBCSport: Sergio Perez has donated £124,500 to victims of the earthquake in his native Mexico.
+https://t.co/V697xdKevA https://t.co/XQr…",-0.3182,51
+09/20/2017,BBC News (UK),0.658,0.0,"RT @bbc5live: 'I am going to die' @vicderbyshire on her immediate assumption following her cancer diagnosis
 
-🍾 @LewisHamilton
+#DearcancerloveVictoria #DearC…",-0.8519,50
+09/20/2017,BBC News (UK),0.883,0.117,"RT @BBCr4today: Meet Renee Glynne.
 
-#SingaporeGP 
-#f1nightrace 
-#F1
-#F1Singapore https://t.co/V…",0.0,30
-09/18/2017,BBC News (UK),1.0,0.0,Police 'may work with paedophile hunters' https://t.co/wD6hGnoJ22,0.0,29
-09/18/2017,BBC News (UK),0.741,0.0,Job stress is 'overwhelming' teachers across the UK https://t.co/Ev1ncDl1Fl,-0.4215,28
-09/18/2017,BBC News (UK),1.0,0.0,Wayne Rooney due in court on drink-driving charge https://t.co/CQKBQxJDEY,0.0,27
-09/17/2017,BBC News (UK),0.748,0.0,M5 reopens following four deaths in lorry crash https://t.co/rK9M9UPlrz,-0.4019,26
-09/17/2017,BBC News (UK),0.645,0.0,"Dame Tessa Jowell has brain cancer, family says https://t.co/Q5TF1p4n4w",-0.6597,25
-09/17/2017,BBC News (UK),0.447,0.275,"RT @BBCSport: The 'curse of Mayo' strikes.
+At 91 she's the most credited script supervisor of all time.
 
-Mayo lose an 11th straight All-Ireland Football Championship final.
+And... she's still working. #r4today http…",0.4201,49
+09/20/2017,BBC News (UK),1.0,0.0,"Scarborough boy Maison Hirstle, 4, 'hanged' by hoodie https://t.co/cBDd0VuFl6",0.0,48
+09/20/2017,BBC News (UK),1.0,0.0,M1 closure object 'possibly hydrochloric acid' https://t.co/0T6E4bJ73H,0.0,47
+09/20/2017,BBC News (UK),0.482,0.205,Rashan Charles death: Police officer not suspended https://t.co/OVFi6nwutm,-0.3283,46
+09/20/2017,BBC News (UK),0.69,0.18,"RT @BBCWorld: People formed human chains to reach others who were trapped.
 
-Joy for Dublin.
+Praise for those who helped after Mexico earthquake
 
-https://t…",-0.0258,24
-09/17/2017,BBC News (UK),0.761,0.0,Brexit: Boris Johnson accused of 'misusing' statistics https://t.co/QvqCcWfWZ4,-0.296,23
-09/17/2017,BBC News (UK),0.841,0.0,RT @BBCScotlandNews: Eight people hurt after bus crashes into overhead walkway at the Western General Hospital in Edinburgh https://t.co/C5…,-0.5267,22
-09/17/2017,BBC News (UK),0.769,0.0,Five injured after bus hits walkway at Edinburgh hospital https://t.co/VLYI1EPESl,-0.4019,21
-09/17/2017,BBC News (UK),1.0,0.0,Residents evacuated from Lee homes in 'chemical incident' https://t.co/Ytr65Fzhrx,0.0,20
-09/17/2017,BBC News (UK),1.0,0.0,RT @ChrisMasonBBC: Brexit and Boris Johnson. My analysis @BBCNews @BBCPolitics: https://t.co/n4RxCCaAAO,0.0,19
-09/17/2017,BBC News (UK),1.0,0.0,RT @BBCLondonNews: Residents evacuated from Lee homes in 'chemical incident' https://t.co/UfAmTmnLry https://t.co/CE49HwBDEh,0.0,18
-09/17/2017,BBC News (UK),1.0,0.0,Chelsea 0-0 Arsenal https://t.co/JcWz4GwwYI,0.0,17
-09/17/2017,BBC News (UK),0.522,0.276,Lewis Hamilton wins in Singapore after Ferrari crash https://t.co/eTRWANmecR,0.25,16
-09/17/2017,BBC News (UK),1.0,0.0,RT @BBCLondonNews: Grenfell Tower: A fireman's memories in poetry https://t.co/iBHiEfPULP https://t.co/F08731AZ6j,0.0,15
-09/17/2017,BBC News (UK),0.609,0.0,RT @BBCBreaking: UK terror threat level lowered to severe after being raised to highest level following Tube bombing - Home Secretary https…,-0.872,14
-09/17/2017,BBC News (UK),1.0,0.0,Mr Olympia bodybuilder 'Flex' Lewis matches Arnie's record https://t.co/pfz2VgoGlJ,0.0,13
-09/17/2017,BBC News (UK),0.5,0.0,Rashan Charles death: Police officer 'should be suspended' https://t.co/q6repoxT5x,-0.7906,12
-09/17/2017,BBC News (UK),0.745,0.0,"RT @BBCDomC: Parsons Green terror attack: Police cordon in Sunbury on Thames, partially lifted. House being searched still behind big barri…",-0.7579,11
-09/17/2017,BBC News (UK),0.734,0.0,"RT @BBCSport: It's chaos on the opening lap!
+https://t.…",0.0772,45
+09/20/2017,BBC News (UK),0.743,0.089,"RT @BBCWorld: #FuerzaMexico (strength to Mexico) was shared more than 1m times after the earthquake that killed more than 200 hit
 
-👉 https://t.co/rBochQx5Pa #bbcf1 #SingaporeGP https://t.co/GWRZsacJYz",-0.6114,10
-09/17/2017,BBC News (UK),0.824,0.0,RT @BBCEngland: A baby boy has been found abandoned in an east London park https://t.co/fAMPkhWlQv https://t.co/tDCpPLj4tK,-0.4588,9
-09/17/2017,BBC News (UK),0.887,0.113,"RT @bbcweather: Monday: Sunny spells and showers - most of the showers will be across England, Wales and E Scotland. Breezy down the east c…",0.4215,8
-09/17/2017,BBC News (UK),1.0,0.0,Vince Cable: I could become prime minister https://t.co/R6ewnCsNIW,0.0,7
-09/17/2017,BBC News (UK),0.431,0.0,Meningitis risk: Bereaved Omagh mum warns teenagers https://t.co/ANwvVpp67f,-0.6808,6
-09/17/2017,BBC News (UK),1.0,0.0,Majority of Scots say they are 'not religious' https://t.co/RLVNenJMG4,0.0,5
-09/17/2017,BBC News (UK),0.609,0.226,Ryanair cancels flights after 'messing up' pilot holidays https://t.co/PFp5gsnDBV,0.1779,4
-09/17/2017,BBC News (UK),1.0,0.0,"Live updates on the Parsons Green blast investigation 
+https://…",-0.4767,44
+09/20/2017,BBC News (UK),0.543,0.457,"""The best of British"" 🛳️🇬🇧
 
-https://t.co/ZDRX8ojJ1i https://t.co/xKBnBFZtRf",0.0,3
-09/17/2017,BBC News (UK),0.833,0.167,"RT @daily_politics: Boris Johnson's article was ""exuberant and written in classic Boris style"" says @DamianGreen adding ""he is an optimist""…",0.5859,2
-09/17/2017,BBC News (UK),0.849,0.151,RT @BBCEngland: An agriculture engineer asks for his girlfriend's hand in marriage by ploughing his proposal into a field 💍 https://t.co/SD…,0.4939,1
-09/19/2017,CBS News,0.823,0.0,A Georgia Tech student was shot dead over the weekend and now his family asks police why they used deadly force… https://t.co/HqXutRwxip,-0.6486,100
-09/19/2017,CBS News,0.67,0.258,Los Angeles residents demand state to help clean up soil contaminated with lead and other toxins… https://t.co/7pNjnq5xhz,0.5994,99
-09/19/2017,CBS News,1.0,0.0,"Merriam-Webster has added over 250 new words and definitions, including ""alt-right"" and ""sriracha""… https://t.co/uqZAjdFL02",0.0,98
-09/19/2017,CBS News,1.0,0.0,"NEW: Hurricane Maria has intensified to a Category 5 storm with 160 mph winds, according to @NHC_Atlantic.… https://t.co/cQUJtNvalp",0.0,97
-09/18/2017,CBS News,1.0,0.0,"JUST IN: Hurricane Maria becomes Category 5 storm as it nears the island of Dominica, @NHC_Atlantic says.",0.0,96
-09/18/2017,CBS News,0.878,0.122,"Inspired by the military parade he saw in France on Bastille Day, Pres. Trump said he wants to have one on July 4th… https://t.co/x27VrVRVyz",0.4939,95
-09/18/2017,CBS News,0.895,0.0,"After years of decline, global hunger is on the rise again, according to a new report from @WHO… https://t.co/a1pJx6YX3Y",-0.25,94
-09/18/2017,CBS News,1.0,0.0,"Pediatricians weighed in today on tattoos. Their message to kids"" ""think before you ink."" @DrLaPook has more. https://t.co/KWER7krYVR",0.0,93
-09/18/2017,CBS News,0.844,0.0,An investigation is underway in the fatal shooting of a Georgia Tech student over the weekend by campus police. Mar… https://t.co/NddJfN9KWx,-0.5423,92
-09/18/2017,CBS News,0.909,0.0,.@NancyPelosi was shouted down by dozens of protesters as she held a news conference in San Francisco to urge passa… https://t.co/lRPQYLYZYG,-0.2263,91
-09/18/2017,CBS News,1.0,0.0,.@jeffpeguescbs spoke with a journalist who once worked for a website at the center of allegations of Russian meddl… https://t.co/vnrcsnYbe6,0.0,90
-09/18/2017,CBS News,1.0,0.0,Russia's military made a dramatic show of force today with its biggest training maneuvers in years. @elizapalmer ha… https://t.co/Im5oRIx4ir,0.0,89
-09/18/2017,CBS News,0.859,0.0,Critically ill patients in St. Thomas are being airlifted out of Hurricane Maria's path after Irma devastation.… https://t.co/FAQaGqQi0K,-0.4215,88
-09/18/2017,CBS News,1.0,0.0,Hurricane Maria is a Category 4 storm and it's spinning toward the Caribbean islands. @ericfisher has more in his f… https://t.co/KWrlDFi1KV,0.0,87
-09/18/2017,CBS News,1.0,0.0,".@elizapalmer has a front row seat of some of the largest military exercises in Russia in years, coming up on… https://t.co/wuDt4Dcgjj",0.0,86
-09/18/2017,CBS News,0.86,0.14,"NEW: Trump attorney Michael Cohen will be testifying behind closed doors Tuesday before the Senate Intelligence Committee, CBS News confirms",0.4767,85
-09/18/2017,CBS News,1.0,0.0,"RT @CBSEveningNews: Here's a look at what's coming up #tonight on the #CBSEveningNews. @AnthonyMasonCBS is at our anchor desk. 
+https://t.co/SHUlQqUhZG",0.6369,43
+09/20/2017,BBC News (UK),0.871,0.0,"RT @bbc5live: They call it 'the most dangerous border on Earth'
 
-Tune in. h…",0.0,84
-09/18/2017,CBS News,0.905,0.0,TONIGHT on @CBSEveningNews: @CharlieCBS is at the suspected London bomber's home where we’ll learn more about his f… https://t.co/xQcFxHMKIG,-0.2263,83
-09/18/2017,CBS News,0.888,0.0,"DNA, a tipster, and a written confession led to arrest in '92 cold case slaying of Mass. teacher's aide Lisa Zieger… https://t.co/6uYJEeT9Dh",-0.34,82
-09/18/2017,CBS News,1.0,0.0,"RT @DavidBegnaud: Leaving St. Thomas for Puerto Rico; Many are staying. Again. Maria is coming. Some of the people who got out, on tonight'…",0.0,81
-09/18/2017,CBS News,0.885,0.115,"Shares of large toy manufacturers fell after reports that Toys ""R"" Us is set to declare bankruptcy… https://t.co/i3u9T6UTl9",0.296,80
-09/18/2017,CBS News,0.841,0.0,"NEW: Hurricane Maria becomes ""an extremely dangerous"" Category 4 storm, NHC says. Eye is expected to pass near Domi… https://t.co/VAJN0e6NkM",-0.5256,79
-09/18/2017,CBS News,0.834,0.166,".@dallascowboys not only are the NFL's most valuable franchise, they are the top-valued team in the world… https://t.co/RDviWUXJT3",0.5256,78
-09/18/2017,CBS News,0.903,0.097,"Defense Secretary James Mattis says more than 3,000 additional troops will deploy to Afghanistan… https://t.co/Y5any2QsNd",0.128,77
-09/18/2017,CBS News,0.865,0.0,"Sean Spicer says he ""absolutely"" regrets saying that Pres. Trump had largest inauguration crowd in history… https://t.co/q49ZVhT95S",-0.3612,76
-09/18/2017,CBS News,1.0,0.0,"Hurricane Maria, now a Category 3 storm, heads on path toward islands wrecked by Irma and then on to Puerto Rico… https://t.co/5AeW21ydJz",0.0,75
-09/18/2017,CBS News,0.575,0.119,The Cincinnati Zoo welcomes a new gorilla to their exhibit — one year after Harambe's tragic death. https://t.co/eOLomEJOlI,-0.6369,74
-09/18/2017,CBS News,0.798,0.202,"President Macron, in spirit of camaraderie, tells Pres. Trump ""our people"" were proud to have him and his wife visi… https://t.co/h90rNmom52",0.5859,73
-09/18/2017,CBS News,0.833,0.167,"Pres. Trump said he's considering having a parade down Pennsylvania Avenue to show off ""military strength"" similar… https://t.co/xHB0kBRMy7",0.4939,72
-09/18/2017,CBS News,0.823,0.177,NOW: Pres. Trump meets with French President Emmanuel Macron at the United Nations https://t.co/G3yp74iMrh,0.4215,71
-09/18/2017,CBS News,0.87,0.13,"Russia probe creates strife between White House counsel and Trump attorneys, report says https://t.co/hNirl42nYU https://t.co/ByYCRcLCSx",0.2732,70
-09/18/2017,CBS News,1.0,0.0,"Day before gubernatorial debate, poll finds Republican Ed Gillespie &amp; Democrat Ralph Northam are tied in Virginia… https://t.co/rcCr1VdqJk",0.0,69
-09/18/2017,CBS News,1.0,0.0,Dieting? Don't fall for these common misconceptions. Here's what you need to know. Presented by @GSK… https://t.co/LgKtjJDXYD,0.0,68
-09/18/2017,CBS News,0.936,0.064,The U.S. Navy plans to use Xbox 360 controllers to operate periscopes aboard its newer submarines… https://t.co/4yeweGCxJJ,0.0258,67
-09/18/2017,CBS News,0.829,0.0,Sunday night's Emmys repeatedly made history with records -- and barriers -- being broken https://t.co/hJ24zbHGUz https://t.co/jwUGrCm1b1,-0.4767,66
-09/18/2017,CBS News,0.85,0.15,Maria strengthens into Category 3 storm as it targets Caribbean; Jose heads northward off the U.S. East Coast… https://t.co/8HDDw9mkDn,0.4588,65
-09/18/2017,CBS News,1.0,0.0,"UN says two Americans being unjustly held in Iran is part of an ""emerging pattern"" https://t.co/3Fv6MxdPCa https://t.co/go1Ly5WOKa",0.0,64
-09/18/2017,CBS News,1.0,0.0,MOMENTS AGO: Pres. Trump meets with Israeli PM Netanyahu while in New York visiting the UN https://t.co/6CKOa75hIF https://t.co/ETKGYWpDJc,0.0,63
-09/18/2017,CBS News,0.905,0.0,"Police not identifying men held over London subway bomb, but they seem to have been fostered by same elderly couple… https://t.co/ZH1nbqK3Sn",-0.2732,62
-09/18/2017,CBS News,0.805,0.195,"Sean Spicer gave some viewers a chuckle with his surprise #Emmys cameo, but others weren't laughing… https://t.co/tLa2nigdFa",0.34,61
-09/18/2017,CBS News,0.73,0.0,Body of missing 22-year-old woman found in car after alleged fight with ex-boyfriend  https://t.co/ktQURbgH0h https://t.co/Bv0q54Z5se,-0.5859,60
-09/18/2017,CBS News,0.851,0.149,Hurricane Maria strengthened into a Category 3 storm on Monday and pushed toward islands in the eastern Caribbean… https://t.co/Ltr7v1ShKt,0.4215,59
-09/18/2017,CBS News,0.85,0.15,RT @CBSNewsRadio: We're celebrating the 90th Anniversary of CBS. Check out this look back on the history of our network. #CBS90 https://t.c…,0.5719,58
-09/18/2017,CBS News,0.619,0.0,Irma's destruction renewed fears about how to manage Florida's population boom as climate change risks intensify… https://t.co/C3h0v7hhf9,-0.8225,57
-09/18/2017,CBS News,0.885,0.0,NEW: Hurricane Maria is now a Category 3 storm with winds up to 120 mph as it threatens to hit the Caribbean… https://t.co/TqoFw6ZaNQ,-0.3818,56
-09/18/2017,CBS News,1.0,0.0,"""Start with what you know,"" Former First Lady Laura Bush offers advice to the spouses of world leaders… https://t.co/lCI6wcipow",0.0,55
-09/18/2017,CBS News,0.819,0.181,"""There are many analysts who say you are the greatest quarterback of all time. How do you rank yourself?""… https://t.co/EYPMNBQgma",0.6369,54
-09/18/2017,CBS News,0.564,0.0,"Family lawyer of Scout Schultz, student killed at Georgia Tech, says campus police overreacted by killing student… https://t.co/lLDB0MxRgU",-0.9118,53
-09/18/2017,CBS News,0.559,0.441,"“I am confident that if we work together and champion truly bold reforms, the UN will emerge as a stronger...force… https://t.co/1dartJLfAE",0.9118,52
-09/18/2017,CBS News,0.778,0.222,“We commend the secretary general and his call for the United Nations to focus more on people and less on bureaucra… https://t.co/yd3RwHV2DY,0.6908,51
-09/18/2017,CBS News,1.0,0.0,WATCH: Pres. Trump speaks at UN reform meeting in New York City. Monday kicks off a week of meetings at the UN… https://t.co/yc7gxRoS6x,0.0,50
-09/18/2017,CBS News,0.653,0.236,"Tom Brady tells @NorahODonnell he credits softer, less dense muscles with helping him avoid injuries… https://t.co/Ds7TAMBrgj",0.3612,49
-09/18/2017,CBS News,0.769,0.0,"A NATO military leader says Russia's military exercise resembles ""preparation for a big war"" https://t.co/VlsSvNauCt https://t.co/1YcAX8mu8t",-0.5994,48
-09/18/2017,CBS News,1.0,0.0,"N. Korea's nuclear program is a major focus at the UN, where Pres. Trump starts a weeklong series of meetings Monda… https://t.co/sfXCAXpnXg",0.0,47
-09/18/2017,CBS News,0.794,0.206,Senate expected to pass $700 billion defense policy bill that in part expands missile defense in response to N Kore… https://t.co/qka5g8aJwD,0.34,46
-09/18/2017,CBS News,0.885,0.115,.@KHOU reporter Brandi Smith led first responders to a stranded semi-truck driver during Harvey. She shares their r… https://t.co/btXMTHAQc1,0.296,45
-09/18/2017,CBS News,0.694,0.306,"“There’s a slight sigh of relief because you don’t feel so absolutely responsible all the time,” @laurawbush says o… https://t.co/NRSC48IiSF",0.7245,44
-09/18/2017,CBS News,1.0,0.0,"RT @CBSThisMorning: What is your message to other first ladies?
-“Come with what you know,” says @Laurawbush https://t.co/9Fn4vdlPic",0.0,43
-09/18/2017,CBS News,1.0,0.0,"“It was a way to bring attention to...the way women were treated,” @laurawbush says on U.S-Afghan Women's council https://t.co/78fd4zodbA",0.0,42
-09/18/2017,CBS News,0.841,0.0,"U.S. flew warplanes over Korean Peninsula in drills with S. Korea &amp; Japan, 3 days after N. Korea fired missile… https://t.co/0UcOwOC5N0",-0.5574,41
-09/18/2017,CBS News,1.0,0.0,“Many of the First Ladies around the world I know were business women already...and can bring a lot to their countr… https://t.co/8j58QTGmX9,0.0,40
-09/18/2017,CBS News,1.0,0.0,"Former First Lady Laura Bush wants world leaders' spouses to realize their power. On @CBSThisMorning, she discusses… https://t.co/QaNW0duMak",0.0,39
-09/18/2017,CBS News,1.0,0.0,Here is a look at some of today's headlines on @CBSThisMorning: https://t.co/CKXbtcOxzq,0.0,38
-09/18/2017,CBS News,1.0,0.0,"Former First Lady @laurawbush is in the @CBSThisMorning greenroom. Ahead, she will discuss her mission to empower… https://t.co/7dfnOEmXYV",0.0,37
-09/18/2017,CBS News,1.0,0.0,New England Patriots quarterback Tom Brady tells @NorahODonnell his performance at age 40 is due to a unique fitnes… https://t.co/XsQ3k7eF3c,0.0,36
-09/18/2017,CBS News,0.792,0.0,Hundreds of officers in full riot gear respond to a 3rd day of protests in St. Louis and more than 80 were arrested… https://t.co/91MOc8A6rd,-0.6705,35
-09/18/2017,CBS News,1.0,0.0,Tom Brady says he has staying power in the NFL. Ahead on @CBSThisMorning: what he reveals to @NorahODonnell about p… https://t.co/vh4w9rUm7f,0.0,34
-09/18/2017,CBS News,0.823,0.177,"Ray Dalio is the found of one of the world’s most successful hedge funds, Bridgewater. He joins @CBSThisMorning to… https://t.co/QQ9mCjA77x",0.624,33
-09/18/2017,CBS News,0.783,0.111,"AHEAD: Ray Dalio, founder of the world’s largest hedge fund joins @CBSThisMorning to discuss how giving critical fe… https://t.co/RLLCcbmqYB",0.0258,32
-09/18/2017,CBS News,0.826,0.174,History was made at the Emmys. Julia Louis-Dreyfus holds the record for most wins by a performer in a single role… https://t.co/7uqhwgIs5D,0.6115,31
-09/18/2017,CBS News,1.0,0.0,"Pres. Trump starts a week of meetings today at the UN General Assembly, and he will address the assembly Tuesday fo… https://t.co/jlClz71o2l",0.0,30
-09/18/2017,CBS News,0.738,0.0,Georgia Tech student fatally shot by campus police Saturday after they say the student refused to put down a knife… https://t.co/Wklh5B1Bts,-0.7506,29
-09/18/2017,CBS News,0.845,0.155,AHEAD on @CBSThisMorning: How television is breaking barriers and the message from some of the Emmy honorees about… https://t.co/5c4gzSFzvb,0.5106,28
-09/18/2017,CBS News,0.793,0.207,"40-year-old Tom Brady may be playing better than athletes half his age. Ahead on @CBSThisMorning, Brady opens up to… https://t.co/x3m2RtjW3k",0.5719,27
-09/18/2017,CBS News,0.87,0.13,Six people returned from a simulated mission on Mars. The crew spent 8 months on an active volcano in Hawaii… https://t.co/FCgfmjF5dP,0.4019,26
-09/18/2017,CBS News,0.748,0.252,"In surprise Emmy moment, Former White House spokesman Sean Spicer pokes fun at inauguration crowd size claims… https://t.co/FfMEF5NyCS",0.6597,25
-09/18/2017,CBS News,1.0,0.0,A NATO military leader is raising new concerns about Russia’s massive military exercise underway in Eastern Europe… https://t.co/4ZxaTDNTfo,0.0,24
-09/18/2017,CBS News,1.0,0.0,Four American college students studying abroad are recovering after being sprayed by acid in France… https://t.co/Jr0s7Y9gdV,0.0,23
-09/18/2017,CBS News,1.0,0.0,Georgia investigators are looking into a deadly police shooting on the Georgia Tech campus https://t.co/mShj3sAfwT https://t.co/30y3n7YYHt,0.0,22
-09/18/2017,CBS News,1.0,0.0,Here’s a look at some of this morning’s other headlines on @CBSThisMorning: https://t.co/OQB12hT61n,0.0,21
-09/18/2017,CBS News,0.75,0.25,Two top executives are out at Equifax after the massive data breach of personal information of 143 million people… https://t.co/wRYj8M6hBi,0.7184,20
-09/18/2017,CBS News,1.0,0.0,AHEAD on @CBSThisMorning: What NASA learned after a group of people spent 8 months in Hawaii on a simulated mission… https://t.co/41en4fFzxI,0.0,19
-09/18/2017,CBS News,1.0,0.0,The Emmys were infused with politics &amp; references to the president. Ethnic &amp; racial diversity were also highlighted… https://t.co/9pWjaToWS7,0.0,18
-09/18/2017,CBS News,0.778,0.119,"HBO's ""Big Little Lies"" stars Nicole Kidman, Reese Witherspoon &amp; Laura Dern focus on better roles for women at Emmy… https://t.co/kGTksHdBJb",0.101,17
-09/18/2017,CBS News,0.905,0.0,Newly released video appears to show a suspected bomber holding a bag similar to one found on the London subway… https://t.co/UdZCu6rhAu,-0.2263,16
-09/18/2017,CBS News,0.718,0.0,Police in St. Louis arrested dozens of people overnight as a third day of protesting turned violent… https://t.co/CI5ocZfvCC,-0.7096,15
-09/18/2017,CBS News,1.0,0.0,All of the Florida Keys are now open to residents &amp; business owners for the first time since they were evacuated… https://t.co/S2i1Pl5fyG,0.0,14
-09/18/2017,CBS News,1.0,0.0,.@LissetteCBS4 of @CBSMiami has more on the hurricane forecast for @CBSThisMorning https://t.co/IsRL8Luz7h,0.0,13
-09/18/2017,CBS News,0.723,0.0,A new hurricane threat is forming in the Atlantic &amp; could be bad news for Caribbean islands recovering from Irma… https://t.co/g2aPYbSjg8,-0.7845,12
-09/18/2017,CBS News,1.0,0.0,"North Korea’s nuclear program is the focus at the UN, where Pres. Trump starts a weeklong series of meetings Monday… https://t.co/oca6NZ5OkL",0.0,11
-09/18/2017,CBS News,1.0,0.0,COMING UP on @CBSThisMorning: @Patriots superstar quarterback Tom Brady opens up to @NorahODonnell. Tune in at 7am… https://t.co/JiO10fp648,0.0,10
-09/18/2017,CBS News,1.0,0.0,AHEAD on @CBSThisMorning at 7am E.T.: @laurawbush discusses Global First Ladies &amp; @BrandiKHOU reunites with the man… https://t.co/qASiUh8hKY,0.0,9
-09/18/2017,CBS News,1.0,0.0,"RT @CBSThisMorning: THIS MORNING:
-📖|@RayDalio on new book
-💭|@laurawbush on Global First Ladies
-🌀|@ brandikhou  #Harvey reunion
-📺|7AM ET",0.0,8
-09/18/2017,CBS News,1.0,0.0,"Police release surveillance video of Kenneka Jenkins, teen found in freezer https://t.co/Y8rb3liWTE https://t.co/pvSVI3OyyB",0.0,7
-09/18/2017,CBS News,1.0,0.0,Residents of the southern Florida Keys start to return home after Irma https://t.co/LOAZ2D7io5 https://t.co/ef46DfSHWo,0.0,6
-09/18/2017,CBS News,0.755,0.0,"Narcos' location scout shot to death in Mexico, local media reports https://t.co/Qs2Gew0RKM https://t.co/iNH1NlgnT3",-0.5994,5
-09/18/2017,CBS News,1.0,0.0,"Nikki Haley slams North Korea's ""reckless"" behavior https://t.co/dk7KtHZAr7 https://t.co/Md5rGs35Iz",0.0,4
-09/18/2017,CBS News,0.815,0.0,"Sports car strikes crowd of people in Boise, injuring 11 https://t.co/2HdNUq8nVc https://t.co/uudCrS7hxc",-0.3612,3
-09/18/2017,CBS News,0.577,0.423,Here's the entire list of 2017 Emmy Award winners https://t.co/vJZkIQSNNn https://t.co/DdJx6XMZZ9,0.765,2
-09/18/2017,CBS News,0.682,0.318,Rules of writing from an international best seller https://t.co/hKJMj5nwN5 https://t.co/xL1NmhIb0P,0.6369,1
-09/19/2017,CNN,0.577,0.178,The sluggish pace of the Bob Menendez trial is creating political and legal uncertainty https://t.co/qxiZfaGsx7 https://t.co/1NAwCziRbO,-0.34,100
-09/19/2017,CNN,0.687,0.125,Nancy Pelosi was interrupted by a group of protesters while speaking in San Francisco about the DREAM Act… https://t.co/6B8o2Fq74k,-0.0943,99
-09/19/2017,CNN,1.0,0.0,Republican senators' latest attempt to repeal Obamacare could be the most far-reaching of GOP efforts this year https://t.co/il7REiG8H8,0.0,98
-09/19/2017,CNN,0.598,0.402,"Paul Ryan says the Graham-Cassidy health care bill is ""our best, last chance"" to repeal Obamacare… https://t.co/h3o3dmPcZP",0.8555,97
-09/19/2017,CNN,1.0,0.0,"Donald Trump Jr. is seeking to scale back his Secret Service protection, sources say https://t.co/Mx74TZ1Wf1 https://t.co/35HmGAVH9O",0.0,96
-09/19/2017,CNN,1.0,0.0,"RT @AC360: ""It actually unsafe to step out of the door,"" says man who decided to ride out Hurricane Maria in Dominica https://t.co/14DP0bJ7…",0.0,95
-09/19/2017,CNN,1.0,0.0,"Man riding out Hurricane Maria says he can't step outside, small debris is flying through the air, wind is howling https://t.co/3ce9johSAV",0.0,94
-09/19/2017,CNN,0.833,0.0,"Former White House press secretary Sean Spicer: ""Of course"" I regret my inauguration crowd lecture… https://t.co/yZWoV7C2Dw",-0.4215,93
-09/19/2017,CNN,0.815,0.0,RT @CNNweather: #Maria is now a category 5 storm. The center is 15 miles from Dominica and will bring devastating impacts. https://t.co/ADb…,-0.6486,92
-09/19/2017,CNN,0.63,0.118,President Trump’s legal team reflects their chaotic client https://t.co/RvamR0X4B6 https://t.co/pcWdRfysSg,-0.4019,91
-09/19/2017,CNN,1.0,0.0,"RT @OutFrontCNN: .@SenJeffMerkley says the government's wiretapping of Paul Manafort is ""a very big deal” https://t.co/05Tn2BeYip https://t…",0.0,90
-09/19/2017,CNN,1.0,0.0,“President Trump has had a series of second-rate lawyers” @RWPUSA on #NYT reporter overhearing lawyers at lunch https://t.co/VaHI9DUpYl,0.0,89
-09/19/2017,CNN,0.86,0.0,RT @HLNTV: BREAKING: Fugitive Maria Cabrera-Gutierrez has been arrested after her case was profiled on HLN’s “The Hunt” w/@john_walsh https…,-0.4767,88
-09/19/2017,CNN,1.0,0.0,Hurricane #Maria is now a Category 5 storm with winds of 160 mph https://t.co/nGSQ54zfld https://t.co/kmha0Eu3rM,0.0,87
-09/19/2017,CNN,0.645,0.0,The nightmare is almost over for thousands of people who faced illegal student debt collections lawsuits https://t.co/SRn5f4s73s,-0.7717,86
-09/18/2017,CNN,1.0,0.0,Hurricane Maria continues to rapidly intensify and is now a category 5 storm with winds of 160 mph… https://t.co/TqaghYv4KU,0.0,85
-09/18/2017,CNN,1.0,0.0,RT @KhushbuOShea: Round two of Hurricane shopping in 2 weeks. @CNN #HurricaneMaria https://t.co/1fVe7EY15U,0.0,84
-09/18/2017,CNN,1.0,0.0,US President Trump has a long history with the UN -- and it involves marble https://t.co/8ThlmhiR3Q https://t.co/N0RhiM5uaa,0.0,83
-09/18/2017,CNN,1.0,0.0,RT @OutFrontCNN: “This isn’t done willy-nilly” @gloriaborger on news of the wiretapping of Paul Manafort https://t.co/TM0E57iv0g https://t.…,0.0,82
-09/18/2017,CNN,1.0,0.0,It's official: Taiwanese electronics manufacturer Foxconn will get $3 billion to build a plant in Wisconsin… https://t.co/t4C4TSB8Am,0.0,81
-09/18/2017,CNN,1.0,0.0,Florida governor issues new nursing home rules after post-hurricane deaths https://t.co/aviochFEQf https://t.co/J5BfBIY0Ud,0.0,80
-09/18/2017,CNN,1.0,0.0,"RT @CNNPolitics: The US government monitored Paul Manafort under secret court orders, @evanperez reports https://t.co/7Ay59IhuZG https://t.…",0.0,79
-09/18/2017,CNN,0.871,0.129,"President Trump describes ""long"" call with Chinese President Xi Jinping: ""We have a very, very fine relationship"" https://t.co/Ehvl17RUiT",0.3338,78
-09/18/2017,CNN,0.909,0.091,Exclusive: US investigators wiretapped Paul Manafort under secret court orders before and after the election… https://t.co/UdXq4yOPa6,0.128,77
-09/18/2017,CNN,1.0,0.0,Republicans push ahead with Obamacare repeal efforts https://t.co/e35P0eMfbx https://t.co/Ghpinzs0d0,0.0,76
-09/18/2017,CNN,0.708,0.0,"""You'll shoot your eye out!"" Nerf guns really can put your eyes at risk, doctors warn https://t.co/FM3vkfX0nP https://t.co/PRl6s46cOU",-0.636,75
-09/18/2017,CNN,0.856,0.0,"Trump admin announces end to protections for Sudanese immigrants, a move some fear could be a sign of things to come https://t.co/vdAa8506lc",-0.4939,74
-09/18/2017,CNN,0.909,0.091,Exclusive: US investigators wiretapped Paul Manafort under secret court orders before and after the election… https://t.co/6QwdWjt3jF,0.128,73
-09/18/2017,CNN,1.0,0.0,President Trump is speaking in New York. Watch CNN and https://t.co/UYpqI3w42L https://t.co/PiOi4ZYZX7,0.0,72
-09/18/2017,CNN,0.779,0.139,Sens. McCain and Murkowski are among the several Republicans who are undecided on the new GOP health care bill… https://t.co/Q33IjRuAzE,0.3182,71
-09/18/2017,CNN,0.677,0.127,"Caring for a chronically or terminally ill pet could be putting your own mental health at risk, a new paper suggest… https://t.co/veo2MRQum4",-0.1779,70
-09/18/2017,CNN,1.0,0.0,"This year's #Emmys turned from parody to self-parody when Sean Spicer took the stage, a @CNNOpinion contributor says https://t.co/zc8SKc4i2P",0.0,69
-09/18/2017,CNN,1.0,0.0,"Rhode Island will cover application fee for DACA recipients eligible to reapply before program ends, governor says… https://t.co/JL0QCmvuEc",0.0,68
-09/18/2017,CNN,0.867,0.0,RT @TheLeadCNN: An 8-year-old girl gets caught up in her dad’s struggle with opioids https://t.co/qiUnZejscC #TheLead,-0.3182,67
-09/18/2017,CNN,0.873,0.0,Here's a look at a US-unit in South Korea designed to limit the damage to Seoul from North Korea in the event of wa… https://t.co/gjdTCBMQcv,-0.4939,66
-09/18/2017,CNN,1.0,0.0,"Hurricane #Maria is now cat. 4 with sustained winds of 130 mph, Natl. Hurricane Center says https://t.co/SENzhk24A2 https://t.co/F51qIqetVe",0.0,65
-09/18/2017,CNN,0.838,0.162,Trump's personal lawyer Michael Cohen is set to appear before the Senate intelligence committee on Tuesday… https://t.co/RylXbCoqV6,0.4767,64
-09/18/2017,CNN,0.858,0.142,"RT @greatbigstory: Over the past 3 years, 100k Detroit families have had their water shut off. Luckily, Monica Lewis-Patrick is providing i…",0.5106,63
-09/18/2017,CNN,1.0,0.0,"Sen. Coons: Pres. Trump needs to show the UN that he can be a world leader, and ""rise above name-calling on Twitter"" https://t.co/Qi7IC4uaCq",0.0,62
-09/18/2017,CNN,0.773,0.073,Canadian PM Justin Trudeau has renewed his threat to scrap a potential deal to buy fighter jets from Boeing https://t.co/4WxJ2UpRwh,-0.4215,61
-09/18/2017,CNN,0.858,0.0,This is a big week for Brexit. It's not going well https://t.co/pgNXuatKez https://t.co/kmcdeaqRIy,-0.2057,60
-09/18/2017,CNN,0.583,0.075,"Bad karaoke, ""Top Gun"" references: Rep. Comstock ""lost that centrist feeling,"" Dem opponent says in campaign video… https://t.co/nElM77cT1c",-0.7506,59
-09/18/2017,CNN,1.0,0.0,Myanmar's de facto leader Aung San Suu Kyi will on Tuesday publicly address the bloodshed in Rakhine State https://t.co/mjiUMsb45R,0.0,58
-09/18/2017,CNN,0.936,0.064,RT @CNNweather: Major Hurricane #Maria is now a category 4 hurricane and could become a category 5. Track the intense cyclone here https://…,0.0772,57
-09/18/2017,CNN,1.0,0.0,"Hurricane Maria is now a category 4 hurricane with sustained winds of 130 mph, the National Hurricane Center says… https://t.co/hTy54ZAPjk",0.0,56
-09/18/2017,CNN,0.809,0.0,The 69th Annual Emmys nearly tied for all-time lowest ratings https://t.co/lzX9Z8Xiw7 https://t.co/oPDsoWJ992,-0.3818,55
-09/18/2017,CNN,0.776,0.105,"Actress Kate Walsh of ""Grey's Anatomy"" has revealed that she was diagnosed with a benign brain tumor in 2015… https://t.co/2SGVHYSLrd",-0.0772,54
-09/18/2017,CNN,1.0,0.0,"Ivanka Trump is attending the #UNGA and will be going to meetings of her own, a source says https://t.co/nUgw39XM22 https://t.co/ooSPLbupPe",0.0,53
-09/18/2017,CNN,0.778,0.222,"After wins against the GOP, Democrats were caught off-guard by Obamacare repeal https://t.co/jmW5x2tIYa https://t.co/Uylfb7DlFQ",0.5719,52
-09/18/2017,CNN,1.0,0.0,Puerto Rico may get its first Category 4 hurricane in 85 years https://t.co/IE50K5S0pr https://t.co/1YsdcgkZEo,0.0,51
-09/18/2017,CNN,1.0,0.0,Hillary Clinton just floated the possibility of contesting the 2016 election | Analysis by CNN's Chris Cillizza… https://t.co/5AM9xXTKEX,0.0,50
-09/18/2017,CNN,0.588,0.412,Slack valued at $5.1 billion after securing significant new investment money https://t.co/qfUfMUk2LN https://t.co/ubdrPyIwmf,0.7184,49
-09/18/2017,CNN,0.746,0.0,Hurricane Maria poses a new threat to debt-laden Puerto Rico https://t.co/XvcWppleAE https://t.co/ycevg0P6vm,-0.5267,48
-09/18/2017,CNN,0.923,0.077,".@kenvogel, reporter who overheard Trump lawyers at lunch, says he ""drank a few more iced teas"" and stayed in seat https://t.co/fTsW1Co0wV",0.1477,47
-09/18/2017,CNN,0.769,0.231,This year's Emmy Awards might as well have been a roast of President Trump | Analysis by CNN's Chris Cillizza… https://t.co/KTQEVlGFrQ,0.6249,46
-09/18/2017,CNN,0.688,0.138,Hasbro and Mattel's shares fell amid Toys 'R' Us bankruptcy fears https://t.co/ITM1HxKcwJ https://t.co/UTGHOk7zmu,-0.1531,45
-09/18/2017,CNN,0.742,0.258,"Trump compliments Bastille Day parade in Paris, says he'd consider parade ""to show our military strength"" on July 4 https://t.co/nL6BlrZGia",0.7096,44
-09/18/2017,CNN,0.872,0.0,"Pres. Trump's threats and a tweet referring to Kim Jong Un as ""Rocket Man"" haven't quelled the North Korea crisis… https://t.co/lHLkTJnByc",-0.4215,43
-09/18/2017,CNN,0.931,0.0,"Hillary Clinton opened the door to questioning the legitimacy of 2016's election, saying she ""would not"" rule it ou… https://t.co/SLmK7lXc3o",-0.1027,42
-09/18/2017,CNN,0.508,0.292,Free PC cleaning software CCleaner was compromised in a sophisticated attack that affected over 2 million computers… https://t.co/Beco2lafFp,0.4939,41
-09/18/2017,CNN,0.424,0.0,"New York bus collision leaves 3 dead, 16 injured https://t.co/uTu9qcYuQv https://t.co/EtY3N8tmsm",-0.8591,40
-09/18/2017,CNN,0.769,0.231,"Baton Rouge shootings may be racially motivated, police say https://t.co/jf38AdtZQf https://t.co/pRILVv2wCd",0.4588,39
-09/18/2017,CNN,0.86,0.14,Want a job as a NASA astronaut? Read this https://t.co/rgczVPzCp8 https://t.co/zCNlzuWKbt,0.0772,38
-09/18/2017,CNN,1.0,0.0,Russia bombed location in Syria near where US troops were present https://t.co/ys3MqzWSpm,0.0,37
-09/18/2017,CNN,0.85,0.0,"Four American college students attacked with acid on Sunday at a train station in Marseilles, France, police say… https://t.co/VlEBPvIt4h",-0.4588,36
-09/18/2017,CNN,1.0,0.0,Trump calls for whistleblower protections as part of UN reforms https://t.co/ctgBgv6MlM https://t.co/EXJCLFc2le,0.0,35
-09/18/2017,CNN,1.0,0.0,Banging shoes and ripping charters -- A look back at the most memorable #UNGA moments https://t.co/1dyhiD14td https://t.co/1F6kRTyb9N,0.0,34
-09/18/2017,CNN,1.0,0.0,Here's a side of North Korea the world rarely sees https://t.co/hFefaZX4RC https://t.co/AStAqanNKM,0.0,33
-09/18/2017,CNN,1.0,0.0,"RT @CNNPolitics: Netanyahu to Trump: ""Under your leadership, the alliance between America and Israel has never been stronger” #UNGA https:/…",0.0,32
-09/18/2017,CNN,0.682,0.318,RT @CNNPolitics: President Trump on peace between Israel and Palestine: “I think there’s a good chance that it could happen” #UNGA https://…,0.8126,31
-09/18/2017,CNN,0.87,0.13,Former White House press secretary Sean Spicer made a surprise cameo at the #Emmys https://t.co/AZuvBOpD63 https://t.co/Iq1n3un2s1,0.2732,30
-09/18/2017,CNN,1.0,0.0,One of cycling's biggest races will begin outside of Europe for the first time https://t.co/C3PpERlABk https://t.co/epkKiAfpJW,0.0,29
-09/18/2017,CNN,0.792,0.0,"Georgia Tech student fatally shot in the heart by campus police officer who ”overreacted,” lawyer says… https://t.co/CnLVBFSiIS",-0.6369,28
-09/18/2017,CNN,0.855,0.145,"Meghan McCain is in late-stage talks to join ABC's ""The View,"" sources say https://t.co/mvQVTiGEaF",0.296,27
-09/18/2017,CNN,0.845,0.155,Shares of Boeing are up more than 60% so far in 2017 https://t.co/xakDVaKa6d,0.296,26
-09/18/2017,CNN,0.821,0.0,"Sean Spicer's Emmy cameo wasn't funny at all, writes @CillizzaCNN https://t.co/4bxiMSNALo https://t.co/4LkJXHRrFT",-0.3412,25
-09/18/2017,CNN,0.847,0.0,A federal judge hearing arguments about the termination of DACA is reading President Trump's tweets carefully… https://t.co/pnoUulquDl,-0.4019,24
-09/18/2017,CNN,1.0,0.0,Snapchat has pulled Al Jazeera's channel from its app in Saudi Arabia https://t.co/5HMta0V0p2 https://t.co/a1jtKLrDdo,0.0,23
-09/18/2017,CNN,0.805,0.12,CNN EXCLUSIVE: Iranian President says US will pay a high price if it scraps nuclear deal https://t.co/uX5ERdpx2S https://t.co/Zn7asUa7KX,0.2103,22
-09/18/2017,CNN,1.0,0.0,Donald Trump told Nikki Haley she could speak her mind. She's doing just that | STATE Magazine… https://t.co/TB0Kp0LgZa,0.0,21
-09/18/2017,CNN,0.838,0.162,Trump's personal lawyer Michael Cohen is set to appear before the Senate intelligence committee on Tuesday… https://t.co/JZfQXANfGP,0.4767,20
-09/18/2017,CNN,0.889,0.0,"Iran, North Korea expected to dominate Trump's first UN General Assembly https://t.co/G45zmFDoFf https://t.co/GMGcSZvij8",-0.128,19
-09/18/2017,CNN,0.878,0.0,Donald Trump's unpresidential presidency keeps hitting new lows I Analysis by Chris Cillizza https://t.co/AVYg2cAMR8 https://t.co/P7gGrO7wby,-0.2023,18
-09/18/2017,CNN,1.0,0.0,Neil deGrasse Tyson says it might be 'too late' to recover from climate change https://t.co/FDtiJerfhU,0.0,17
-09/18/2017,CNN,0.899,0.101,A top White House adviser affirms Trump is still planning to withdraw from the Paris climate accord… https://t.co/OFYbGeZ1lC,0.2023,16
-09/18/2017,CNN,0.928,0.072,"Trump: In recent years, the UN has “not reached it’s full potential because of bureaucracy and mismanagement” #UNGA https://t.co/n3Hu3nCsIR",0.1027,15
-09/18/2017,CNN,0.889,0.0,"Iran, North Korea expected to dominate Trump's first UN General Assembly https://t.co/UcmhTMzKox https://t.co/wlzq3kyg7z",-0.128,14
-09/18/2017,CNN,0.708,0.2,RT @CNNPolitics: President Trump at #UNGA: We must ensure no country has to “shoulder a disproportionate share of the burden” https://t.co/…,0.3818,13
-09/18/2017,CNN,0.84,0.16,India's push to go cashless has another high-profile supporter: Google. https://t.co/BjYMu1coQO https://t.co/gX7H1ZYzM4,0.2732,12
-09/18/2017,CNN,0.591,0.268,"Hulu, the underdog of the streaming TV wars, just beat out Netflix and Amazon for TV's top prize https://t.co/8X2Ev1ivfQ",0.296,11
-09/18/2017,CNN,1.0,0.0,"RT @CNNnewsroom: NYT's @kenvogel on Trump's lawyers discussing Russia probe in public: ""It's puzzling they would be so indiscreet"" https://…",0.0,10
-09/18/2017,CNN,1.0,0.0,The one issue Netanyahu wants to discuss with Trump today at the UN https://t.co/ZIQFDmTqws https://t.co/oaZo7W1urz,0.0,9
-09/18/2017,CNN,0.619,0.0,Lady Gaga postpones the European leg of her tour due to 'severe physical pain' https://t.co/KjWdDLVrrl https://t.co/BLd34tWJX5,-0.7906,8
-09/18/2017,CNN,0.803,0.197,Why did the #Emmys help Sean Spicer rebrand? via @brianstelter https://t.co/wllxKYjUQm https://t.co/MaPGYQ14wn,0.4019,7
-09/18/2017,CNN,0.721,0.279,Here's your complete list of #Emmys winners https://t.co/P0Wpx0coqs https://t.co/T2QuedpS6T,0.4767,6
-09/18/2017,CNN,0.742,0.102,Hurricane Maria is expected to get stronger in a hurry as it takes aim at the Caribbean islands devastated by Irma… https://t.co/N40MnFBDkV,-0.34,5
-09/18/2017,CNN,1.0,0.0,What are ‘sponge cities’? They may just be China’s answer to flooding in urban areas https://t.co/Ko8OcUeNl8 https://t.co/kiR4du2oGy,0.0,4
-09/18/2017,CNN,0.909,0.091,"RT @cnni: Here’s a rare look at Mount Paektu, a site sacred to North Koreans, as well as their neighbors to the south https://t.co/lOErZdUW…",0.2732,3
-09/18/2017,CNN,1.0,0.0,"With the golf retweet, Trump blunders into the 'Streisand effect,' writes Kara Alaimo for @CNNopinion… https://t.co/x2F8UHLU7U",0.0,2
-09/18/2017,CNN,0.872,0.0,"In Bangladesh's overcrowded Rohingya refugee camps, supplies are limited and circumstances are dire… https://t.co/IkFe7EvsL0",-0.2263,1
-09/19/2017,Fox News,1.0,0.0,".@TheJuanWilliams on @POTUS at @UN: ""He's got an audience that wants to hear from him...see leadership in terms of… https://t.co/bjD9JnGqba",0.0,100
-09/19/2017,Fox News,1.0,0.0,"JUST IN: Former #Trump campaign chair Paul Manafort wiretapped by US investigators, report says… https://t.co/IVAyxucy2y",0.0,99
-09/19/2017,Fox News,0.903,0.0,'You Don't Have a Right to Demand Anything': @TuckerCarlson Blasts DACA Activists Shouting Down @NancyPelosi https://t.co/QuagH1pZPP,-0.128,98
-09/19/2017,Fox News,0.673,0.144,.@TuckerCarlson Blasts #Emmys: Awards Show 'Contempt the Ruling Class Has' for Middle America | Read more:… https://t.co/wC8mOIKRSG,-0.2023,97
-09/19/2017,Fox News,1.0,0.0,.@Judgenap: 'I Can't Second-Guess the Judge' in STL Officer Case https://t.co/snccH5xtQR,0.0,96
-09/19/2017,Fox News,1.0,0.0,"Ceja: Undocumented immigrants, DACA recipients, are simply reacting to what's continued to be done. They're talking… https://t.co/OzmXNWsDk2",0.0,95
-09/19/2017,Fox News,0.853,0.0,WATCH: Protesters call out @NancyPelosi over #Trump DACA deal https://t.co/WB5dWc0yLX | #Tucker https://t.co/WDyfxS14tO,-0.2263,94
-09/19/2017,Fox News,0.882,0.0,".@Joy_Villa: ""We are supposed to be the country of the First Amendment, but as we see in Hollywood, they no longer… https://t.co/zDGSU8O7GZ",-0.4215,93
-09/19/2017,Fox News,0.629,0.248,".@Joy_Villa: ""As we saw in the Emmys: If you hate Trump, you get a prize. If you love Trump, you get ignored."" https://t.co/PeYxRPlREw",0.5859,92
-09/19/2017,Fox News,1.0,0.0,".@Joy_Villa: Hollywood has such a bloated ego...They think anything they say will be taken straightforward, &amp; reall… https://t.co/m8IivhJlex",0.0,91
-09/19/2017,Fox News,1.0,0.0,"BREAKING NEWS: Hurricane Maria was upgraded to a Category 5 storm on Monday, according to the National Hurricane Ce… https://t.co/5lJ2KeUigM",0.0,90
-09/19/2017,Fox News,0.828,0.0,".@GovChristie on @HillaryClinton: ""Hypocrisy is her specialty and she's a sore loser."" #TheStory… https://t.co/ng1XoIs0jP",-0.3612,89
-09/18/2017,Fox News,0.519,0.162,"Convicted rapist throws a fit while being deported, report says
- https://t.co/3knZjKqtXJ",-0.5267,88
-09/18/2017,Fox News,1.0,0.0,".@GovMikeHuckabee on @UN: ""There needs to be a whole lot more...than a bunch of diplomats congratulating themselves… https://t.co/oHHwipq7Bs",0.0,87
-09/18/2017,Fox News,0.662,0.156,"#Cavuto Rips 'Hysterical' #Trump Critics: 'Your Hypocrisy Won't Stop'
- https://t.co/lDGzXs4zej",-0.0803,86
-09/18/2017,Fox News,0.862,0.056,".@MikeTobinFox on St. Louis protests: ""When it rains, for these kids who just want to smoke pot and break things, i… https://t.co/jRH3fhg5bj",-0.1531,85
-09/18/2017,Fox News,1.0,0.0,RT @MikeEmanuelFox: Leader Pelosi gets an earful from the left + GOPers take one final shot at repealing ObamaCare -from #SpecialReport: ht…,0.0,84
-09/18/2017,Fox News,1.0,0.0,".@JonahNRO on coverage of #GrahamCassidy proposal: ""The way that the media has covered this is kind of outrageous.""… https://t.co/uiGJCczeSn",0.0,83
-09/18/2017,Fox News,1.0,0.0,"Small Town Populations Booming in Parts of West, South https://t.co/D1iwNXjrLu",0.0,82
-09/18/2017,Fox News,1.0,0.0,"#Trump Tells UN to Back Reforms, Will Press for Firm Stance on North Korea https://t.co/p8hPt1H2qi",0.0,81
-09/18/2017,Fox News,0.622,0.13,#Trump resort criticized for suggesting Irma victims relieve 'stress' with meal at club's restaurant https://t.co/MU81J07H7v,-0.3182,80
-09/18/2017,Fox News,0.556,0.106,"Boston College students attacked in France forgive attacker, ask for prayers for her https://t.co/ChMoJ6l8MQ",-0.6808,79
-09/18/2017,Fox News,0.843,0.157,"Hurricane Maria has strengthened into an “extremely dangerous” Category 4 storm, the National Hurricane Center said… https://t.co/hrJzBCDwWj",0.4215,78
-09/18/2017,Fox News,1.0,0.0,Gov. Jerry Brown: 'Trump-ites and Troglodytes' Both 'Refer to People Who Live in Caves' https://t.co/24gqMq4Twe,0.0,77
-09/18/2017,Fox News,0.484,0.0,Democrat mocked for 'worst campaign ad ever' https://t.co/oKp65Uwggq,-0.7506,76
-09/18/2017,Fox News,0.808,0.0,"Protesters call out @NancyPelosi over #Trump #DACA deal
- https://t.co/AfXN3iwjYi",-0.2263,75
-09/18/2017,Fox News,1.0,0.0,NEW: Laura Ingraham joins Fox News' prime-time lineup https://t.co/hDLkIpIGTI,0.0,74
-09/18/2017,Fox News,0.769,0.231,".@UCBerkeley 'Free Speech Week' lineup includes Bannon, Milo: Here's the schedule.
- https://t.co/p1SBl1AaS0",0.5106,73
-09/18/2017,Fox News,1.0,0.0,"OPINION: ""I sat next to Jesus. Here's the only way to describe my incredible experience""
-  https://t.co/nNotM67XBv",0.0,72
-09/18/2017,Fox News,0.515,0.149,"Mail carrier battling cancer delivers hope to fellow patient on her route
- https://t.co/h7D44mlB1u",-0.5574,71
-09/18/2017,Fox News,0.714,0.0,"Emmys ratings crater; #Trump-bashing to blame?
-https://t.co/7tcDhhkaZm",-0.34,70
-09/18/2017,Fox News,0.86,0.14,".@POTUS on French President @EmmanuelMacron: ""He is doing a terrific job in France, he's doing what has to be done."" https://t.co/jNXXh8u2Em",0.4767,69
-09/18/2017,Fox News,1.0,0.0,".@HillaryClinton's score-settling, Dem-rattling book tour only getting started
- https://t.co/TdQnyP47s1",0.0,68
-09/18/2017,Fox News,1.0,0.0,Hurricane Maria's path: Track the storm here https://t.co/YTUQaee45n,0.0,67
-09/18/2017,Fox News,1.0,0.0,"Moments ago, @POTUS met with Israeli Prime Minister Benjamin @Netanyahu. https://t.co/o63eV88B6Z",0.0,66
-09/18/2017,Fox News,0.886,0.0,".@Netanyahu on @POTUS' leadership: “The alliance between America and Israel has never been stronger, never been dee… https://t.co/M6PB79jDA2",-0.2924,65
-09/18/2017,Fox News,0.625,0.375,.@POTUS on peace between Israel and Palestine: “There’s a good chance that it could happen...The Trump administrati… https://t.co/2iIzCQq7g7,0.8126,64
-09/18/2017,Fox News,0.759,0.0,Small Plane in Oregon Hits and Kills Two Elk While Landing https://t.co/NDRFz48Dwz,-0.5423,63
-09/18/2017,Fox News,0.844,0.0,.@Judgenap on Trump Lawyers Leak: Don't Talk in Public About Any Client's Issues https://t.co/U128oqdkND,-0.34,62
-09/18/2017,Fox News,0.67,0.0,McDonald's Manager Stabs Man During Brawl at Washington Location: 'He Was Basically Attacked' https://t.co/GALsN7zeix,-0.7096,61
-09/18/2017,Fox News,0.833,0.167,".@toddstarnes: The 2017 Emmys – Hollywood Gave Us a Democratic National Committee Meeting, Not an Awards Show https://t.co/YYO5T5nrBi",0.4588,60
-09/18/2017,Fox News,1.0,0.0,U.S. Virgin Island Residents Waiting in Long Lines for Bottle of Water as Hurricane Maria Approaches… https://t.co/WL9hAZ9ynV,0.0,59
-09/18/2017,Fox News,0.671,0.0,'Desperately Sad': @MarkSteynOnline Blasts Hollywood Liberals for Trump Mockery at Emmys https://t.co/Lg1HgPsylg,-0.5994,58
-09/18/2017,Fox News,1.0,0.0,"JUST IN: Hurricane Maria Expected to Become 'Major' Storm, Nears Caribbean Still Cleaning up From Irma https://t.co/LQ9qzpgipy",0.0,57
-09/18/2017,Fox News,1.0,0.0,"Joe Flynn: ""My brother [Michael Flynn] bleeds red white and blue."" https://t.co/owXZUrFt3C https://t.co/GH01RgZAHx",0.0,56
-09/18/2017,Fox News,1.0,0.0,This split photo shows @TheIowaHawkeyes fans waving to children in the @UIchildrens Hospital and what it looks like… https://t.co/HA15FJYini,0.0,55
-09/18/2017,Fox News,0.658,0.342,Happy 70th birthday to the @usairforce! Thank you to the brave men and women who have served and continue to serve… https://t.co/cLSFrvR414,0.8718,54
-09/18/2017,Fox News,0.657,0.0,.@KatiePavlich: Antifa Should Be Designated as a 'Domestic Terrorist Organization' https://t.co/43R3uT3jwl,-0.6908,53
-09/18/2017,Fox News,0.833,0.167,"OP-ED: The 2017 Emmys – Hollywood Gave Us a Democratic National Committee Meeting, Not an Awards Show https://t.co/YYO5T5nrBi",0.4588,52
-09/18/2017,Fox News,0.8,0.2,Michael Flynn's Family Launches a Legal Defense Fund as Bills from Mueller Probe Mount https://t.co/owXZUrX4sc,0.25,51
-09/18/2017,Fox News,0.568,0.21,".@realDonaldTrump: ""We must ensure that no one... shoulders a disproportionate share of the burden and that's milit… https://t.co/oec1LEHhWa",-0.0772,50
-09/18/2017,Fox News,0.796,0.139,".@realDonaldTrump: ""In recent years, the United Nations has not reached its full potential because of bureaucracy a… https://t.co/eo73uCTXXr",0.362,49
-09/18/2017,Fox News,0.625,0.375,".@realDonaldTrump: ""We affirm our commitment to the United Nations reform."" https://t.co/Zt5FPN6yH3",0.6597,48
-09/18/2017,Fox News,0.806,0.194,".@nikkihaley: ""Donald Trump has a businessman's eye for seeing potential and he sees great potential... in the Unit… https://t.co/DuiJiAm5BQ",0.6249,47
-09/18/2017,Fox News,1.0,0.0,.@realDonaldTrump attends meeting on @UN reforms https://t.co/oSgFmrlHjd,0.0,46
-09/18/2017,Fox News,0.817,0.183,During @AlecBaldwin's speech for his third Emmy win he took a jab at @realDonaldTrump who he impersonated on… https://t.co/E0w3InIMYK,0.5859,45
-09/18/2017,Fox News,1.0,0.0,MOMENTS AGO: @realDonaldTrump arrived at the @UN https://t.co/HQtdEHmKag,0.0,44
-09/18/2017,Fox News,0.674,0.169,"Emmy Awards 2017: @StephenAtHome, @AlecBaldwin and @seanspicer All Turn Out to Mock @realDonaldTrump https://t.co/8vqhRFSLmc",0.0516,43
-09/18/2017,Fox News,0.663,0.0,"At Least One Dead When MTA, Coach Buses Collide in New York https://t.co/Y679HZGV5K",-0.6808,42
-09/18/2017,Fox News,0.792,0.113,"Sabine Durden: ""I will stand with my president. I fought for him, I elected him. There are things I wish we would b… https://t.co/E3J7ugVjpC",0.1027,41
-09/18/2017,Fox News,0.626,0.0,JUST IN: 2 More Navy Officers Fired Over Deadly Naval Ship Collisions https://t.co/R9vbHKTcMt,-0.7152,40
-09/18/2017,Fox News,0.889,0.111,".@newtgingrich: ""[@POTUS's] vision of sovereignty and of America as a unique nation is legitimate and doesn't threa… https://t.co/TdLMNk9XkI",0.25,39
-09/18/2017,Fox News,0.841,0.159,.@sendavidperdue Wants Tougher Immigration Language in Any DACA Deal https://t.co/oUXsFYBJ73,0.1779,38
-09/18/2017,Fox News,0.724,0.276,".@MarkSteynOnline on the #Emmys: ""When everything is political... you can't even have the small shared pleasure of… https://t.co/ywD49VoY6u",0.7269,37
-09/18/2017,Fox News,0.849,0.0,A @usairforce B-1B bomber drops a bomb as it flies over the Korean Peninsula during joint drills with South Korea. https://t.co/umRbreqlES,-0.4939,36
-09/18/2017,Fox News,0.857,0.143,".@KellyannePolls on @POTUS's speech to UNGA: ""President Trump will be promoting peace... sovereignty and accountabi… https://t.co/EpJNUkN1Go",0.3612,35
-09/18/2017,Fox News,1.0,0.0,".@WatchChad: The #Emmys are ""pulling families together, because people are turning their TVs off."" https://t.co/175eZQNTQr",0.0,34
-09/18/2017,Fox News,1.0,0.0,"Biblical prophecy claims the world will end on Sept. 23, Christian numerologists claim https://t.co/WY6nSsiDIF",0.0,33
-09/18/2017,Fox News,0.829,0.0,NY Times reporter slammed after saying boy mowing White House lawn sends bad signal on child labor https://t.co/HBumslXDIe,-0.5423,32
-09/18/2017,Fox News,0.539,0.461,Last night Kate McKinnon thanked @HillaryClinton during her #Emmy Award acceptance speech. https://t.co/U17MSWEJFR https://t.co/pFXv0BEKsb,0.8555,31
-09/18/2017,Fox News,1.0,0.0,"On this day in 1793, George Washington laid the cornerstone to the US Capitol building. The building would take nea… https://t.co/RvZep3jDZa",0.0,30
-09/18/2017,Fox News,1.0,0.0,".@sendavidperdue: ""[@POTUS] said, 'we're going to build a wall.' We will build that wall."" https://t.co/H5YfviJV9t",0.0,29
-09/18/2017,Fox News,1.0,0.0,The RAISE Act https://t.co/3pDozYBtMH,0.0,28
-09/18/2017,Fox News,0.826,0.0,"Kent Haeffner Harvard Junior: Chelsea Manning is ""a convicted felon who has betrayed our country and that's what th… https://t.co/EQnvO5HzNs",-0.6124,27
-09/18/2017,Fox News,1.0,0.0,Former press secretary @seanspicer makes cameo appearance at the #Emmys https://t.co/U17MSWWl4r https://t.co/qkJZhFT38C,0.0,26
-09/18/2017,Fox News,0.876,0.124,Members of the @Jaguars help Hurricane Irma first responders hold the American flag during the singing of the natio… https://t.co/AJ7SjPigSI,0.4019,25
-09/18/2017,Fox News,0.62,0.38,".@NateBoyer37: ""It is a free country but at the end of the day it's free because of who laid down that great sacrif… https://t.co/gGvfLwOMQu",0.9224,24
-09/18/2017,Fox News,1.0,0.0,"This photo shows the moment just before sunrise from a campsite on the Appalachian Trail in Beans Purchase, N.H. https://t.co/jVZIXwHlJV",0.0,23
-09/18/2017,Fox News,0.7,0.3,Tropical Storm Maria strengthens into hurricane https://t.co/ok1KbXD2Ip https://t.co/0hdSBiGilW,0.4588,22
-09/18/2017,Fox News,1.0,0.0,Trump to speak at U.N. General Assembly on Tuesday https://t.co/zayTn8BreA,0.0,21
-09/18/2017,Fox News,0.667,0.0,80 arrested in St. Louis protests over police officer’s acquittal https://t.co/AsK7IOxWJ6 https://t.co/1MyTR0TtIG,-0.6124,20
-09/18/2017,Fox News,0.671,0.155,"Acid attack on 4 US students not seen as terror act, France says https://t.co/XecBzQjWZk https://t.co/cwIuPlKT8j",-0.0834,19
-09/18/2017,Fox News,0.643,0.0,80 arrested in St. Louis protests over police officer’s acquittal https://t.co/AsK7IOxWJ6,-0.6124,18
-09/18/2017,Fox News,0.806,0.0,Sign language interpreter reportedly issued ‘pizza’ warning During Irma update https://t.co/VxI0r5OzlQ,-0.34,17
-09/18/2017,Fox News,1.0,0.0,Chelsea Manning Tells Audience: I Am Not an ‘American Traitor’ https://t.co/X9xxDloy1l,0.0,16
-09/18/2017,Fox News,0.811,0.0,Woman fakes seizure during robbery attempt; learned move from ‘Law &amp; Order’ https://t.co/rR8GvUmrAV,-0.4215,15
-09/18/2017,Fox News,1.0,0.0,Russia and China Notably Absent at UN Reform Powwow https://t.co/8SwQI2kpbx,0.0,14
-09/18/2017,Fox News,0.652,0.164,"Acid attack on 4 US students not seen as terror act, France says https://t.co/XecBzQBxQS",-0.0834,13
-09/18/2017,Fox News,0.677,0.0,Georgia Tech student shot dead by police on campus https://t.co/mzFGpxSBlg,-0.6486,12
-09/18/2017,Fox News,0.829,0.0,NY Times reporter slammed after saying boy mowing White House lawn sends bad signal on child labor https://t.co/HBumslG2jE,-0.5423,11
-09/18/2017,Fox News,0.805,0.195,"McMaster: Trump better without Bannon, others who pushed their ‘own narrow agendas’ https://t.co/JoLvcZ8HYI",0.4404,10
-09/18/2017,Fox News,0.787,0.0,Former Sheriff Joe Arpaio fires back at judge in his contempt case https://t.co/4q8LSKz9Az via @AndrewCraft,-0.5859,9
-09/18/2017,Fox News,1.0,0.0,"Listen up, UN -- Trump means what he's telling you https://t.co/Oa2r7tP6tj",0.0,8
-09/18/2017,Fox News,0.489,0.511,Kate McKinnon thanked @HillaryClinton during her #Emmy Award acceptance speech. https://t.co/U17MSWWl4r https://t.co/x6CcnR2GDA,0.8555,7
-09/18/2017,Fox News,0.598,0.245,Acquitted St. Louis officer Stockley speaks out: 'Feels like a burden has been lifted' https://t.co/jVBgSbDPPY,0.1531,6
-09/18/2017,Fox News,0.574,0.0,St. Louis Police Shooting Protests Escalate into Violence for 3rd Night; Multiple Arrests Made https://t.co/rAK8NeoOul,-0.836,5
-09/18/2017,Fox News,1.0,0.0,IT Cosmetics CEO told she was too fat to sell makeup  https://t.co/IYoD1dEyGN,0.0,4
-09/18/2017,Fox News,0.769,0.0,Tillerson Considers Closing Embassy in Havana Where Diplomats Mysteriously Got Sick https://t.co/NsKbM1EmkO,-0.5106,3
-09/18/2017,Fox News,0.922,0.078,".@TomiLahren on universal basic income: ""If an iPad can replace you, be careful how you feel about minimum wage.""… https://t.co/4SVHXLUZuo",0.1531,2
-09/18/2017,Fox News,0.884,0.116,"Ruben Navarrette on universal basic income: ""If they had that incentive they wouldn't need the handout in the first… https://t.co/yrKbBkcumx",0.3612,1
-09/19/2017,The New York Times,1.0,0.0,Evening Briefing: Here's what you need to know at the end of the day https://t.co/TvWO3sAlH7,0.0,100
-09/19/2017,The New York Times,0.714,0.286,Hurricane Maria is gaining strength quickly as it races toward Puerto Rico and the Virgin Islands https://t.co/oQJqKet1oB,0.7184,99
-09/19/2017,The New York Times,0.758,0.0,"Hurricane Maria has grown to ""a potentially catastrophic Category 5 hurricane"" https://t.co/KLpgYX8vZd",-0.4939,98
-09/19/2017,The New York Times,0.739,0.0,RT @MitchKSmith: Demonstrators have gathered in St. Louis for a fourth night to protest an officer's acquittal on a murder charge. Crowd mu…,-0.7717,97
-09/19/2017,The New York Times,0.703,0.297,"Inspired by what he saw in France, President Trump wants ""a really great parade to show our military strength” https://t.co/HvdOYx4GI7",0.8221,96
-09/19/2017,The New York Times,0.682,0.318,Which of these countries has the best health system? https://t.co/J61st2flfq,0.6369,95
-09/19/2017,The New York Times,0.815,0.0,Federal prosecutors and the FBI have opened a criminal investigation into the massive Equifax data breach https://t.co/lz8wvkE6tW,-0.5267,94
-09/19/2017,The New York Times,1.0,0.0,"Donald Trump Jr. gives up Secret Service protection, seeking privacy https://t.co/YorfHgnGsC",0.0,93
-09/19/2017,The New York Times,1.0,0.0,Interior Secretary Ryan Zinke proposed that President Trump make changes to 10 national monuments… https://t.co/UGckiRFiPg,0.0,92
-09/19/2017,The New York Times,1.0,0.0,Tracking Hurricane Maria’s path https://t.co/QrAkErb07C,0.0,91
-09/18/2017,The New York Times,1.0,0.0,Mitch McConnell is pressing the Congressional Budget Office for a quick analysis of the Graham-Cassidy repeal bill https://t.co/RAKN2O5n8J,0.0,90
-09/18/2017,The New York Times,0.659,0.162,RT @adamgoldmanNYT: Special Counsel Bob Mueller threatened to indict Trump campaign chairman https://t.co/hIBOET3e2k,-0.0772,89
-09/18/2017,The New York Times,0.684,0.316,Florida was built on the seductive delusion that a swamp is a fine place for paradise https://t.co/0NlGnqGxVU,0.7184,88
-09/18/2017,The New York Times,0.491,0.258,"The best and worst moments of the 2017 Emmys
-https://t.co/oFuzvcFDv7",0.0258,87
-09/18/2017,The New York Times,0.838,0.162,RT @MarkMazzettiNYT: New: Mueller investigators told Manafort to expect indictment. Inside special counsel's tactics  https://t.co/xawGmMM0…,0.4019,86
-09/18/2017,The New York Times,0.791,0.0,"They picked Manafort's lock in July, raided his home and threatened to indict him. Inside Mueller's tough tactics. https://t.co/QS9N8ir6Ps",-0.5423,85
-09/18/2017,The New York Times,1.0,0.0,Evening Briefing: Here's what you need to know at the end of the day https://t.co/1f53b4hSBz,0.0,84
-09/18/2017,The New York Times,0.841,0.0,"California could become the first state to ban sale of puppies, bunnies and kittens that don't come from shelters https://t.co/rU0Ld0fm1w",-0.5574,83
-09/18/2017,The New York Times,0.783,0.0,"RT @emilysteel: Political commentator Scottie Nell Hughes has filed suit against Fox News, alleging rape and retaliation. https://t.co/z0YH…",-0.6908,82
-09/18/2017,The New York Times,0.687,0.313,A group of amateur UK archaeologists stumble on a Roman masterpiece https://t.co/eDr5IOECFM,0.6249,81
-09/18/2017,The New York Times,0.67,0.0,Myanmar’s Rohingya crisis shows what happens when a nation’s boundaries and its national identity contradict https://t.co/O3ehX1Ht0x,-0.7506,80
-09/18/2017,The New York Times,1.0,0.0,RT @julieturkewitz: The Interior Department wants changes to Bears Ears and nine other monuments. We explain the details. With pictures. ht…,0.0,79
-09/18/2017,The New York Times,0.732,0.268,Forecasts on Monday predicted Hurricane Maria would increase in strength as it traveled through the Caribbean https://t.co/FEDYOqca0g,0.6705,78
-09/18/2017,The New York Times,0.703,0.178,"Insurers may be contributing to the opioid crisis by favoring cheap narcotics over safer, but pricey, alternatives https://t.co/HZ2wD2mLUZ",0.0644,77
-09/18/2017,The New York Times,0.814,0.186,One NYT reader's comment about Republicans' last-ditch push to repeal the Affordable Care Act… https://t.co/MWdlxnfzar,0.4939,76
-09/18/2017,The New York Times,0.842,0.0,White House officials privately said they fear colleagues may be wearing a wire to record conversations for Mueller https://t.co/GPDNWMDua2,-0.4939,75
-09/18/2017,The New York Times,1.0,0.0,🎂 https://t.co/TTTJfag40v,0.0,74
-09/18/2017,The New York Times,0.619,0.298,"Seinfeld rebranded? The comedian gets more personal, less detached in his new special. https://t.co/4LBk4FPFEy",0.5899,73
-09/18/2017,The New York Times,0.817,0.0,"@seanrobinsonTNT Hi there, Sean. Sorry about that inconvenience. We're asking @NYTCare to look into this for you. H… https://t.co/lyHsQWtm2c",-0.4215,72
-09/18/2017,The New York Times,1.0,0.0,Two new Banksys in London refer to the work of the American artist Jean-Michel Basquiat https://t.co/TGv27chaP9,0.0,71
-09/18/2017,The New York Times,1.0,0.0,The real unknown of climate change: our behavior https://t.co/SifArrS3lB,0.0,70
-09/18/2017,The New York Times,0.663,0.337,"She's been riding motorcycles since she was 3. Now she's won a world championship race. 
- https://t.co/4GYSbmj4Pi",0.765,69
-09/18/2017,The New York Times,0.927,0.073,The Whitney Museum watched the demise of Diller Island carefully: It has its own plan for the Hudson River https://t.co/Q85mEsKyBt,0.128,68
-09/18/2017,The New York Times,0.626,0.085,"No, Katy Perry didn't broker peace with ISIS. With lies rampant, research offers clues on how to defend the truth. https://t.co/hiYmXoRN5n",-0.6757,67
-09/18/2017,The New York Times,1.0,0.0,"In a dominant performance against the Saints, Tom Brady also displayed a mastery of the rulebook https://t.co/2iJX7Sjdi3",0.0,66
-09/18/2017,The New York Times,0.884,0.0,The owner of the Indian company cut off the hospital’s oxygen supplies because of unpaid bills https://t.co/Q2diUlrBYC,-0.2732,65
-09/18/2017,The New York Times,1.0,0.0,How the latest Republican plan to repeal Obamacare compares to the current health law https://t.co/jh9ZzSWUyJ,0.0,64
-09/18/2017,The New York Times,0.688,0.147,"Why was the artistic director of the Oregon Bach Festival fired just months into the job?
- https://t.co/bQ35TRDsyZ",-0.1027,63
-09/18/2017,The New York Times,0.711,0.107,Opinion: Russia is in a unique position to play broker and de-escalate the current North Korea nuclear crisis https://t.co/xEAISMVKyP,-0.4019,62
-09/18/2017,The New York Times,0.739,0.0,"Since the 2008 economic crisis, donors have been losing their will to give, a report by Bill and Melinda Gates finds https://t.co/rVcb3GD1mY",-0.7717,61
-09/18/2017,The New York Times,0.884,0.0,"Sean Spicer said he now regrets one of his most infamous moments as press secretary: “Of course I do, absolutely.” https://t.co/mMNGwCM7eA",-0.3612,60
-09/18/2017,The New York Times,0.734,0.266,It’s been a while since a man has been this pleasantly extra https://t.co/t6ObaLgJLN,0.561,59
-09/18/2017,The New York Times,1.0,0.0,A down payment with a catch: You must be an Airbnb host (continuously for three years) https://t.co/t9iOQr7LMp,0.0,58
-09/18/2017,The New York Times,0.704,0.141,"RT @nytopinion: How disturbing that Stephen Colbert of all people would welcome Spicer onstage, says @FrankBruni https://t.co/Mw9IJnPq0B",-0.0772,57
-09/18/2017,The New York Times,0.683,0.317,"Opinion: If you care about preserving the huge gains the ACA has brought, make your voice heard, writes @PaulKrugman https://t.co/YsSqqj9e84",0.7845,56
-09/18/2017,The New York Times,0.838,0.0,"Shortly after the arrests, police officers were heard by reporters chanting “Whose streets? Our streets."" https://t.co/uk1At0FSkp",-0.4404,55
-09/18/2017,The New York Times,0.693,0.0,"A Times article described Indian officials hushing up a small-town murder. The police read it, and made an arrest. https://t.co/n7L5cRymEo",-0.7964,54
-09/18/2017,The New York Times,0.803,0.197,"It’s a simple thing, making a cake from a box, but when you’re doing it at 30 degrees below zero, you feel rich https://t.co/qvK7YhNxgh",0.7096,53
-09/18/2017,The New York Times,1.0,0.0,RT @dougmillsnyt: .@realDonaldTrump meets with Prime Minister of Israel Benjamin Netanyahu in NY. @netanyahu #UNGA https://t.co/d0yAnH1xH4,0.0,52
-09/18/2017,The New York Times,1.0,0.0,"RT @peterbakernyt: Asked whether he will pull out of Iran deal, Trump says “You’ll see very soon. You’ll be seeing very soon.""",0.0,51
-09/18/2017,The New York Times,0.788,0.0,"Donald Glover, Jackie Hoffman, ""Big Little Lies"" and Sean Spicer — highs and lows from this year's Emmys https://t.co/dMzO7buKVq",-0.5118,50
-09/18/2017,The New York Times,0.779,0.135,"Trump said the UN had to regain “the trust of the people,” without mentioning his proposal to cut its funding https://t.co/tQO8LDfEj6",0.296,49
-09/18/2017,The New York Times,1.0,0.0,"""You know what we really are? Adrenaline junkies."" Meet the fly-in hurricane task force from California. https://t.co/JRh7VDLTdp",0.0,48
-09/18/2017,The New York Times,0.781,0.219,"In celebration of NYT Cooking's third anniversary, here are the recipes readers love most https://t.co/Z2nG5qCUCb https://t.co/oPLgU400LV",0.6369,47
-09/18/2017,The New York Times,0.765,0.235,"Stronger, more frequent storms are driving major changes in the Amazon, research found. Our #Daily360 https://t.co/ML5xWj8Q8g",0.5106,46
-09/18/2017,The New York Times,1.0,0.0,How the internet kept humming during 2 hurricanes https://t.co/9KSqC7Qh8S,0.0,45
-09/18/2017,The New York Times,0.886,0.114,RT @nytvideo: Learn how Facebook’s global dominance is actually breaking apart the internet. https://t.co/R7YMWCCGNw https://t.co/zx3S5lpJ8U,0.2023,44
-09/18/2017,The New York Times,0.863,0.137,“They treat their seats as if these are monarchies with coronations as opposed to democracies with elections” https://t.co/ZVmRhuG8be,0.4019,43
-09/18/2017,The New York Times,1.0,0.0,RT @nytopinion: Ellen Pao: I know that there is a real cost to speaking up. I have also seen that every voice can make a difference. https:…,0.0,42
-09/18/2017,The New York Times,0.753,0.0,Blocked in China. Privacy concerns in Europe. Suspicions in Africa. This is Facebook’s global reality. https://t.co/oxoY3cTvFy,-0.5574,41
-09/18/2017,The New York Times,0.762,0.238,A top adviser said the Trump administration was “unambiguous” about its plans to withdraw from the Paris agreement https://t.co/hejzifoOu2,0.6124,40
-09/18/2017,The New York Times,1.0,0.0,A cannily chosen dress paraded at the Emmys can cement a reputation or reboot a career https://t.co/ZOOpSQOja1,0.0,39
-09/18/2017,The New York Times,0.821,0.179,NYT's @declanwalsh shared live updates from Egypt of the verdicts in a mass trial including U.S. and Irish citizens https://t.co/tj46WNEYmA,0.4019,38
-09/18/2017,The New York Times,1.0,0.0,The hurricanes left behind several unexpected mementos https://t.co/joQBebA87S,0.0,37
-09/18/2017,The New York Times,0.679,0.145,A last-ditch push to obliterate the Affordable Care Act could be nearing a showdown vote in the Senate https://t.co/RyQELJvjMX,-0.1779,36
-09/18/2017,The New York Times,0.707,0.152,Iran's president faces embarrassing news as he arrives for the United Nations General Assembly https://t.co/TVNN2HPuRR,0.0516,35
-09/18/2017,The New York Times,1.0,0.0,Beth Mowins smashed through the glass ceiling by becoming the first woman to call a game on “Monday Night Football”  https://t.co/PCvLe7zVEF,0.0,34
-09/18/2017,The New York Times,0.762,0.119,"""Like listening to my ex nag me."" What some men say when they hear a female sports broadcaster: https://t.co/PCvLe7zVEF",0.0,33
-09/18/2017,The New York Times,0.694,0.204,"What President Trump says, whom he may offend, please or surprise and how other international leaders react https://t.co/mKnSjdwYfL",0.296,32
-09/18/2017,The New York Times,0.737,0.058,"Early one morning in 1983, Stanislav Petrov helped to prevent the outbreak of nuclear war https://t.co/JU55dC0iOF",-0.5859,31
-09/18/2017,The New York Times,1.0,0.0,These white giraffes display the characteristics of a genetic condition which occurs across the animal kingdom https://t.co/Q7gIIDA4yb,0.0,30
-09/18/2017,The New York Times,0.586,0.0,At least 3 people were killed and more than a dozen were injured in a bus crash in Flushing https://t.co/rlS4y35QCw,-0.872,29
-09/18/2017,The New York Times,1.0,0.0,Morning Briefing: Here's what you need to know to start your day https://t.co/UltOYO6fdt https://t.co/zjXZaSFGd7,0.0,28
-09/18/2017,The New York Times,0.618,0.0,Many on Twitter condemned Trump's promotion of violent imagery toward Hillary Clinton https://t.co/0aiDr9cgwy,-0.7783,27
-09/18/2017,The New York Times,0.567,0.433,A complete list of winners of the 2017 Emmy Awards https://t.co/SSoI697pH2,0.7269,26
-09/18/2017,The New York Times,0.711,0.289,RT @nytopinion: Nigel Farage on Donald Trump's takeover of the Republican Party: “It’s a complete hijack and I love it.” https://t.co/msYmV…,0.7845,25
-09/18/2017,The New York Times,0.625,0.0,An angry confrontation. Fears of recordings. Trump’s lawyers are clashing over cooperating with the Russia inquiry. https://t.co/KE9SudjL7d,-0.8126,24
-09/18/2017,The New York Times,1.0,0.0,Last week the California Legislature passed 15 housing bills in an attempt to tame the state's cost of living https://t.co/EF6t7PwQT4,0.0,23
-09/18/2017,The New York Times,1.0,0.0,Rolling Stone is going up for sale https://t.co/XouenRPiU2,0.0,22
-09/18/2017,The New York Times,0.692,0.0,Some Emmy viewers were not interested in laughing along with Sean Spicer https://t.co/gf3Qfl1gi6,-0.5975,21
-09/18/2017,The New York Times,0.593,0.207,"The United Nations explained: Its purpose, power and problems https://t.co/83aFIF9wtI",0.0258,20
-09/18/2017,The New York Times,0.716,0.146,"Opinion: ""In Trump's eyes, Barack Obama wasn't simply a bad president, he was illegitimate and inferior"" https://t.co/8MbA5Vtmh1",0.0387,19
-09/18/2017,The New York Times,1.0,0.0,Morning Briefing: Here's what you need to know to start your day https://t.co/eEvk7Ju6gN https://t.co/1AvvbaJKtR,0.0,18
-09/18/2017,The New York Times,0.682,0.318,Which of these countries has the best health system? https://t.co/P23gIFPHR7,0.6369,17
-09/18/2017,The New York Times,1.0,0.0,The Emmys figured out how to handle Trump https://t.co/Sbzj8S0XQc,0.0,16
-09/18/2017,The New York Times,0.675,0.084,Hundreds of people protested in St. Louis after a former police officer who fatally shot a black man was acquitted https://t.co/9o0qEYvW3B,-0.5719,15
-09/18/2017,The New York Times,1.0,0.0,Facebook knows more about Russia's election meddling. Shouldn’t we? https://t.co/lN6iFCNkZQ,0.0,14
-09/18/2017,The New York Times,0.769,0.231,President Trump's legal team is wrestling with how much to cooperate with the special counsel https://t.co/tKwBylaNVa,0.4939,13
-09/18/2017,The New York Times,1.0,0.0,A transcript of Stephen Colbert's Emmys opening monologue https://t.co/LJ2CiAcbQ8,0.0,12
-09/18/2017,The New York Times,1.0,0.0,The impossible bind of sheriffs navigating Trump's immigration crackdown https://t.co/4QZ2KFd2Xb,0.0,11
-09/18/2017,The New York Times,0.723,0.0,"Despite warnings, there is no evidence that Washington ever moved with urgency to cut off N.Korea's access to a fuel https://t.co/cYfjCrhekn",-0.6705,10
-09/18/2017,The New York Times,1.0,0.0,Morning Briefing: Here's what you need to know to start your day https://t.co/BjGTKcBpM4 https://t.co/T5xG1bl05Q,0.0,9
-09/18/2017,The New York Times,0.847,0.0,Some accuse Italy of paying off Libya's most rapacious warlords https://t.co/0I9QupW8qe,-0.2023,8
-09/18/2017,The New York Times,1.0,0.0,The radicalization of a new generation of Rohingya adds fuel to an already combustible situation in Myanmar https://t.co/TpgKcGDjrz,0.0,7
-09/18/2017,The New York Times,0.844,0.156,RT @nytimesworld: Pakistan's former prime minister was thrown out seven weeks ago. His wife won his assembly seat on Sunday. https://t.co/d…,0.5719,6
-09/18/2017,The New York Times,1.0,0.0,"President Trump, Emmy punching bag https://t.co/0ZhyqQ8QgN",0.0,5
-09/18/2017,The New York Times,0.751,0.0,"A location scout for the Netflix series ""Narcos"" was found shot dead in Mexico https://t.co/yCP6MkTXYK",-0.6486,4
-09/18/2017,The New York Times,0.692,0.0,Some Emmy viewers were not interested in laughing along with Sean Spicer https://t.co/WWrshUHeWy,-0.5975,3
-09/18/2017,The New York Times,0.833,0.0,Four American college students were attacked with acid by a woman at a train station in Marseille https://t.co/bsRYsGSyfc,-0.4588,2
-09/18/2017,The New York Times,0.694,0.0,"After 50 years, Rolling Stone is bowing to the pressures of a troubled industry https://t.co/tCPQqD99Uu",-0.6486,1
+@annaefoster takes us to the very edge of South Korea
+
+BLOG 📲: https://t.c…",-0.5256,42
+09/20/2017,BBC News (UK),0.798,0.092,"RT @vicderbyshire: 3 wks after our exclusive on a controversial sterilisation device, the manufacturer withdraws it https://t.co/sZiwMmm7Ie…",-0.0772,41
+09/20/2017,BBC News (UK),0.532,0.0,Nottingham gas explosion: Two seriously injured https://t.co/ED9weTVATp,-0.5267,40
+09/20/2017,BBC News (UK),0.827,0.173,"Olivia and Oliver are top of the list of baby names in England and Wales, how popular is your name? Find out here:… https://t.co/B0N6bjRI1q",0.5574,39
+09/20/2017,BBC News (UK),0.824,0.0,Birmingham bin strike halted after court ruling https://t.co/AyuG1ZdAPT,-0.128,38
+09/20/2017,BBC News (UK),0.635,0.0,Warning over food import delays if no Brexit deal https://t.co/bhCFVjACur,-0.5574,37
+09/20/2017,BBC News (UK),0.764,0.236,"Olivia &amp; Oliver are the most popular 👶 names in England and Wales. 
+
+How popular is your name? Find out here ➡… https://t.co/KCu9Y5Hcmw",0.734,36
+09/20/2017,BBC News (UK),1.0,0.0,Female film casting same as 100 years ago https://t.co/nt5LOZ0ria,0.0,35
+09/20/2017,BBC News (UK),1.0,0.0,RT @BBCEngland: The first statue of a woman to be built in Parliament Square - suffragist Millicent Fawcett - gets the go ahead https://t.c…,0.0,34
+09/20/2017,BBC News (UK),1.0,0.0,Woman held at Heathrow Airport in anti-terrorism probe https://t.co/EfpHrv10S1,0.0,33
+09/20/2017,BBC News (UK),0.813,0.187,Euro Parliament negotiator: 'Up to UK to find border solution' https://t.co/VyQvcRoDub,0.3182,32
+09/20/2017,BBC News (UK),0.864,0.0,Couple who can't afford their dream wedding ask guests to pay £150 each to be there on their big day 👰💍🎊… https://t.co/190nNr4neU,-0.2824,31
+09/20/2017,BBC News (UK),1.0,0.0,RT @BBCEngland: Do we judge people by what they're called? https://t.co/A5i4IIUDFp https://t.co/Eyw4UdHT0z,0.0,30
+09/20/2017,BBC News (UK),0.849,0.0,"RT @BBCWorld: First aerial images emerge showing the damage to the island of Dominica after Hurricane #Maria
+
+https://t.co/0PsqsN5ygJ https…",-0.4939,29
+09/20/2017,BBC News (UK),0.847,0.153,Baby names: Olivia top as William makes way for Muhammad https://t.co/rzIJi0cAr9,0.2023,28
+09/20/2017,BBC News (UK),0.782,0.0,"RT @BBCNewsround: More than 400,000 Rohingya people have had to flee their homes in Myanmar, after fighting broke out there https://t.co/fI…",-0.6486,27
+09/20/2017,BBC News (UK),1.0,0.0,RT @BBCLondonNews: London venue is UK's first to use digital-only ticketing https://t.co/AGqsS23TtY https://t.co/AsudyCbngv,0.0,26
+09/20/2017,BBC News (UK),0.692,0.0,"RT @VictoriaLIVE: 'Academic pressure is adding to risks of teenage depression - ""we need to turn down the heat""' says @_NatashaDevon
+https:…",-0.7906,25
+09/20/2017,BBC News (UK),0.34,0.0,Two more arrested over Tube bomb attack https://t.co/NOTUMOx20C,-0.8655,24
+09/20/2017,BBC News (UK),0.9,0.0,"RT @VictoriaLIVE: ""A lot of buildings collapsed - you have to wonder if the buildings meet the earthquake code"" #mexicoearthquake https://t…",-0.2732,23
+09/20/2017,BBC News (UK),0.753,0.247,"Meet the man who invented this :-) 
+
+😄😊☺😁😆😅😀😃 https://t.co/tyrYD8M7VJ",0.3869,22
+09/20/2017,BBC News (UK),0.885,0.115,RT @BBCBusiness: US-style coffee or Italian coffee? Which one gets your vote? @maurogalluzzo reveals why Italians may surprise you ☕ https:…,0.3527,21
+09/20/2017,BBC News (UK),0.667,0.0,'Remove racist' Native American tapestry from public display https://t.co/vLRObosnfA,-0.6124,20
+09/20/2017,BBC News (UK),1.0,0.0,"RT @BBCWorld: Follow the latest news on the #mexicoearthquake 
+
+https://t.co/JxB93vuqa4 https://t.co/EMIuwHv8wV",0.0,19
+09/20/2017,BBC News (UK),0.783,0.217,RT @BBCEngland: Greater Manchester Police reveals more than one in five of its computers were still running Windows XP as of July https://t…,0.7034,18
+09/20/2017,BBC News (UK),0.712,0.124,"RT @BBCWorld: Strong earthquake hits central Mexico, killing more than 200 people and toppling dozens of buildings in Mexico City
+
+https://…",-0.2732,17
+09/20/2017,BBC News (UK),1.0,0.0,RT @bbcweather: Here's your Wednesday planner. Get the forecast for where you are here https://t.co/irGlOFGKGH Alina https://t.co/BxNT6syhSj,0.0,16
+09/20/2017,BBC News (UK),1.0,0.0,"RT @BBCBenThompson: 4,000 jobs to go as India's Tata Steel &amp; German rival, Thyssenkrupp, merge European steel arms. CFO tells me deal safeg…",0.0,15
+09/20/2017,BBC News (UK),0.733,0.0,RT @BBCFergusWalsh: Life-extending lung cancer drug denied to writer AA Gill to be made immediately available to NHS patients in England ht…,-0.8074,14
+09/20/2017,BBC News (UK),0.696,0.0,Prisoner quizzed over Marvin Couson Lime bar shooting https://t.co/bUOpeiAKB8,-0.5423,13
+09/20/2017,BBC News (UK),0.917,0.083,RT @BBCBreakfast: A new survey suggests a third of people admit to checking their phone within 5 mins of waking up. Sound familiar? 📱 https…,0.2023,12
+09/20/2017,BBC News (UK),1.0,0.0,"RT @BBCr4today: ""Utterly extraordinary""
+
+Here are divers on a recently found 2000 year old Roman Galley #r4today https://t.co/TUQzICkXB1",0.0,11
+09/20/2017,BBC News (UK),0.798,0.0,"RT @BBCNewsAsia: Baggage handler, who allegedly swapped hundreds of luggage tags at Singapore's Changi Airport, charged with mischief https…",-0.5106,10
+09/20/2017,BBC News (UK),0.717,0.283,RT @BBCBusiness: On #BBCBizLive: there's reports Amazon is about to launch smart glasses using it's Alexa AI. Are smart glasses a wearable…,0.7269,9
+09/20/2017,BBC News (UK),0.75,0.203,RT @BBCBreakfast: EXCLUSIVE: The moment Prince Harry met the Foo Fighters. The band tell Breakfast how their friendship with the Prince beg…,0.6037,8
+09/20/2017,BBC News (UK),0.861,0.0,"RT @BBCr4today: A quarter of girls and nearly one in 10 boys show signs of depression at the age of 14, say UK researchers https://t.co/AdO…",-0.5719,7
+09/20/2017,BBC News (UK),1.0,0.0,"RT @BBCWorld: Follow the latest news on the #mexicoearthquake
+
+https://t.co/39rCHhtRhG https://t.co/ZZN8nR77WC",0.0,6
+09/20/2017,BBC News (UK),0.562,0.0,RT @DannyShawBBC: Latest on #ParsonsGreen attack: 3rd arrest; extremist referral re bomb suspect; details of bomber's journey  https://t.co…,-0.872,5
+09/20/2017,BBC News (UK),0.775,0.05,"RT @BBCWorld: ""The movement was intense"" - Laura Carlsen was in Mexico City when earthquake that's killed more than 220 people hit https://…",-0.6369,4
+09/20/2017,BBC News (UK),0.645,0.0,"Your morning briefing: More than 220 dead in Mexico earthquake, PM warns tech firms over terror &amp; other stories… https://t.co/gm7o2G50eg",-0.8542,3
+09/20/2017,BBC News (UK),1.0,0.0,Tata Steel and ThyssenKrupp merger deal confirmed https://t.co/7rYQw3hIl8,0.0,2
+09/20/2017,BBC News (UK),0.843,0.0,"RT @BBCWorld: As Hurricane Maria bears down on Puerto Rico... https://t.co/CrAGG0Rwnh
+
+Mexico earthquake devastation continues: https://t.c…",-0.4215,1
+09/21/2017,CBS News,0.737,0.129,"First responders' work has been at times frantic, painstaking in the aftermath of the powerful Mexico earthquake… https://t.co/Yqs9lk2oy3",-0.0258,100
+09/21/2017,CBS News,0.805,0.195,Attorney General Jeff Sessions to testify before Senate panel about Department of Justice oversight… https://t.co/btUL8oUcOd,0.5267,99
+09/21/2017,CBS News,1.0,0.0,Attendance numbers for youth football are declining amid health concerns over brain injuries https://t.co/sLjHcC92bi https://t.co/hrhHifgMPV,0.0,98
+09/21/2017,CBS News,0.891,0.0,"Iran's president said no alterations would made to current nuclear deal. In response, Tillerson says ""never say nev… https://t.co/aFEZf21dUZ",-0.296,97
+09/21/2017,CBS News,0.776,0.091,"After being asked if nuclear deal hurts U.S. credibility with N. Korea, Tillerson says ""nature of agreements"" are g… https://t.co/nmpmHrCC2b",-0.25,96
+09/21/2017,CBS News,1.0,0.0,"Tillerson would not reveal Pres. Trump's decision on nuclear deal, but says after meeting, Iran is in ""technical co… https://t.co/T2zEGT27Jn",0.0,95
+09/21/2017,CBS News,0.762,0.1,"""They have provided weapons and training forces to deploy to create instability throughout the region,"" Tillerson s… https://t.co/xKzNhkrriZ",-0.2023,94
+09/21/2017,CBS News,1.0,0.0,"Tillerson says Iran has ""not met expectations"" in nuclear arms deal https://t.co/8Mr3oU6IGe",0.0,93
+09/21/2017,CBS News,0.84,0.0,"""Our thoughts and prayers are with the Mexican people as they are dealing with this terrible tragedy,"" Tillerson sa… https://t.co/IyhYVftL5Z",-0.561,92
+09/21/2017,CBS News,1.0,0.0,"NOW: Secretary of State Rex Tillerson holds press conference following the Joint Commission Meeting hosted by EU, a… https://t.co/6BKC8i2JDq",0.0,91
+09/21/2017,CBS News,0.909,0.091,Amazon is reviewing procedures after it was revealed its website may unwittingly give tips to would-be bombers… https://t.co/2Nsnu2TiKp,0.1779,90
+09/21/2017,CBS News,0.87,0.13,Special counsel Robert Mueller has asked the White House for documents from Pres. Trump's time since taking office… https://t.co/xDCiGuQVtW,0.4019,89
+09/20/2017,CBS News,1.0,0.0,Why a team of 8-year-old football players decided to kneel for the national anthem ahead of Sunday's game. https://t.co/8IxpKP49UO,0.0,88
+09/20/2017,CBS News,0.75,0.0,Maria knocked out Puerto Rico's power and left loads of damage to an island already struggling with a massive debt… https://t.co/9Fu4hM2Fdq,-0.7184,87
+09/20/2017,CBS News,0.802,0.0,"Police search for ""Mad Pooper"" who's defecating on lawns in a Colorado neighborhood https://t.co/YjhuDB3umT https://t.co/tZLWkrv4Sc",-0.4939,86
+09/20/2017,CBS News,0.706,0.208,"""I felt like they were doing work that no one else was doing,"" @MumfordAndSons' Marcus said about his charity work… https://t.co/IMSMLs6Wke",0.4767,85
+09/20/2017,CBS News,0.762,0.0,"Southern California is battling an outbreak of hepatitis A, which attacks the liver and is highly contagious.… https://t.co/hpYPNZfL4J",-0.6124,84
+09/20/2017,CBS News,0.708,0.08,"Playing tackle football before age 12 dramatically increases risk for brain problems later in life, new study finds… https://t.co/l7mFnurIL7",-0.4588,83
+09/20/2017,CBS News,0.87,0.13,Mark Phillips reports @amazon is reviewing procedures after it was revealed that its website may unwittingly help w… https://t.co/AvhhESCcDv,0.4019,82
+09/20/2017,CBS News,0.63,0.37,Senate Republicans say their new health care plan may be their best chance for getting rid of Obamacare.… https://t.co/bHdLpNxCjE,0.8555,81
+09/20/2017,CBS News,0.816,0.184,.@jeffpeguescbs learned of emails that show a top Trump operative reaching out to an associate of Vladimir Putin. https://t.co/2SQiVJuriD,0.3818,80
+09/20/2017,CBS News,0.874,0.0,"At least 230 people were killed, but there are also incredible stories of survival. @BojorquezCBS has more from Mex… https://t.co/CipvBXJbwz",-0.4118,79
+09/20/2017,CBS News,0.877,0.123,"Hurricane Maria, the most powerful storm to hit Puerto Rico in more than 80 years has knocked out power to the isla… https://t.co/2V92atBpog",0.4754,78
+09/20/2017,CBS News,1.0,0.0,Here's a quick look at what's ahead on @CBSEveningNews: https://t.co/Pzq6KWczZc,0.0,77
+09/20/2017,CBS News,1.0,0.0,"Paul Manafort offered to give Russian billionaire ""private briefings"" on 2016 campaign, according to report… https://t.co/KhSzdBzLig",0.0,76
+09/20/2017,CBS News,1.0,0.0,AHEAD: Hurricane Maria blasted Puerto Rico with 155 mph winds today. @DavidBegnaud is there tonight on… https://t.co/OYDKx1yetv,0.0,75
+09/20/2017,CBS News,0.722,0.0,"After Equifax breach, company had been directing victims to wrong website for weeks, report says… https://t.co/6JJHyrMz2i",-0.6597,74
+09/20/2017,CBS News,1.0,0.0,RT @CBSThisMorning: Thursday on @CBSThisMorning: @GayleKing sits down with @JustinBieber's longtime manager @ScooterBraun. WATCH: https://t…,0.0,73
+09/20/2017,CBS News,0.667,0.138,How to help victims of the deadliest earthquake to strike Mexico City in decades: https://t.co/c66WOGMT2f https://t.co/FG70TRIvXK,-0.0258,72
+09/20/2017,CBS News,0.588,0.092,"Chester Bennington's wife shares video — taken 36 hours before singer's death — to show people ""depression doesn't… https://t.co/WsoG1WF6i5",-0.7506,71
+09/20/2017,CBS News,0.864,0.0,"Pres. Trump calls Obamacare ""dysfunctional"" and says Senate is going to be forced to make a deal at some point. https://t.co/u9jkmbHW0H",-0.4588,70
+09/20/2017,CBS News,1.0,0.0,"Following meeting with Egyptian president, Pres. Trump and Vice President Pence talk about Obamacare repeal https://t.co/0jn1BMuVah",0.0,69
+09/20/2017,CBS News,0.773,0.0,"After an entire wing of Mexican school collapsed in wake of 7.1 earthquake, frantic search for survivors continues… https://t.co/Edq4JCgbDt",-0.6124,68
+09/20/2017,CBS News,0.842,0.0,"Police are looking for the ""Mad Pooper,"" a jogger they say has been repeatedly defecating in one neighborhood… https://t.co/N1Iy4E2Enr",-0.4939,67
+09/20/2017,CBS News,0.833,0.167,"Obama defends health care law: ""When I see people trying to undo that hard-won progress...it is aggravating""… https://t.co/1Yxy1Xcg2N",0.4939,66
+09/20/2017,CBS News,0.862,0.138,RT @CBSThisMorning: Don't miss @VP Pence on @CBSThisMorning Thursday. https://t.co/mhi2dh6Xsk,0.1139,65
+09/20/2017,CBS News,0.917,0.0,"Stephen Colbert busted out the wine when Hillary Clinton stopped by to chat about her book, Pres. Trump and her los… https://t.co/OwyFRnTs24",-0.2263,64
+09/20/2017,CBS News,1.0,0.0,"Video shows hospital employees improperly handling newborns, calling infants ""mini Satans"" https://t.co/A61UHCzHLp https://t.co/dt2cREc1lF",0.0,63
+09/20/2017,CBS News,0.711,0.0,"There is no video of Kenneka Jenkins entering the freezer where she was found dead, hotel says:… https://t.co/nlwutgrfgX",-0.7579,62
+09/20/2017,CBS News,1.0,0.0,Dad decides to show off rattlesnake catching (and cooking) skills to son — a decision he comes to regret… https://t.co/SZSbzDBHyi,0.0,61
+09/20/2017,CBS News,0.699,0.057,"As number of injured diplomats soared, State Dept. kept Cuba attacks secret, document obtained by CBS News shows:… https://t.co/KxbWMjsIjs",-0.6486,60
+09/20/2017,CBS News,1.0,0.0,"NEW: Hurricane Maria has been downgraded to a Category 3 storm, National Hurricane Center says… https://t.co/txJO0mHnRr",0.0,59
+09/20/2017,CBS News,0.825,0.0,"One hurt, one in custody after report of shooting at a high school in central Illinois: https://t.co/B2QOYnqZJL https://t.co/SxvmRPxaoe",-0.5267,58
+09/20/2017,CBS News,1.0,0.0,"Pres. Trump tells reporters he has ""decided"" on what he will do about Iran nuclear deal, although he won't say yet… https://t.co/ESP9vjPy20",0.0,57
+09/20/2017,CBS News,0.614,0.217,"U.S. is proud to work with Africa ""to eradicate terrorist safe havens ... and to discredit their depraved ideology,… https://t.co/lrnGBfBZam",0.0772,56
+09/20/2017,CBS News,1.0,0.0,"""Africa has tremendous business potential,"" Pres. Trump says https://t.co/T5uqoA85rO https://t.co/8BPGp0Bjhi",0.0,55
+09/20/2017,CBS News,1.0,0.0,WATCH LIVE: Pres. Trump speaks after meeting with African leaders at #UNGA  https://t.co/T5uqoA85rO https://t.co/DB8b6ihc00,0.0,54
+09/20/2017,CBS News,0.779,0.0,Jose weakens to a tropical storm as it stirs up dangerous surf and rip currents along Long Island and N.J. shores… https://t.co/xVqGya0KCm,-0.6597,53
+09/20/2017,CBS News,1.0,0.0,.@60minutes' 50th anniversary season premiere airs this Sunday. Watch at 7:30 EST on CBS. #50yearsof60… https://t.co/hsTQnCDynz,0.0,52
+09/20/2017,CBS News,0.833,0.0,"Iranian President Hassan Rouhani blasts President Trump, says the U.S. is losing credibility:… https://t.co/iVptTMlKpO",-0.3818,51
+09/20/2017,CBS News,1.0,0.0,"RT @60Minutes: Tick, tick, tick...Please note that Sunday's 50th anniversary season premiere airs at 7:30 EST on CBS. #50yearsof60 https://…",0.0,50
+09/20/2017,CBS News,0.608,0.108,"""Billy Cassidy just lied right to my face,"" Jimmy Kimmel accuses Sen. Bill Cassidy of lying about health care on ai… https://t.co/qwDGavMwjW",-0.6369,49
+09/20/2017,CBS News,0.703,0.195,"First lady Melania Trump asks social media, educational &amp; community leaders to join in the fight ""for the hopes and… https://t.co/pA423staHj",0.34,48
+09/20/2017,CBS News,1.0,0.0,"""It is our nation's moral imperative to take responsibility for what our children learn,"" Melania Trump says… https://t.co/cOx7HLkrsQ",0.0,47
+09/20/2017,CBS News,0.852,0.148,"""We must remember that they are watching and listening"" in order to teach children ""life's many ethical lessons,"" M… https://t.co/SsB4sQstzF",0.5106,46
+09/20/2017,CBS News,0.717,0.0,"WATCH LIVE: First lady Melania Trump to advocate for children, denounce bullying during remarks at U.N. luncheon… https://t.co/fhFpDPg3bE",-0.743,45
+09/20/2017,CBS News,0.785,0.0,Puerto Rico Gov. Ricardo Rossello has asked President Trump to declare the island a disaster zone:… https://t.co/lncKS2PQs2,-0.6249,44
+09/20/2017,CBS News,0.861,0.139,"First lady Melania Trump is calling on world leaders to ""step up"" to improve the lives of children:… https://t.co/GPQ9osdPew",0.4404,43
+09/20/2017,CBS News,1.0,0.0,"Pelosi, citing House rule on private plane travel, says, ""It's just not right,"" when asked about report on Secy. To… https://t.co/bvswapSfJ5",0.0,42
+09/20/2017,CBS News,0.69,0.0,"""Again and again, the American people have rejected the immense cost and cruelty of 'Trumpcare,'"" Pelosi says… https://t.co/eFiXzoeF88",-0.802,41
+09/20/2017,CBS News,1.0,0.0,WATCH LIVE: House Minority Leader Nancy Pelosi holds news conference amid push to repeal Obamacare… https://t.co/SVdcFiULRQ,0.0,40
+09/20/2017,CBS News,0.816,0.0,"""Mini Satans"": Hospital employees removed after shocking Facebook post goes viral https://t.co/whQwU2wleM https://t.co/gTyUKkDC5J",-0.4019,39
+09/20/2017,CBS News,1.0,0.0,A Florida home spared by Hurricane Irma has been partially swallowed up by a massive sinkhole:… https://t.co/XvHlVJoH54,0.0,38
+09/20/2017,CBS News,0.602,0.069,"""By violating its international commitments, the new U.S. administration only destroys its own credibility,"" Iran's… https://t.co/lWBgj3Upnc",-0.765,37
+09/20/2017,CBS News,0.643,0.26,"""We were not deceived, nor did we cheat or deceive anyone. We have ourselves determined the extent of our nuclear p… https://t.co/5EacT1CysZ",0.5553,36
+09/20/2017,CBS News,1.0,0.0,"The Iran nuclear deal ""belongs to the international community in its entirety,"" Rouhani says https://t.co/T5uqoA85rO https://t.co/XFE8XA2TSz",0.0,35
+09/20/2017,CBS News,0.79,0.21,"""We never threaten anyone. But we do not tolerate threats from anyone,"" Iran's Rouhani tells UNGA, says ""moderation… https://t.co/FzB9e2WUIY",0.5448,34
+09/20/2017,CBS News,0.857,0.0,"WATCH LIVE: Iranian President Rouhani speaks at #UNGA, day after Pres. Trump threatened to scrap Iran nuclear deal… https://t.co/ftHHNnpEzU",-0.4588,33
+09/20/2017,CBS News,0.857,0.0,"The US military abandoned its mid-Atlantic Azores base citing cost. China may now take it over for ""science""… https://t.co/n1ZAxubF07",-0.4588,32
+09/20/2017,CBS News,0.87,0.13,Deputy AG Rod Rosenstein has been interviewed as part of special counsel's probe about into  James Comey's firing:… https://t.co/NNVIpkObUJ,0.4019,31
+09/20/2017,CBS News,0.776,0.114,"""I felt like I was not living up to my potential,"" Ivanka Trump reveals she struggled with postpartum depression… https://t.co/2hdzpS9vQl",0.0258,30
+09/20/2017,CBS News,0.579,0.421,"""I think that we have a pretty good shot, maybe the best shot ever"" at Middle East peace, Pres. Trump says while me… https://t.co/od3lP6QLLX",0.93,29
+09/20/2017,CBS News,0.659,0.124,Late-night host Jimmy Kimmel accused Sen. Bill Cassidy of lying to him about his intentions for health care reform:… https://t.co/T9MMPLy1C6,-0.34,28
+09/20/2017,CBS News,1.0,0.0,"President Trump, while meeting with Jordan's King Abdullah, says ""it's just one after another"" this hurricane seaso… https://t.co/T27kqhYQhx",0.0,27
+09/20/2017,CBS News,0.749,0.181,U.N. Ambassador Nikki Haley says President Trump doesn't want war with North Korea: https://t.co/ZpNfftSAev https://t.co/a7C5R794u4,0.4449,26
+09/20/2017,CBS News,1.0,0.0,"As Hurricane Maria squarely batters Puerto Rico, the last Category 4 storm to make landfall on island was in 1932… https://t.co/i9iitssy2P",0.0,25
+09/20/2017,CBS News,1.0,0.0,"""Jordan will always stand beside you and your country, and we will overcome,"" Jordan's King Abdullah says… https://t.co/Ffjgv0rDcd",0.0,24
+09/20/2017,CBS News,0.868,0.132,"""I think never has the relationship been better than it is right now,"" Pres. Trump says of U.S.-Jordan relationship… https://t.co/s4lSeGGkYU",0.4404,23
+09/20/2017,CBS News,1.0,0.0,WATCH LIVE: Pres. Trump meets with King Abdullah of Jordan https://t.co/T5uqoA85rO https://t.co/ruYF1XRwhK,0.0,22
+09/20/2017,CBS News,0.823,0.0,"President Trump took a break from his week of global diplomacy to knock Sunday's Emmys ratings as the ""worst ever""… https://t.co/CYiuoBkpTo",-0.6249,21
+09/20/2017,CBS News,0.905,0.095,The Fed meets Wednesday and is expected to announce a starting date to allow bond holdings to shrink gradually:… https://t.co/vZ1aLA01mg,0.2263,20
+09/20/2017,CBS News,1.0,0.0,"“It’s kind of about life and how you got to deal with what’s coming, you got to keep shooting,” Moynihan says on ne… https://t.co/pqlKXjG05K",0.0,19
+09/20/2017,CBS News,1.0,0.0,"@CBSNews “It was just a different season. It was very politics heavy, very Trump heavy,” Moynihan says on the previ… https://t.co/QJOHv57skR",0.0,18
+09/20/2017,CBS News,0.78,0.107,Cruise ship passengers who unexpectedly spent more than two weeks helping Irma victims are finally going home:… https://t.co/gnisSzsjiV,-0.0258,17
+09/20/2017,CBS News,0.82,0.18,"Bobby Moynihan, known for his impressions on SNL, is now starring in the CBS comedy “Me, Myself and I.” He joins… https://t.co/6o0U94syvI",0.5267,16
+09/20/2017,CBS News,1.0,0.0,".@jpmorgan's Jamie Dimon and @IBM's Ginni Rometty spoke with @NorahODonnell about tax reform, the US economy &amp; DACA… https://t.co/JQ21ywtGzC",0.0,15
+09/20/2017,CBS News,0.85,0.15,"“She’s focusing on, from what I understand women issues...Making sure women entrepreneurs...can be empowered,”… https://t.co/klVvBlFjwf",0.3182,14
+09/20/2017,CBS News,1.0,0.0,"Christine Lagarde, the first woman to be managing director of the International Monetary Fund, joins @CBSThisMorning https://t.co/79UdYudesW",0.0,13
+09/20/2017,CBS News,1.0,0.0,Here’s a look at some of this morning’s headlines from around the globe: https://t.co/Ev6JsVUKsz,0.0,12
+09/20/2017,CBS News,0.865,0.0,President Trump and Hillary Clinton are criticizing each other over North Korea and Trump's #UNGA speech:… https://t.co/ZSLGBIGkfV,-0.3612,11
+09/20/2017,CBS News,1.0,0.0,IMF's @Lagarde and former @nbcsnl cast member @bibbymoynihan are in the Toyota Green Room at @CBSThisMorning. They'… https://t.co/450ZNrZ8dZ,0.0,10
+09/20/2017,CBS News,0.83,0.0,@CBSNews @MayorLandrieu says some Confederate statues “were put up way after the civil war. They were kind of a his… https://t.co/WDW7QPRf73,-0.5994,9
+09/20/2017,CBS News,0.889,0.111,RT @CBSThisMorning: International Monetary Fund Managing Dir. Christine @Lagarde is in our Toyota Green Room. She'll join us live next! htt…,0.3595,8
+09/20/2017,CBS News,1.0,0.0,New Orleans Mayor Mitch Landrieu’s speech about removing Confederate statues made national headlines. He joins… https://t.co/1hDWWhzBzG,0.0,7
+09/20/2017,CBS News,0.849,0.151,"Christine Lagarde is regarded as one of the world’s most influential women. Ahead, she joins @CBSThisMorning to dis… https://t.co/W4uViYiZ8S",0.4927,6
+09/20/2017,CBS News,0.909,0.091,"Two of the country's top executives, Jamie Dimon of JPMorgan Chase and Ginni Rometty of IBM, spoke with… https://t.co/0DyfZTUBHC",0.2023,5
+09/20/2017,CBS News,0.685,0.0,"Ivanka Trump reveals that she suffered from ""some level"" of postpartum depression after delivering her children:… https://t.co/RalnGS1Wq1",-0.7845,4
+09/20/2017,CBS News,0.744,0.0,".@BojorquezCBS is near a collapsed building in Mexico, where up to 40 people are trapped after a deadly earthquake… https://t.co/ROZjPqilA6",-0.6705,3
+09/20/2017,CBS News,1.0,0.0,"Hurricane Maria is smashing into Puerto Rico this morning, which is expecting 12-18 inches of rain… https://t.co/hdXpDKP2bf",0.0,2
+09/20/2017,CBS News,0.82,0.18,@CBSNews Royal Caribbean gave passengers the option of tagging along on its rescue mission: https://t.co/VhjRiY1SSn https://t.co/1B5F7jxCCn,0.5106,1
+09/21/2017,CNN,0.863,0.137,"Democrat Sen. Mark Warner on Russia probe: ""I wish Facebook would be more transparent and more forthcoming"" https://t.co/CXKdv7MhhR",0.4019,100
+09/21/2017,CNN,0.762,0.11,This map shows why passing Graham-Cassidy could be a huge political problem for the GOP | Analysis by @CillizzaCNN… https://t.co/O4wPdp3U7y,-0.1027,99
+09/21/2017,CNN,1.0,0.0,RT @leylasantiago: And the cleanup begins.. #HurricaneMaria #SanJuan #PuertoRico #cnn https://t.co/8JKzELlcTI,0.0,98
+09/21/2017,CNN,0.891,0.109,"Puerto Rico governor: It will take ""months as opposed to weeks or days"" to restore power to island https://t.co/3lmSF2GPRe",0.296,97
+09/21/2017,CNN,0.659,0.128,RT @AC360: Search and rescue team makes contact with girl trapped in collapsed school in Mexico City following earthquake https://t.co/9JC9…,-0.296,96
+09/21/2017,CNN,1.0,0.0,"Hurricane Irma ravaged the Caribbean, and now, #HurricaneMaria is following a similar path. Here's how they compare… https://t.co/x33a7yijT9",0.0,95
+09/21/2017,CNN,0.672,0.241,"GOP Gov. John Kasich pans latest health care ""repeal and replace"" effort, says it's no better than earlier attempts https://t.co/ftWZpFdHfU",0.5994,94
+09/21/2017,CNN,1.0,0.0,"RT @AC360: Report from the ground: #HurricaneMaria slammed Puerto Rico today, leaving the entire island without power https://t.co/C1eEjSQS…",0.0,93
+09/21/2017,CNN,1.0,0.0,"Footage shows cars flooded due to #HurricaneMaria while a siren rings in the background in Caguas, Puerto Rico… https://t.co/kXukztnXyl",0.0,92
+09/21/2017,CNN,0.915,0.085,"RT @AC360: .@washingtonpost reporter @CarolLeonnig calls latest Manafort revelation a ""startling development"" in Russia probe https://t.co/…",0.0772,91
+09/21/2017,CNN,1.0,0.0,"Paul Manafort offered to brief a Russian billionaire on the 2016 election, according to a new report… https://t.co/JrQgbDkVPv",0.0,90
+09/21/2017,CNN,0.645,0.133,"Rescue teams have made contact with a girl trapped in the rubble of a collapsed Mexico City school, report says https://t.co/CrcFGkPvTo",-0.296,89
+09/21/2017,CNN,0.739,0.123,"A CNN crew that flew over the scarred landscape of Dominica witnessed devastation to communities, natural resources… https://t.co/SFqsvzir0C",-0.0772,88
+09/21/2017,CNN,0.677,0.175,"Humanitarian worker in Mexico City says the feeling on the ground is ""between chaos and hope"" a day after earthquake https://t.co/n84qdoTQa1",-0.0772,87
+09/21/2017,CNN,0.71,0.153,The powerful force of #HurricaneMaria's wind had CNN's @leylasantiago fighting to keep her footing https://t.co/mrS5XEU50X,0.0772,86
+09/21/2017,CNN,1.0,0.0,Here's a look at advocacy and industry groups that have voiced concerns about the latest Obamacare repeal effort… https://t.co/u6qz5D5L2Q,0.0,85
+09/21/2017,CNN,0.865,0.135,"#HurricaneMaria's winds are ""like a wild animal trying to get into your house,"" a St. Croix resident says https://t.co/NArLDaFhTP",0.3612,84
+09/21/2017,CNN,0.617,0.243,"Rescue crews in Mexico City believe an 8-year-old girl is trapped and still alive, CNN’s @miguelmarquez reports https://t.co/cShnd69WQ1",0.3612,83
+09/21/2017,CNN,0.52,0.26,Rescue crews race to save a girl trapped in the rubble of a collapsed Mexico City school https://t.co/QVAKFh2bs9 https://t.co/nRokf8moaw,0.25,82
+09/20/2017,CNN,0.859,0.141,A supercomputer built for Earth is running just fine in space https://t.co/XqfACTGrAk https://t.co/FXuyeE4JJD,0.2023,81
+09/20/2017,CNN,0.65,0.35,"""Flaming feminist litigator"" Justice Ruth Bader Ginsburg sets up the upcoming Supreme Court term… https://t.co/W9yG6KorH3",0.7906,80
+09/20/2017,CNN,0.842,0.158,"President Trump to African leaders: ""I have so many friends going to your countries trying to get rich""… https://t.co/maBfeGT5Uc",0.5233,79
+09/20/2017,CNN,0.821,0.0,Nest branches out with a home alarm system and a face-detecting doorbell https://t.co/Ld6TfaZ4FE https://t.co/TDyu9oqPSI,-0.34,78
+09/20/2017,CNN,0.573,0.332,"Trump strikes optimistic tone on GOP health care effort, says he thinks Graham-Cassidy bill ""has a very good chance… https://t.co/aMzwXZPzkV",0.7346,77
+09/20/2017,CNN,0.585,0.293,Facebook donates $1 million to help victims of a powerful earthquake in Mexico https://t.co/iZbLWJACrM https://t.co/uUzriqfUxC,0.4939,76
+09/20/2017,CNN,1.0,0.0,How to not run for president (while probably running for president) https://t.co/R7eUwsYZtE https://t.co/QUN9P088kH,0.0,75
+09/20/2017,CNN,0.862,0.138,"As Congress debates a new bill, @drsanjaygupta asks: Why is health care in the US so expensive in the first place?… https://t.co/r5UC9ZNuTC",0.4939,74
+09/20/2017,CNN,0.827,0.0,"RT @CNNSitRoom: Puerto Rico governor on Hurricane Maria: ""This is the most devastating storm, either in the century, or quite frankly in mo…",-0.6801,73
+09/20/2017,CNN,0.859,0.0,Puerto Rico is already in an 11-year economic recession. Now it must start rebuilding after Hurricane Maria.… https://t.co/aae1FmWtup,-0.4215,72
+09/20/2017,CNN,1.0,0.0,"Leon Panetta: If Trump gets out of the Iran deal, he will “bear responsibility for Iran getting a nuclear weapon” https://t.co/kNczsdCnix",0.0,71
+09/20/2017,CNN,0.856,0.144,Special counsel Robert Mueller has requested documents and info related to events during Donald Trump's presidency… https://t.co/tkUegaTUDq,0.4019,70
+09/20/2017,CNN,1.0,0.0,"Mutual is a dating app exclusively for Mormons. For some, it's been an answer to their prayers. https://t.co/gDrbj5ldRm",0.0,69
+09/20/2017,CNN,1.0,0.0,RT @TheLeadCNN: .@MarkWarner : We need to know if any American helped Russia with social media targeting  https://t.co/Gj1hM5Ctfg #TheLead,0.0,68
+09/20/2017,CNN,0.75,0.163,"Monitor your credit report, warns Fed Chairwoman Janet Yellen after Equifax hack https://t.co/iQBuNWE148 https://t.co/iaTQHI5Nuc",0.296,67
+09/20/2017,CNN,0.809,0.0,NFL ratings are down again this season. Is it time to panic yet? https://t.co/RTFYMAtwb0 https://t.co/2kKCUhIV2f,-0.5106,66
+09/20/2017,CNN,0.711,0.0,"Sheryl Sandberg says she's ""disgusted and disappointed"" about use of Facebook to target ads to anti-Semitic users… https://t.co/DNCF3sHQaR",-0.7579,65
+09/20/2017,CNN,0.722,0.0,"A privately-run detention center is exploiting immigrants by paying them a dollar a day, Washington State's AG says… https://t.co/UWYpXORfgM",-0.6597,64
+09/20/2017,CNN,0.617,0.116,"Sen. Blumenthal calls new GOP health care plan one of ""most cruel and outrageous legislative acts in recent history” https://t.co/TcOU5FvhIt",-0.6318,63
+09/20/2017,CNN,1.0,0.0,.@edlavaCNN speaks quietly as rescuers in Mexico listen for signs of life after a massive earthquake https://t.co/do3Bp1QaLE,0.0,62
+09/20/2017,CNN,0.902,0.0,Bill Gates says he's sorry about that cumbersome Control-Alt-Delete key combo https://t.co/oKybjPQ6fq https://t.co/RrTsKZquMf,-0.0772,61
+09/20/2017,CNN,0.824,0.0,"These before-and-after photos show Mexico City prior to the quake, and the damage left behind… https://t.co/ahjqId1hRC",-0.4939,60
+09/20/2017,CNN,1.0,0.0,"RT @CNNSitRoom: Hurricane Maria left Puerto Rico “100% without power,"" according to spokesperson from Puerto Rico governor's office https:/…",0.0,59
+09/20/2017,CNN,0.586,0.224,Rescue crews worked in silence as they raced to save a girl trapped in the rubble of a collapsed Mexico City school… https://t.co/CIGFuIdoOO,0.25,58
+09/20/2017,CNN,1.0,0.0,".@MikeBloomberg slams Trump withdrawing from Paris Climate deal: ""I think the President has been ill-advised"" https://t.co/oYKfFDqIK4",0.0,57
+09/20/2017,CNN,1.0,0.0,".@MikeBloomberg: More Mexicans are leaving the US than coming, ""all a wall would do is keep them from leaving"" https://t.co/VXkzIUbIEq",0.0,56
+09/20/2017,CNN,1.0,0.0,".@MikeBloomberg  calls Trump's UN speech ""unconventional,"" says the President should handle Iran diplomatically https://t.co/pk0hSYdHvr",0.0,55
+09/20/2017,CNN,0.795,0.0,"On podcast, Preet Bharara gives new details on why Donald Trump fired him https://t.co/QC7UHD4Ksb https://t.co/QdyjjDl4kd",-0.5574,54
+09/20/2017,CNN,0.899,0.0,Zuckerberg could soon make a rare appearance on the witness stand in response to a lawsuit by Facebook shareholders https://t.co/TyFcND5Nb3,-0.2263,53
+09/20/2017,CNN,0.827,0.0,"Tim Cook: I'm ""personally shocked"" there's even a debate on DACA https://t.co/M1YjGtvrDM https://t.co/nnlOVi66cs",-0.3182,52
+09/20/2017,CNN,0.667,0.178,Struggling GE is grounding its fleet of corporate jets to save money https://t.co/nqB9yalW7k https://t.co/ByIUdTwpDw,0.1027,51
+09/20/2017,CNN,1.0,0.0,HAPPENING NOW: We are live from the school in Mexico City where rescuers are searching for earthquake survivors… https://t.co/smsRqJrBOR,0.0,50
+09/20/2017,CNN,0.707,0.162,How Jimmy Kimmel became the conscience of the health care fight | Analysis by @CillizzaCNN https://t.co/dMsxtQGTRn https://t.co/yvxGKKrjk3,0.1531,49
+09/20/2017,CNN,0.905,0.095,France's President Macron says he wants to convince President Trump not to pull out of the Paris climate agreement… https://t.co/JkVzXzfOqt,0.25,48
+09/20/2017,CNN,1.0,0.0,"Hurricane Maria ripped the roofs off these homes in San Juan, Puerto Rico https://t.co/v4izk2iDIR https://t.co/BiqhCGbAjV",0.0,47
+09/20/2017,CNN,0.686,0.069,Three US congressmen were among a group of protesters arrested at an immigration demonstration outside Trump Tower… https://t.co/M9eQw0zVK7,-0.5574,46
+09/20/2017,CNN,0.812,0.0,"Steve Bannon ordered Breitbart to step up negative coverage of a Trump-backed Ala. Senate candidate, a source says… https://t.co/U74sKlEXEf",-0.5719,45
+09/20/2017,CNN,0.823,0.0,These aerial images show the devastation caused by Hurricane Maria in Dominica https://t.co/Kpx0lMhaoZ https://t.co/YXHH49fRfx,-0.4215,44
+09/20/2017,CNN,0.703,0.129,"In Mexico City, rescue workers ask for complete silence as they search for signs of life after a devastating quake… https://t.co/uoNN8JBCm2",-0.25,43
+09/20/2017,CNN,0.731,0.269,"RT @CNNPolitics: Trump: ""Africa has tremendous business potential. I have so many friends going to your countries trying to get rich"" https…",0.7893,42
+09/20/2017,CNN,1.0,0.0,"Hurricane Maria left Puerto Rico “100% without power,"" according to spokesperson from Puerto Rico governor's office… https://t.co/kyN6kCkYcC",0.0,41
+09/20/2017,CNN,1.0,0.0,President Trump is speaking at a UN lunch with African leaders. Watch live: https://t.co/UYpqI3esEb https://t.co/uAqmxWiWvR,0.0,40
+09/20/2017,CNN,0.769,0.231,"Former Pres. Obama on health care: “When I see people trying to undo that hard-won progress, for the 50th or 60th t… https://t.co/PKNVIoQ9EC",0.7184,39
+09/20/2017,CNN,1.0,0.0,"RT @CNNPolitics: Obama: ""In my post-presidency my emphasis is going to be on training the next generation of leaders"" https://t.co/veHgzjwV…",0.0,38
+09/20/2017,CNN,0.8,0.105,"RT @CNNPolitics: Obama on curbing climate change: The current administration ""is not as engaged in these efforts as I would like"" https://t…",0.0624,37
+09/20/2017,CNN,0.82,0.18,"First responders sing “Cielito Lindo,” a traditional Mexican song, during a rescue mission in Mexico after a powerf… https://t.co/0jkTGxdNNO",0.5106,36
+09/20/2017,CNN,1.0,0.0,Former President Obama is speaking at an event hosted by the Gates Foundation in NYC. Watch: https://t.co/UYpqI3esEb https://t.co/GEwTbhUP9Z,0.0,35
+09/20/2017,CNN,0.901,0.099,"RT @CNNPolitics: Melania Trump speaks at a UN luncheon: ""The future of every nation rests with the promise of their young people"" https://t…",0.3182,34
+09/20/2017,CNN,0.843,0.157,First lady Melania Trump is speaking at a United Nations luncheon. Watch live on CNN: https://t.co/UYpqI3esEb https://t.co/60RnC3dazQ,0.4215,33
+09/20/2017,CNN,1.0,0.0,President Trump says he's made a decision on the Iran nuclear deal but declines to say more https://t.co/ct0lYYbB60 https://t.co/CEJz9KsB8r,0.0,32
+09/20/2017,CNN,0.859,0.141,"First lady Melania Trump set to host a luncheon at the United Nations, where she will deliver a speech… https://t.co/e0NVVUlQ2m",0.4215,31
+09/20/2017,CNN,0.615,0.179,"President Trump calls Sen. Rand Paul a ""negative force"" on health care https://t.co/5MTG5BXii4 https://t.co/WqjzK3Fb1Q",-0.128,30
+09/20/2017,CNN,0.852,0.148,"Is the US mainland in the clear from Maria? “No, absolutely not,"" @chadmyerscnn says https://t.co/nm2Mb5uhQc https://t.co/1hQdSaHCmn",0.3818,29
+09/20/2017,CNN,0.859,0.141,Crews are scraping through rubble at a school in Mexico looking for signs of life following a powerful earthquake… https://t.co/9JHWY42Oe7,0.4215,28
+09/20/2017,CNN,0.882,0.118,"This couple survived Hurricane Irma, but their nightmare isn't over yet. They now face Maria's wrath.… https://t.co/QEV4W4rXez",0.2846,27
+09/20/2017,CNN,0.758,0.109,The White House denies Pres. Trump apologized to Turkish Pres. Erdogan over bodyguard brawl incident in May… https://t.co/DuE1aK5zkb,-0.128,26
+09/20/2017,CNN,0.686,0.0,"Aerial footage shows the catastrophic damage that Hurricane Maria brought to Dominica 
+
+Follow live updates:… https://t.co/yxQkGwQb0v",-0.7506,25
+09/20/2017,CNN,0.892,0.108,Rescues are underway in Mexico City after the 7.1-magnitude earthquake near the city that left more than 200 dead… https://t.co/PYzNaVQX5T,0.3182,24
+09/20/2017,CNN,1.0,0.0,"Hurricane Maria ripped the roofs off these homes in San Juan, Puerto Rico https://t.co/VGpWK7tl7e https://t.co/jnt6nRhRXR",0.0,23
+09/20/2017,CNN,0.917,0.083,"“It’s just unbelievable outside right now. It’s just very, very scary,” says man riding out Maria in San Juan, PR… https://t.co/SqyaIbyZDp",0.2023,22
+09/20/2017,CNN,0.85,0.0,"President Trump on Hurricane Maria: “I’ve never seen winds like this."" https://t.co/11zmtDmy5S https://t.co/c12xT3UUI6",-0.2755,21
+09/20/2017,CNN,0.89,0.0,Drone footage shows a collapsed building in Mexico City after a 7.1-M earthquake left more than 200 people dead… https://t.co/Gc6bshasZr,-0.2732,20
+09/20/2017,CNN,1.0,0.0,"Watch the moment extreme wind from Hurricane Maria blows a fence over in San Juan, Puerto Rico… https://t.co/sUR5dqFNeh",0.0,19
+09/20/2017,CNN,0.833,0.167,The four numbers that show the size and strength of Hurricane Maria. Follow for live updates:… https://t.co/0KCqtvoAXW,0.4939,18
+09/20/2017,CNN,0.609,0.0,A ninth victim has died after a Florida nursing home failed to evacuate its residents after Hurricane Irma… https://t.co/6cbo4lP9ji,-0.8402,17
+09/20/2017,CNN,0.707,0.162,How Jimmy Kimmel became the conscience of the health care fight | Analysis by @CillizzaCNN https://t.co/ZVVFcbhZn6 https://t.co/dhp4VDFD2P,0.1531,16
+09/20/2017,CNN,1.0,0.0,"The first look at San Juan, Puerto Rico, after Hurricane Maria moved through the city.
+
+Follow live updates:… https://t.co/xEgEcCfROC",0.0,15
+09/20/2017,CNN,0.905,0.095,France's President Macron says he wants to convince President Trump not to pull out of the Paris climate agreement… https://t.co/KH6IzPINLZ,0.25,14
+09/20/2017,CNN,0.899,0.0,"The Australian refugee deal that Donald Trump once derided as ""stupid"" and ""horrible"" is going ahead https://t.co/X8EHsstkIo",-0.2023,13
+09/20/2017,CNN,0.735,0.0,Germany's car industry has a tough new critic: Chancellor Angela Merkel https://t.co/LxAsJokM2d https://t.co/gcotR0wjY4,-0.3818,12
+09/20/2017,CNN,0.828,0.172,Sen. John McCain bucked his party once. Will he do it again? https://t.co/IvFgRBbHzf https://t.co/8G7egGyr5Z,0.4019,11
+09/20/2017,CNN,1.0,0.0,"Storm chaser in the middle of Hurricane Maria: ""It was a heck of a ride"" https://t.co/4NYYivBBgZ https://t.co/cX3eGCw1Uc",0.0,10
+09/20/2017,CNN,1.0,0.0,"How the iconic ""Whose streets? Our streets!"" chant has been co-opted https://t.co/b3LSVx2l7x https://t.co/ZS3Zq8tusG",0.0,9
+09/20/2017,CNN,0.873,0.127,"At 155 mph, Maria is the strongest hurricane to make landfall in Puerto Rico since a 1928 Category 5 storm (160 mph… https://t.co/qAXE1Q7mJF",0.4404,8
+09/20/2017,CNN,1.0,0.0,Storm chaser on Maria’s extreme wind: “The only other hurricane that I can compare it to… is Hurricane Charley in S… https://t.co/pQeRKkAVAO,0.0,7
+09/20/2017,CNN,0.859,0.141,See the moment children were discovered and rescued from a school after a 7.1M earthquake hit near Mexico City… https://t.co/cfrsLMXKIS,0.4215,6
+09/20/2017,CNN,0.929,0.071,"Biden calls out review of Obama-era Title IX guidance, cites ""new challenges"" in combating campus sexual assault… https://t.co/LFKecGFgfl",0.0772,5
+09/20/2017,CNN,0.793,0.079,"Looking for news updates on a weak phone connection? Get the text-only version of CNN's top stories, also en Españo… https://t.co/YMktjLEDo0",-0.2732,4
+09/20/2017,CNN,0.832,0.081,"It's easy to see the physical damage from a major storm, but there can be a psychological toll to look out for, too… https://t.co/vfmx9hTMBp",-0.0387,3
+09/20/2017,CNN,0.809,0.136,Sen. Bill Cassidy responds to Jimmy Kimmel: “I’m sorry he does not understand.” Under new health care bill “more pe… https://t.co/n0ZPSp7ceH,0.4404,2
+09/20/2017,CNN,0.802,0.0,"Bannon ordered Breitbart to step up negative coverage of a Trump-backed Alabama Senate candidate, a source says… https://t.co/CPIX2ix4yA",-0.5719,1
+09/21/2017,Fox News,0.849,0.151,".@jessebwatters: ""The DREAMers need to wake up and understand that @POTUS and @NancyPelosi are trying to save them.… https://t.co/GW3Jq8AY1C",0.4939,100
+09/21/2017,Fox News,0.769,0.0,THURSDAY: #Tucker Takes On Hollywood Director Rob Reiner on 'War' With Russia https://t.co/N89v8zoBET,-0.5574,99
+09/21/2017,Fox News,0.447,0.0,Teen among 3 more arrested in London subway terror attack probe https://t.co/Agwr4vYwDv,-0.8718,98
+09/21/2017,Fox News,1.0,0.0,"Kristen Clarke: ""We don't need to erect hurdles and barriers that make it harder for ordinary Americans to vote.""… https://t.co/hFqbB8SJPW",0.0,97
+09/21/2017,Fox News,0.856,0.144,WSJ's James Freeman: Americans deserve to know how and why gov't spied on #Trump staff. #Tucker https://t.co/EAiitRvemp,0.4019,96
+09/21/2017,Fox News,1.0,0.0,Youth Football Players Kneel During National Anthem https://t.co/YLXZPymACs,0.0,95
+09/21/2017,Fox News,0.684,0.132,.@TuckerCarlson: Dems Show 'What It Looks Like to Destroy a Country ... for Political Power'… https://t.co/DeBjYP3jFF,-0.25,94
+09/21/2017,Fox News,0.69,0.186,#Trump tweets support for 'Big' Luther Strange in #Alabama Senate runoff https://t.co/NgGRJpHRUA,0.2263,93
+09/21/2017,Fox News,1.0,0.0,.@benshapiro: Keith Ellison 'The Last Person Who Should Be Making Holocaust References' https://t.co/6x3TU8fSaO,0.0,92
+09/21/2017,Fox News,1.0,0.0,"Michael Starr Hopkins: ""This is a country of immigrants. We are all here because someone came from somewhere else.""… https://t.co/LtUNEDv5Kl",0.0,91
+09/21/2017,Fox News,0.498,0.169,Petitions calling for firing prof for provocative 'dead cop' tweet gain steam https://t.co/79g5rwcVE3,-0.5106,90
+09/20/2017,Fox News,0.789,0.0,82-year-old sues @redlobster over getting drunk and breaking hip https://t.co/Iyqq01atCy,-0.34,89
+09/20/2017,Fox News,0.691,0.133,"Has asset forfeiture gone too far? Truck seizure case sparks outrage, a call for change https://t.co/bxYFAPlnr1",-0.2023,88
+09/20/2017,Fox News,0.829,0.0,".@KarlRove on @HillaryClinton: ""Her book depicts that the American people are a bunch of racists and misogynists an… https://t.co/eJVTF1fx0T",-0.5423,87
+09/20/2017,Fox News,0.657,0.117,".@KarlRove on @HillaryClinton: ""No losing presidential candidate has ever written a book like this, nor should they… https://t.co/RQzcoSJyle",-0.3182,86
+09/20/2017,Fox News,0.856,0.0,".@KarlRove on @HillaryClinton: ""When she was Sec. of State... she turned a blind eye to [Russia's] expansionism.""… https://t.co/VWsPaR1M8j",-0.4019,85
+09/20/2017,Fox News,0.842,0.158,".@adrienneelrod: ""I'm glad [@HillaryClinton] is going here in her book... when Sec. Clinton speaks, people listen.""… https://t.co/uc1whvuwyQ",0.4588,84
+09/20/2017,Fox News,1.0,0.0,"Gen. Jack Keane on North Korea: ""I think Iran's behavior is actually worse."" #TheStory https://t.co/K10RChQEfE https://t.co/Fp0F03XX05",0.0,83
+09/20/2017,Fox News,0.845,0.155,"Gen. Jack Keane: ""There's not a socialistic movement that's survived the test of time... you eventually run out of… https://t.co/LYJWrm2Zcv",0.5106,82
+09/20/2017,Fox News,1.0,0.0,"RT @MikeEmanuelFox: GOPers try to come up with enough votes for Graham-Cassidy - from #SpecialReport with @BretBaier tonight:
+
+https://t.co…",0.0,81
+09/20/2017,Fox News,0.871,0.0,"Charles Hurt: ""I don't think there's any speech that @POTUS could have given to the UN that the people at the UN wo… https://t.co/C5XwdUFZzn",-0.5267,80
+09/20/2017,Fox News,1.0,0.0,'Racist' tapestry completed by Prince Charles denounced by Native Americans https://t.co/F9ZgB9Rau6,0.0,79
+09/20/2017,Fox News,0.791,0.0,"Teen returns wallet w/ $1500 cash. Woman in home said, ""It's sad that I didn't trust him to open my door when he wa… https://t.co/ype0DiCy2X",-0.7005,78
+09/20/2017,Fox News,0.863,0.0,Fox News Poll: Murphy leads Guadagno by double digits with many undecided https://t.co/Rhr0rOYvgh,-0.2263,77
+09/20/2017,Fox News,1.0,0.0,"Manafort offered 'private briefings' to Russian billionaire during campaign, report says https://t.co/zXr85wsdBs",0.0,76
+09/20/2017,Fox News,0.811,0.189,"At a United Nations event, @FLOTUS called for teaching our children patriotism. https://t.co/yQgZTfVGwH https://t.co/uOxZXmnrzY",0.4215,75
+09/20/2017,Fox News,0.778,0.222,Army vet runs with American flag – and a tutu – to inspire others https://t.co/As67sA56jy | #ProudAmerican https://t.co/V9boHvTmrd,0.5719,74
+09/20/2017,Fox News,0.318,0.242,Former Powerball winner arrested for sexual assault https://t.co/AsIXlRdk8k,-0.4767,73
+09/20/2017,Fox News,1.0,0.0,"Samantha Power sought to unmask Americans on almost daily basis, sources say https://t.co/FXOSFTFnFX",0.0,72
+09/20/2017,Fox News,0.661,0.0,First Lady Melania Trump bullied over pink dress https://t.co/ZhTkLkooQb,-0.6249,71
+09/20/2017,Fox News,0.604,0.174,.@MaxineWaters Turns Comedian Dick Gregory's Eulogy into Anti-@POTUS Speech https://t.co/3rxoS3Rl6l https://t.co/oU9kwlIJ6i,-0.1779,70
+09/20/2017,Fox News,0.769,0.0,"Hurricane Maria destroys hundreds of homes, knocks out power across Puerto Rico https://t.co/jeJiAVWAte",-0.5574,69
+09/20/2017,Fox News,0.743,0.257,".@kimguilfoyle on Cassidy-Graham: ""This could be a big win for @POTUS."" #SpecialReport https://t.co/ey4RaFYOzf",0.5859,68
+09/20/2017,Fox News,0.865,0.135,".@kimguilfoyle: ""The GOP is ready for a showdown if that's what it's going to take"" on healthcare. https://t.co/xFWyvRUnuj",0.3612,67
+09/20/2017,Fox News,0.605,0.395,".@SenJohnThune: ""It does gives states give more flexibility to come up... with solutions that better fit their popu… https://t.co/CbUI8ewbRM",0.8313,66
+09/20/2017,Fox News,1.0,0.0,".@SenJohnThune: ""@BillCassidy has designed a plan that gives states maximum flexibility."" https://t.co/oirVTPkw0t",0.0,65
+09/20/2017,Fox News,0.819,0.181,".@SenJohnThune: ""If we're going to do something to repeal &amp; replace ObamaCare... I think this is the best path forw… https://t.co/1CsZcnJB2b",0.6369,64
+09/20/2017,Fox News,0.714,0.0,.@OhioState 'privilege' workshop says only white people can be racist https://t.co/eQ8O2PxZRP,-0.6124,63
+09/20/2017,Fox News,0.632,0.0,".@POTUS: ""ObamaCare is a disaster. It's a wreck. It's a trainwreck, and it's only getting worse."" https://t.co/G3PiMQaFHW",-0.7906,62
+09/20/2017,Fox News,1.0,0.0,"10 African nations trade arms with North Korea, flouting UN sanctions, report finds https://t.co/UxNIGoGXMI",0.0,61
+09/20/2017,Fox News,1.0,0.0,Girl hit by foul ball at Yankees game hospitalized https://t.co/MbWhVjc0HH,0.0,60
+09/20/2017,Fox News,0.86,0.14,".@VP: ""President Trump made a commitment to the American people that we would repeal and replace ObamaCare."" https://t.co/TKhC8Ddr4U",0.3818,59
+09/20/2017,Fox News,0.448,0.0,".@POTUS: ""ObamaCare is a disaster. It's failing badly."" https://t.co/oHqVNfI91U",-0.8126,58
+09/20/2017,Fox News,0.632,0.0,".@POTUS: ""ObamaCare is a disaster. It's a wreck. It's a trainwreck, and it's only getting worse."" https://t.co/1oq96Qlwvq",-0.7906,57
+09/20/2017,Fox News,0.856,0.144,".@POTUS: ""I thought that when I won I would go to the Oval Office, sit down at my desk, and there would be a health… https://t.co/MQLeuWxnhr",0.5719,56
+09/20/2017,Fox News,0.847,0.153,".@POTUS: ""For 7 years I've been hearing 'repeal and replace ObamaCare'... There's tremendous support for [Graham-Ca… https://t.co/kuZVwITh7s",0.4019,55
+09/20/2017,Fox News,0.723,0.277,".@VP: ""ObamaCare is collapsing... @POTUS and our entire administration are absolutely committed to support Graham-C… https://t.co/hXhW1PBYrW",0.6549,54
+09/20/2017,Fox News,1.0,0.0,".@POTUS: ""I believe that Graham-Cassidy will do it the right way."" https://t.co/IzGhc1RZG2",0.0,53
+09/20/2017,Fox News,0.773,0.227,NEWS ALERT: @POTUS holding bilateral meeting with Egyptian President El-Sisi. https://t.co/wwxE74QRfa,0.4466,52
+09/20/2017,Fox News,1.0,0.0,"PR Congresswoman Describes Hurricane Maria While Sheltering in Closet
+https://t.co/uuTvsHtXOO",0.0,51
+09/20/2017,Fox News,0.549,0.0,.@FLOTUS bullied over pink dress https://t.co/ZhTkLkooQb,-0.6249,50
+09/20/2017,Fox News,1.0,0.0,DNC Vice Chair @keithellison Compares DREAMers to Jews in Nazi Germany https://t.co/YYQgLKRfGN,0.0,49
+09/20/2017,Fox News,0.613,0.387,".@marcthiessen: In Berkeley, @benshapiro spoke but Antifa won 
+https://t.co/2eYuvzVebX",0.7227,48
+09/20/2017,Fox News,0.929,0.071,RT @FoxBusiness: #BreakingNews: The Dow and S&amp;P 500 close the day at record highs. This is the 7th straight record close for the Dow and 42…,0.2263,47
+09/20/2017,Fox News,1.0,0.0,PR Congresswoman Describes Hurricane Maria While Sheltering in Closet https://t.co/uuTvsHtXOO,0.0,46
+09/20/2017,Fox News,1.0,0.0,".@realDonaldTrump's nicknames for rivals, from 'Rocket Man' to 'Crooked Hillary' https://t.co/RdTTfEfHA1",0.0,45
+09/20/2017,Fox News,0.812,0.0,".@RandPaul: ""As a physician I've seen ObamaCare up close &amp; personal, and I hate every bit of it."" https://t.co/I4OM4qbz96",-0.5719,44
+09/20/2017,Fox News,1.0,0.0,Hurricane Maria makes landfall in Puerto Rico as Category 4 storm https://t.co/N8tqraETrP,0.0,43
+09/20/2017,Fox News,0.743,0.162,Sheriff Clarke curses out reporter who questioned his need for a security detail https://t.co/F4OONXDNQb,0.25,42
+09/20/2017,Fox News,0.654,0.176,.@POTUS approves emergency declaration for Puerto Rico and U.S. Virgin Island. https://t.co/2AsXZ3XRhw,0.0258,41
+09/20/2017,Fox News,0.828,0.0,"North Korea’s Kim keeps teen sex slaves, executes musicians with anti-aircraft guns, defector reveals   https://t.co/4Q9zl6cAmx",-0.4404,40
+09/20/2017,Fox News,0.753,0.0,'Ghost boat' washes ashore on Florida beach https://t.co/WLngdSMEQo,-0.3182,39
+09/20/2017,Fox News,0.769,0.123,Climate models questioned: Global warming may be slower than previously thought https://t.co/AkRswwr0o2,0.0516,38
+09/20/2017,Fox News,0.806,0.194,.@ChelseaClinton reveals she didn't block @realDonaldTrump for @HillaryClinton golfball tweet https://t.co/byO0djU62y,0.3412,37
+09/20/2017,Fox News,0.852,0.148,".@FLOTUS Speaks to the UN, Tells World Leaders to 'Step Up' to Protect Children https://t.co/yQgZTfVGwH https://t.co/XybNLkqlHn",0.3818,36
+09/20/2017,Fox News,0.657,0.0,"California suing @POTUS over border wall, escalating battle with @WhiteHouse https://t.co/2lFPAO9ajN",-0.5719,35
+09/20/2017,Fox News,1.0,0.0,.@newtgingrich: @POTUS's @UN address reasserts patriotism and sovereignty https://t.co/11IwrGS92n https://t.co/RaGuCWIHOr,0.0,34
+09/20/2017,Fox News,0.806,0.0,VA uses Trump-signed law to fire DC medical director – twice https://t.co/lK8ZHVBhAb,-0.34,33
+09/20/2017,Fox News,1.0,0.0,".@newtgingrich: @POTUS's @UN address reasserts patriotism and sovereignty 
+https://t.co/PNrCWZVJt1",0.0,32
+09/20/2017,Fox News,1.0,0.0,".@LisaMarieBoothe and Marie Harf Debate @POTUS's @UN Message
+https://t.co/glxnb05acW",0.0,31
+09/20/2017,Fox News,0.667,0.333,Do you agree with @HillaryClinton? https://t.co/lPJ8LQjr3B,0.3612,30
+09/20/2017,Fox News,1.0,0.0,Chick-fil-A to open its largest and narrowest restaurant ever in New York City https://t.co/TmRZmzL2zf,0.0,29
+09/20/2017,Fox News,1.0,0.0,"Clown runs for Boston City Council
+https://t.co/u2PB5vRsH9",0.0,28
+09/20/2017,Fox News,1.0,0.0,"""Our prosperity depends above all on peace.""
+
+WATCH: @POTUS's full remarks at luncheon for African leaders. https://t.co/xQ6i0Aobjp",0.0,27
+09/20/2017,Fox News,0.566,0.434,Navy reservist surprises daughter with special homecoming https://t.co/uQe9PG567d,0.5574,26
+09/20/2017,Fox News,1.0,0.0,"RT @FoxBusiness: .@nedryun: ""Republicans should understand they have to start dismantling Obamacare, or things could actually get worse."" h…",0.0,25
+09/20/2017,Fox News,0.745,0.255,"RT @FoxBusiness: .@WarrenBuffett: ""This country is incredible. We're lucky to be here...I won what I call the 'Ovarian Lottery' by being bo…",0.7579,24
+09/20/2017,Fox News,1.0,0.0,"RT @FoxBusiness: ""I do not think the place to express yourself in society is as we recognize the American flag."" - Jerry Jones on National…",0.0,23
+09/20/2017,Fox News,1.0,0.0,".@POTUS: ""Africa I have to say is a continent of tremendous, tremendous potential - the outlook is bright."" https://t.co/5VayIgkEIM",0.0,22
+09/20/2017,Fox News,0.706,0.294,".@POTUS: ""We believe that a free, independent and democratic nation, in all cases, is the best vehicle for human ha… https://t.co/PFG5K3mfAn",0.8176,21
+09/20/2017,Fox News,0.506,0.278,".@POTUS: ""The United States is proud to work with you to eradicate terrorist safe havens, to cut off their finances… https://t.co/McyESsPjw4",0.25,20
+09/20/2017,Fox News,0.625,0.0,".@POTUS: ""Too many people are suffering from conflict in Africa."" https://t.co/Qz7QHlobfY",-0.6597,19
+09/20/2017,Fox News,1.0,0.0,".@POTUS: ""Our prosperity depends above all on peace."" https://t.co/waFXaMyWGt",0.0,18
+09/20/2017,Fox News,0.813,0.0,".@POTUS: ""We will continue our partnership on critical health initiatives."" https://t.co/gGzd9QXB3l",-0.3182,17
+09/20/2017,Fox News,0.876,0.124,".@POTUS: ""6 of the world's 10 fastest growing economies are in Africa."" https://t.co/5NkGk1sAJY",0.1779,16
+09/20/2017,Fox News,0.806,0.194,".@POTUS: ""I have so many friends going to your countries trying to get rich."" https://t.co/5p4MBe59kp",0.5233,15
+09/20/2017,Fox News,1.0,0.0,Happening Now: @POTUS holds luncheon with African leaders. https://t.co/1qCVXoePsb,0.0,14
+09/20/2017,Fox News,0.714,0.0,London police arrest 3 new suspects in connection with London's subway bombing; @BenjaminHallFNC reports. https://t.co/1jXGUmURsC,-0.5859,13
+09/20/2017,Fox News,0.839,0.161,.@PressSec on Kim Jong Un's 'Rocket Man' Nickname: 'A President Trump Original' https://t.co/rOqDJ42kmf,0.3182,12
+09/20/2017,Fox News,0.811,0.189,"At a United Nations event, @FLOTUS called for teaching our children patriotism. https://t.co/yQgZTfVGwH https://t.co/i5MUBd3ICO",0.4215,11
+09/20/2017,Fox News,0.828,0.0,"North Korea’s Kim keeps teen sex slaves, executes musicians with anti-aircraft guns, defector reveals https://t.co/4Q9zl6cAmx",-0.4404,10
+09/20/2017,Fox News,0.843,0.157,".@FLOTUS Speaks at the @UN, Tells World Leaders to 'Step Up' to Protect Children https://t.co/yQgZTfVGwH",0.3818,9
+09/20/2017,Fox News,0.648,0.236,".@FLOTUS: ""We must never miss and opportunity to teach life's many ethical lessons"" to children. https://t.co/Bfr3oMN2lF",0.3425,8
+09/20/2017,Fox News,0.791,0.209,".@FLOTUS: ""We must come together for the good of our children."" https://t.co/mXiN9wv66T",0.4404,7
+09/20/2017,Fox News,0.83,0.17,".@FLOTUS: ""Show me the loving bonds between your families today &amp; I will show you the patriotism and moral clarity… https://t.co/GjLEzlwXp7",0.5994,6
+09/20/2017,Fox News,0.876,0.0,".@LisaMarieBoothe: ""It was @SenSchumer who said in 2014 that passing ObamaCare was a mistake for the Democratic Par… https://t.co/IsiT2CsWGY",-0.34,5
+09/20/2017,Fox News,1.0,0.0,".@SandraSmithFox: ""The Dow's up 20 points today. It is hitting record after record after record."" #Outnumbered https://t.co/09QWNAZzh6",0.0,4
+09/20/2017,Fox News,0.734,0.147,.@AP: Crews find a child alive among the rubble of a collapsed school in Mexico City. https://t.co/iPi7WT3gbE,0.128,3
+09/20/2017,Fox News,0.673,0.114,".@HARRISFAULKNER: ""When you say that the media are biased - yes, absolutely. My problem is with the JOURNALISTS bei… https://t.co/6iZBNnFJEE",-0.3353,2
+09/20/2017,Fox News,1.0,0.0,"Marie Harf: ""The speech was, I would say, dark. I would also say it was menacing."" #Outnumbered https://t.co/NOXgBp3z16",0.0,1
+09/21/2017,The New York Times,0.894,0.0,Health Secretary Tom Price's spokeswoman cites his “incredibly demanding schedule” for his use of private jets https://t.co/BaePZIGczz,-0.2263,100
+09/21/2017,The New York Times,1.0,0.0,"Hurricane Maria, which made landfall as a Category 4 storm, took out Puerto Rico's entire power grid https://t.co/YfxgGcEZsb",0.0,99
+09/21/2017,The New York Times,1.0,0.0,"RT @NYTSports: The girl's father said it was ""too early to tell"" if she would need surgery. https://t.co/sUHIP7t7bG",0.0,98
+09/21/2017,The New York Times,0.88,0.12,Mueller's requests show that many aspects of his inquiry are focused squarely on Trump’s actions in the White House https://t.co/DiOxbaXtOS,0.3818,97
+09/21/2017,The New York Times,1.0,0.0,Evening Briefing: Here's what you need to know at the end of the day https://t.co/77xUArHRW8,0.0,96
+09/21/2017,The New York Times,0.687,0.313,"RT @tminsberg: ­On Tuesday, the world’s top surfers competed on perfect waves in Central California.
+Yes, go ahead, re-read that. 
+https://…",0.802,95
+09/21/2017,The New York Times,0.763,0.0,Someone made a fake Equifax site. Then Equifax linked to it. https://t.co/YLos2h0f3F,-0.4767,94
+09/21/2017,The New York Times,0.885,0.115,Paul Manafort is working for allies of the leader of Iraq’s Kurdish region to promote a referendum opposed by the US https://t.co/U8KwofxlJq,0.3818,93
+09/21/2017,The New York Times,0.758,0.242,Insurers come out swinging against new Republican health care bill https://t.co/7uuIlF7XDr,0.4939,92
+09/21/2017,The New York Times,0.699,0.101,RT @nytimesworld: Why should North Korea negotiate nuclear limits with Trump if he kills the Iran nuclear deal for no good reason? https://…,-0.4215,91
+09/20/2017,The New York Times,1.0,0.0,"Stocks so far in 2017 are the steadiest that they have been since 1965, a radically different era https://t.co/5r1aofbn51",0.0,90
+09/20/2017,The New York Times,0.916,0.084,There was a scrum of hustle and loud voices. The energy belied the hour but underscored the urgency. https://t.co/kFbAOP3jTf,0.1406,89
+09/20/2017,The New York Times,1.0,0.0,Hurricane Maria’s path across Puerto Rico https://t.co/yW63XLXD9a,0.0,88
+09/20/2017,The New York Times,1.0,0.0,"In the rubble of a Mexico City school, rescuers searched for quake survivors. We spoke to parents as they waited. https://t.co/e5FFlG7SEE",0.0,87
+09/20/2017,The New York Times,1.0,0.0,Evening Briefing: Here's what you need to know at the end of the day https://t.co/xr1Uu1ISOK,0.0,86
+09/20/2017,The New York Times,1.0,0.0,There's been a lot of horse-race coverage of the Graham-Cassidy bill. Here's what it will actually do. https://t.co/1je6lr3JJJ,0.0,85
+09/20/2017,The New York Times,0.819,0.181,Puerto Rico's governor announced a 6 p.m. to 6 a.m. curfew effective Wednesday until Saturday. Latest updates: https://t.co/HQVlipItcM,0.4767,84
+09/20/2017,The New York Times,1.0,0.0,"Sea turtles appear to be bouncing back around the world
+https://t.co/3gsLx6KUhH",0.0,83
+09/20/2017,The New York Times,1.0,0.0,"RT @nytgraphics: Hurricane Maria's impact on Puerto Rico:
+https://t.co/XnscG9pWJs https://t.co/sxq1e3hRoG",0.0,82
+09/20/2017,The New York Times,0.619,0.381,"RT @joncaramanica: BTS sound super relaxed on their new EP, even Rap Monster!
+https://t.co/9bSc4GuUc4",0.8122,81
+09/20/2017,The New York Times,0.734,0.0,A local official ordered hunters to kill a rare wild bison that wandered into Germany https://t.co/e6LhVusTQ4,-0.6908,80
+09/20/2017,The New York Times,1.0,0.0,Ilkay Gündogan​ sat in a pool during rehab. Our reporter spent 10 months tracking his recovery from an ACL tear.… https://t.co/auaXXCsJay,0.0,79
+09/20/2017,The New York Times,0.5,0.5,Sweet heat https://t.co/75MeMJlQRq https://t.co/4rvRloyBxx,0.4588,78
+09/20/2017,The New York Times,1.0,0.0,"Dance legend Twyla Tharp is presenting rarely seen works and new ones, including one featuring music from Bob Dylan… https://t.co/VadBHMVkPH",0.0,77
+09/20/2017,The New York Times,1.0,0.0,"Thumbs down doesn’t even begin to describe the comments we received about ""Mother!"" https://t.co/B7QMw9ZmEa",0.0,76
+09/20/2017,The New York Times,0.644,0.356,"Moses Sumney’s debut album, “Aromanticism,” examines the ways our culture idealizes couples in love https://t.co/gsBl7CZ6bo",0.802,75
+09/20/2017,The New York Times,0.86,0.14,RT @FrancesRobles: The governor of Puerto Rico announced a curfew effective 6 p.m. to 6 a.m. until Saturday. (exceptions for media and emer…,0.4767,74
+09/20/2017,The New York Times,0.895,0.105,RT @nytmike: EXCLUSIVE: Request to WH for dox shows that several actions Trump took in office are under scrutiny https://t.co/eeZYXj12mf,0.3034,73
+09/20/2017,The New York Times,1.0,0.0,RT @nytgraphics: Satellite images show more than 200 Rohingya villages burned in Myanmar: https://t.co/RUBxl82Sx0 https://t.co/MvkF7u2ME4,0.0,72
+09/20/2017,The New York Times,0.751,0.15,Republicans behind the last-minute effort to repeal the Affordable Care Act respond to another critic: Jimmy Kimmel https://t.co/A4L56oNP1f,0.2732,71
+09/20/2017,The New York Times,0.872,0.128,"“Chuck and Nancy"" have forged what may be the most surprisingly potent partnership in President Trump’s Washington https://t.co/BVbphrgUft",0.3597,70
+09/20/2017,The New York Times,0.758,0.242,"The iPhone 8 is a very good phone, but most of Apple’s improvements over the iPhone 7 are minor, writes @fmanjoo https://t.co/I2Ro3x6WGX",0.6643,69
+09/20/2017,The New York Times,0.845,0.155,"Parliament Square in London is getting its first statue honoring a woman, and it's the first by a female sculptor https://t.co/OdZWC4LZ40",0.5106,68
+09/20/2017,The New York Times,0.874,0.0,Here is a list of local and international organizations that are providing aid to Mexico's earthquake victims https://t.co/AcqcB35wqv,-0.3182,67
+09/20/2017,The New York Times,0.852,0.148,The Fed confirmed its confidence in the economy by leaving rates unchanged and starting to unwind its bond holdings https://t.co/RibQoJ1PYR,0.5106,66
+09/20/2017,The New York Times,0.762,0.119,"🥊 “When he was in the ring, it was like he was in a cage fighting for his life” https://t.co/sYzetqF7F6",0.0,65
+09/20/2017,The New York Times,0.667,0.227,The Russia inquiry’s special counsel is looking into Trump firing his national security adviser and FBI director https://t.co/yvEox3cbsY,0.4019,64
+09/20/2017,The New York Times,1.0,0.0,Breaking News: Mueller has sought a range of records that suggest Trump's actions in office are under scrutiny https://t.co/5TDmkjRicc,0.0,63
+09/20/2017,The New York Times,0.747,0.116,The MTA NYC Transit failed to finish final safety testing before opening the Second Avenue line to the public https://t.co/T9N8rkwTud,-0.128,62
+09/20/2017,The New York Times,1.0,0.0,"Hurricane Maria battered Puerto Rico, and electricity was knocked out in the whole island https://t.co/HR58UMuKAU",0.0,61
+09/20/2017,The New York Times,0.62,0.231,Where might a powerful quake strike in the United States? The Pacific Northwest and California are areas at risk. https://t.co/4ukOB9KsBZ,0.4588,60
+09/20/2017,The New York Times,1.0,0.0,Lillian Ross became known as the consummate fly-on-the-wall reporter in a 6-decade career at The New Yorker https://t.co/1s2WdI0kMN,0.0,59
+09/20/2017,The New York Times,1.0,0.0,RT @nytimesES: ¿Te afectó el sismo de ayer en México o a tu familia? ¿Cómo lo viviste? Déjanos tu historia en los comentarios para que poda…,0.0,58
+09/20/2017,The New York Times,0.783,0.0,A sect has tried to keep a low profile amid years of attacks by Sunni extremist groups that consider them heretics https://t.co/m3k5wyvEox,-0.6124,57
+09/20/2017,The New York Times,1.0,0.0,RT @juliamoskin: Come on. https://t.co/RwUkI4y1qf,0.0,56
+09/20/2017,The New York Times,0.833,0.0,"Opinion: Tragic interactions between disabled people and the police are terrifyingly common, writes Steve Silberman https://t.co/au4lC543oq",-0.4588,55
+09/20/2017,The New York Times,0.855,0.145,The fashion editors of @tmagazine and @NYTStyles share their personal highlights of #LFW https://t.co/HgQpLyvT4T,0.296,54
+09/20/2017,The New York Times,1.0,0.0,"The world’s 9 nuclear-armed countries, including the U.S. and North Korea, declined to sign the treaty https://t.co/xMXMcCaHfx",0.0,53
+09/20/2017,The New York Times,0.854,0.0,Leaders and diplomats from dozens of countries signed a treaty at the #UNGA that will outlaw nuclear weapons https://t.co/xMXMcCaHfx,-0.4404,52
+09/20/2017,The New York Times,0.824,0.0,Linda Hamilton will be back as Sarah Connor — never mind that she was killed off before the events of “Terminator 3” https://t.co/X3BofYUSz6,-0.6705,51
+09/20/2017,The New York Times,0.668,0.093,"“To see a parent carry their own dead baby is something I will never forget"" https://t.co/UZSPQfC4Wa",-0.5624,50
+09/20/2017,The New York Times,1.0,0.0,Here’s a rundown of some of iOS 11’s biggest features https://t.co/CPmes4k6MW,0.0,49
+09/20/2017,The New York Times,0.594,0.223,The latest effort to repeal Obamacare could create both flexibility and chaos for states https://t.co/WqDyUMRCxI,-0.0516,48
+09/20/2017,The New York Times,0.838,0.0,The police raided the offices of the Catalan regional government and arrested at least 14 people https://t.co/LXfd7QWXq8,-0.4767,47
+09/20/2017,The New York Times,0.845,0.0,Opinion: I wanted people to know I was bipolar — that the “madman” they’d been covering for was a sick young man https://t.co/mUmXVvGts9,-0.5106,46
+09/20/2017,The New York Times,0.817,0.183,Senators Elizabeth Warren and Bernie Sanders are taking different paths to win new fans ahead of 2020 https://t.co/tSB6MltG6V,0.5859,45
+09/20/2017,The New York Times,0.68,0.141,"After brawling his way to a middleweight boxing championship, LaMotta became a pop culture symbol of anger https://t.co/vWR806QYFe",-0.2023,44
+09/20/2017,The New York Times,0.714,0.134,"Breaking News: Jake LaMotta, the legendary boxer who inspired the Oscar-winning film “Raging Bull,” has died at 95 https://t.co/vWR806QYFe",-0.1027,43
+09/20/2017,The New York Times,0.865,0.0,"Kevin Durant regrets his tweets about the Oklahoma City Thunder, saying they were ""childish"" and ""idiotic"" https://t.co/Qk5Yqw6Eih",-0.3612,42
+09/20/2017,The New York Times,1.0,0.0,RT @nytopinion: A Swedish man was sent undercover by a British anti-racist watchdog group to insinuate himself into the alt-right https://t…,0.0,41
+09/20/2017,The New York Times,0.859,0.0,"Outta here! The record for most combined home runs in a single season, set in 2000, has fallen. https://t.co/ZQz4ybAXWZ",-0.4199,40
+09/20/2017,The New York Times,0.9,0.0,"Penny was just 1 year old, the latest victim of an opioid epidemic that is now taking 60,000 lives a year https://t.co/e76Ej8jthm",-0.2732,39
+09/20/2017,The New York Times,1.0,0.0,"Trump declined to tell reporters what he planned to do, though, saying, “I’ll let you know what the decision is” https://t.co/WInebVOPme",0.0,38
+09/20/2017,The New York Times,0.895,0.0,"President Trump: ""We have a big one going right now — I’ve never seen winds like this — in Puerto Rico"" https://t.co/1C0p0js6Nh",-0.2755,37
+09/20/2017,The New York Times,1.0,0.0,We scoured the internet for political writing from the right and left that you might not have seen https://t.co/YTYjBPdfNC,0.0,36
+09/20/2017,The New York Times,0.766,0.127,"President Trump is now fully engaged in two nuclear confrontations, one with Iran and the other with North Korea https://t.co/muyrDSmHPw",0.1263,35
+09/20/2017,The New York Times,1.0,0.0,“It’s very characteristic of the Mexican people: We stand together” https://t.co/mXNAR9j3NN,0.0,34
+09/20/2017,The New York Times,0.741,0.259,RT @nytvideo: Hurricane Maria reached Puerto Rico as a powerful Category 4 storm early Wednesday. https://t.co/DdnVOtWHRz,0.4939,33
+09/20/2017,The New York Times,0.851,0.0,"Why Documenta, a world-famous art exhibition, needed a government bailout https://t.co/14cmG5JKJm",-0.1027,32
+09/20/2017,The New York Times,0.8,0.0,Gov. Rosselló said that 61% of Puerto Rico had lost power and that he expected the island to lose power entirely https://t.co/YKMiQwgRbP,-0.6124,31
+09/20/2017,The New York Times,1.0,0.0,A look at the buildings that toppled in Mexico's earthquake https://t.co/SY9rGqIqqz,0.0,30
+09/20/2017,The New York Times,0.688,0.0,"""That is the most difficult thing: to feel that you are useless, not worth as much as before"" https://t.co/pzkd5mEenm",-0.7398,29
+09/20/2017,The New York Times,0.773,0.227,Explore some of the chic hotels that are inviting guests to a revitalized Los Angeles. Our #Daily360: https://t.co/9fHoPjzRRD,0.5267,28
+09/20/2017,The New York Times,0.746,0.254,"""We have to get actively involved in helping the corals come back."" Researchers want to breed corals in labs: https://t.co/B9VXiYDb31",0.5859,27
+09/20/2017,The New York Times,0.84,0.0,RT @nytgraphics: We’re mapping buildings that collapsed in Mexico City. https://t.co/mu5IVS3QQ8 https://t.co/vTf4UIxptS,-0.2732,26
+09/20/2017,The New York Times,1.0,0.0,Morning Briefing: Here's what you need to know to start your day https://t.co/Ivbg7HCqFm https://t.co/B5sucO5o6S,0.0,25
+09/20/2017,The New York Times,0.608,0.0,Jimmy Kimmel accuses Bill Cassidy of lying. Our late-night roundup: https://t.co/mV57JCOWQV,-0.7003,24
+09/20/2017,The New York Times,0.855,0.145,"Amazon is ""reviewing"" its website after it suggested bomb-making items https://t.co/Qaw0S7o40x",0.1779,23
+09/20/2017,The New York Times,0.548,0.0,A bystander narrowly escaped death when a Russian military helicopter accidentally fired rockets into a parking lot https://t.co/6Tuq8H9Q1J,-0.872,22
+09/20/2017,The New York Times,0.579,0.0,Three people have been arrested in Wales in connection with the terrorist attack at a London Tube station https://t.co/SWBgAiYLTA,-0.8979,21
+09/20/2017,The New York Times,0.818,0.101,"""Isn't that the Trump lawyer?"" Here's how our reporter @kenvogel landed an accidental scoop. https://t.co/PAA7gi2VdU",0.0772,20
+09/20/2017,The New York Times,0.891,0.109,"Opinion: When will black lives matter in St. Louis?
+ https://t.co/kV2RyDmdpd",0.0258,19
+09/20/2017,The New York Times,0.547,0.0,Trump's threat to destroy North Korea provoked a debate about whether he had violated a tenet of the UN Charter https://t.co/y9CaOfNDkz,-0.9081,18
+09/20/2017,The New York Times,1.0,0.0,Opinion: Undercover with the alt-right https://t.co/tmsXY3yL9B,0.0,17
+09/20/2017,The New York Times,1.0,0.0,"The U.S. is taking in 50 refugees from offshore camps, Australia says https://t.co/Xy1MdId6ZS",0.0,16
+09/20/2017,The New York Times,1.0,0.0,Tracking Hurricane Maria's path https://t.co/4giGPuehRC https://t.co/tz7Voan81V,0.0,15
+09/20/2017,The New York Times,1.0,0.0,5th graders in South Carolina were asked to explain the KKK's thinking https://t.co/ljDwBcWeaB,0.0,14
+09/20/2017,The New York Times,1.0,0.0,"RT @RorySmith: I've spent the last 10 months with @IlkayGuendogan as he rebuilt his knee.
+
+This is the story of his long road back.
+https:/…",0.0,13
+09/20/2017,The New York Times,1.0,0.0,Morning Briefing: Here's what you need to know to start your day https://t.co/huQiUgtnOL https://t.co/XPougGHlLP,0.0,12
+09/20/2017,The New York Times,0.859,0.0,"""I can't believe I'm alive,"" said a woman in Mexico who broke her foot as she escaped a building https://t.co/duRzF4HnOW",-0.4215,11
+09/20/2017,The New York Times,1.0,0.0,The CEO of KB Home was recorded yelling a series of sexist and homophobic slurs at Kathy Griffin https://t.co/tjaGf7JV5m,0.0,10
+09/20/2017,The New York Times,0.861,0.0,Mexico City’s mayor said buildings collapsed at 44 different locations in the capital https://t.co/xDv6GmGNjI,-0.2732,9
+09/20/2017,The New York Times,0.645,0.0,Opinion: Expect the inquisition https://t.co/dMPRAbLZwb,-0.296,8
+09/20/2017,The New York Times,0.833,0.167,Breaking News: Hurricane Maria has made landfall on Puerto Rico as a powerful Category 4 storm https://t.co/SlgfSmIivc,0.4215,7
+09/20/2017,The New York Times,1.0,0.0,A look at the buildings that toppled in Mexico's earthquake https://t.co/Pv64S5IzWt,0.0,6
+09/20/2017,The New York Times,1.0,0.0,"Subscribe to The Daily, a new audio news report hosted by @mikiebarb, here: https://t.co/FGrU0Lukse",0.0,5
+09/20/2017,The New York Times,0.682,0.318,America First at the United Nations https://t.co/BYpdJFsWM5,0.4215,4
+09/20/2017,The New York Times,0.774,0.226,It was really only a matter of time before President Trump chimed in on the Emmy Awards https://t.co/TBCmyOqOKX,0.5233,3
+09/20/2017,The New York Times,1.0,0.0,Morning Briefing: Here's what you need to know to start your day https://t.co/YVPHMOuOtu https://t.co/y5B0aIm1qC,0.0,2
+09/20/2017,The New York Times,0.547,0.0,Trump's threat to destroy North Korea provoked a debate about whether he had violated a tenet of the UN Charter https://t.co/7iEIr4nfWy,-0.9081,1
