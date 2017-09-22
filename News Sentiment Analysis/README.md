@@ -1,8 +1,7 @@
 
 <h1>News Sentiment Analysis</h1>
 
-<img src="nsa.jpg", align="left">  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
+<img src="nsa.jpg", align=left><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h3><i>Trends</i></h3>
 ***
 <ul>
