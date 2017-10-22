@@ -12,7 +12,6 @@ from flask import Flask, jsonify
 from config import gle_sql_server_info
 google_sql_server= gle_sql_server_info
 
-
 #################################################
 # Database Setup
 #################################################
@@ -40,16 +39,21 @@ app = Flask(__name__)
 # Flask Routes
 #################################################
 
+
 @app.route("/")
 def welcome():
     """List all available api routes."""
     return (
-        precip = f"Available Routes:<br/>"
-        f"/api/v1.0/stations<br/>"
-        f"/api/v1.0/precipitation"
+        f"Available Routes:<br/>"
+        f"/api/v1.0/precipitation<br/>"
+        f"/api/v1.0/stations"
     )
 
 dictionary={}
+
+
+
+
 
 @app.route("/api/v1.0/stations")
 def stations():
@@ -60,8 +64,8 @@ def stations():
 def precipitation():
     results=session.query(measurementclass.date, measurementclass.precipitation.filter(measurementclass.date.between('2016-01-01', '2016-12-31').all()
         for info in results:
-            dictionary["date"]=measurementclass.date
-            dictionary["prcp"]=measurementclass.prcp
+
+            
         return jsonify(dictionary)
 
 @app.route("/api/v1.0/tobs")
