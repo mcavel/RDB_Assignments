@@ -45,33 +45,51 @@ def welcome():
     """List all available api routes."""
     return (
         f"Available Routes:<br/>"
+        f"/api/v1.0/stations<br/>"
+        f"/api/v1.0/measurements<br/>"
         f"/api/v1.0/precipitation<br/>"
-        f"/api/v1.0/stations"
+        f"/api/v1.0/tobs<br/>"
+        f"/api/v1.0/date<br/>"
     )
 
 dictionary={}
 
-
-
-
-
 @app.route("/api/v1.0/stations")
 def stations():
-    results=session.query(stationclass.station).all()
+    results = session.query(stationclass).all()
+    return(station_names)
+
+@app.route("/api/v1.0/measurements")
+def stations():
+    results = session.query(measurementclass).all()
     return(station_names)
 
 @app.route("/api/v1.0/precipitation")
 def precipitation():
     results=session.query(measurementclass.date, measurementclass.precipitation.filter(measurementclass.date.between('2016-01-01', '2016-12-31').all()
-        for info in results:
+    all_prcp = []
+    for value in results:
+        print(measurementclass.prcp)
+        prcp_dict = {}
+        prcp_dict["station"] = measurementclass.station
+        prcp_dict["prcp"] = measurementclass.prcp
+        prcp_dict["date"] = measurementclass.date
+        all_prcp.append(prcp_dict)
+    return jsonify(all_prcp)
 
-            
-        return jsonify(dictionary)
 
-@app.route("/api/v1.0/tobs")
+@app.route("/api/v1.0/tobs)
+def tobs():
     results=session.query(measurementclass.tobs).filter(measurementclass.date.between('2016-01-01', '2016-12-31').all()
-    return jsonify(temperaturelist)
-
+    all_tobs = []
+    for value in results:
+        print(measurementclass.prcp)
+        tobs_dict = {}
+        tobs_dict["station"] = measurementclass.station
+        tobs_dict["prcp"] = measurementclass.tobs
+        tobs_dict["date"] = measurementclass.date
+        all_tobs.append(passenger_dict)
+    return jsonify(all_tobs)
 
 if __name__ == '__main__':
     app.run(debug=True)
