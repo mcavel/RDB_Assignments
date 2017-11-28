@@ -1,0 +1,53 @@
+.form-group {
+  display: inline-block;
+  margin-top: 50px;
+}
+
+#header {
+font-size: 50px;
+background-color:lightgrey;
+
+border-width: 2px;
+border: solid;
+border-color: black;
+box-shadow: 10px 10px;
+}
+
+.table{
+align-self: center;
+text-align: center;
+
+}
+
+.container{
+width: 80%;
+margin-top: 3%;
+}
+
+.cell{
+border: solid;
+border-width: 1px;
+}
+
+#graph_a{
+
+}
+#graph_b{
+  
+}
+#graph_c{
+  
+}
+
+#linkheader {
+  background-color: purples;
+  font-weight: bold;
+}
+
+
+.sampleheader{
+  background:skyblue;
+  background-color: skyblue;
+}
+
+.border {border-style: solid;border-width: 2px;}
