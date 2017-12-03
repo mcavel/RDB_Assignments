@@ -29,15 +29,6 @@ border: solid;
 border-width: 1px;
 }
 
-#graph_a{
-
-}
-#graph_b{
-  
-}
-#graph_c{
-  
-}
 
 #linkheader {
   background-color: purples;
@@ -51,3 +42,15 @@ border-width: 1px;
 }
 
 .border {border-style: solid;border-width: 2px;}
+
+.metacell{
+  border: solid;
+  border-width: 1px;
+  text-align: left;
+  }
+
+  .metacellh{
+    border: solid;
+    border-width: 1px;
+    border-radius: 25px;
+    }

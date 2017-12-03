@@ -24,35 +24,17 @@
       </div>
     </div>
 
+<div class="row"></div>
     <div class="row">
-        <div class="col-md-2 cell linkheader">
-        <div id="linkheader">JSON Links</div></div>
-      <div class="col-md-2 cell">
-       <a href="/names">Names</a>
-      </div>
-      <div class="col-md-2 cell">
-        <a href="/otu">OTU</a>
-       </div>
-       <div class="col-md-2 cell">
-        <a href="/metadata/940">Metadata Sample</a>
-       </div>
-       <div class="col-md-2 cell">
-        <a href="/wfreq/BB_940">Wfreq Sample</a>
-       </div>
-       <div class="col-md-2 cell">
-        <a href="/samples/BB_940">Sample</a>
-       </div>
-</div>
-    <div class="row">
-        <div class="col-md-9 cell" id="graph_a">
+        <div class="col-md-9">
             <div class="row">
 
-                    <div class="col-md-3 cell" id="graph_b">
-                          <div class="row border"> <select id='selDataset' onchange="optionChanged(this.value)"></select></div>
-                           <div class="row id sampleheader border">Sample Metadata</div>
-                            <div class="row border">Sample Data Here</div></div>
+                    <div class="col-md-3 metacellh">
+                          <div class="row"> <select id='selDataset' onchange="optionChanged(this.value)"></select></div>
+                           <div class="row sampleheader">Sample Metadata</div>
+                            <div class="row"><div id="sampleprofile">></div></div></div>
 
-                        <div class="col-md-5 cell"><div id='PieChart'></div></div>
+                        <div class="col-md-5"><div id='PieChart'></div></div>
 
 
 
@@ -60,7 +42,7 @@
         </div>
         
     </div>
-    <div class="col-md-3 cell" id="graph_b">
+    <div class="col-md-3">
        Bonus
     </div>
     </div>
@@ -68,10 +50,33 @@
 
 
     <div class="row">
-        <div class="col-md-12 cell border" id="graph_c">
-            <div id="scatter"></div>
+        <div class="col-md-12" id="graph_c">
+            TEST <div id="scatter"></div>
         </div>
     </div>
+
+
+
+    <div class="row">
+      <div class="col-md-2 cell linkheader">
+      <div id="linkheader">JSON Links</div></div>
+    <div class="col-md-2 cell">
+     <a href="/names">Names</a>
+    </div>
+    <div class="col-md-2 cell">
+      <a href="/otu">OTU</a>
+     </div>
+     <div class="col-md-2 cell">
+      <a href="/metadata/940">Metadata Sample</a>
+     </div>
+     <div class="col-md-2 cell">
+      <a href="/wfreq/BB_940">Wfreq Sample</a>
+     </div>
+     <div class="col-md-2 cell">
+      <a href="/samples/BB_940">Sample</a>
+     </div>
+</div>
+
 
 </div>
 </div>

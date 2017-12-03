@@ -112,7 +112,7 @@ def otucomboinfo(sample):
     sampleinfo = SamplesDataframe.loc[:,["otu_id",sample]].sort_values(sample,ascending=False)
 
     # use tolist to take to flatten dataset and combine it into an an array
-    combo=[{'Otu Ids':sampleinfo[sample].tolist()},{'sample_values':sampleinfo['otu_id'].tolist()}]
+    combo=[{'Otu Ids':sampleinfo[sample].tolist(),'sample_values':sampleinfo['otu_id'].tolist()}]
     
     return jsonify(combo)
 
