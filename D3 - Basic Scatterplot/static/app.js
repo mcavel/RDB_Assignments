@@ -72,8 +72,10 @@ d3.csv("census_data.csv", function(err, censusdata) {
       .attr("cy", function(data, index) {
         return yLinearScale(data.skippedvisits);
       })
-      .attr("r", "10")
-      .attr("fill", "blue")
+      .attr("r", "12")
+      .style("opacity", ".8")
+      .attr("fill", "grey")
+      .style("stroke-width", ".2")
       .on("click", function(data) {
         toolTip.show(data);
       })
@@ -102,6 +104,20 @@ d3.csv("census_data.csv", function(err, censusdata) {
     .attr("transform", "translate(" + (width / 2) + " ," + (height + margin.top + 30) + ")")
     .attr("class", "axisText")
     .text("Uninsured %");
-});
+
+  // chart.append("text").text(function(data){
+  //     return chart.abbrv;
+  //   })
+  //   .attr("x", xLinearScale)
+  //   .attr("y", yLinearScale)
+  //   .attr({
+  //     "text-anchor": "middle",
+  //     "font-size": 9,
+  //     "font-weight":"bold",
+  //     "fill":"white"
+  //   });
+    
+    });
+
 
 
